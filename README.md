@@ -1,4 +1,4 @@
-# Dynamic Programming (46)
+# Dynamic Programming (47)
 
 1. Climbing Stairs [[leetcode](https://leetcode.com/problems/climbing-stairs/description/)] [[code360](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)] [[gfg](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/climbing-stairs)]
     1. Min Cost Climbing Stairs [[leetcode](https://leetcode.com/problems/min-cost-climbing-stairs/description/)] [[gfg](https://www.geeksforgeeks.org/problems/min-cost-climbing-stairs/1)] ⭐️
@@ -6,6 +6,7 @@
 3. Frog jump with K distances [[gfg](https://www.geeksforgeeks.org/problems/minimal-cost/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/frog-jump-with-k-distances)]
 4. Maximum sum of non adjacent elements [[code360](https://www.naukri.com/code360/problems/maximum-sum-of-non-adjacent-elements_843261)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/maximum-sum-of-non-adjacent-elements)]
     1. House Robber 1 [[leetcode](https://leetcode.com/problems/house-robber/description/)] [[code360](https://www.naukri.com/code360/problems/loot-houses_630510)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-money2855/0)]
+    2. Paint House [[leetcode](https://leetcode.com/problems/paint-house/description/)] [[code360](https://www.naukri.com/code360/problems/paint-house_1460385)] [[gfg](https://www.geeksforgeeks.org/problems/distinct-coloring--170645/1)] ⭐️
 5. House Robber 2 [[leetcode](https://leetcode.com/problems/house-robber-ii/description/)] [[code360](https://www.naukri.com/code360/problems/house-robber_839733)] [[gfg](https://www.geeksforgeeks.org/problems/house-robber-ii/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/house-robber)] ⭐️
 6. Ninja's training [[code360](https://www.naukri.com/code360/problems/ninja-s-training_3621003)] [[gfg](https://www.geeksforgeeks.org/problems/geeks-training/0)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/2d-dp/ninja's-training)] ⭐️
 7. Unique Paths [[leetcode](https://leetcode.com/problems/unique-paths/description/)] [[code360](https://www.naukri.com/code360/problems/total-unique-paths_1081470)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-paths0926/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/dp-on-grids/grid-unique-paths)]
