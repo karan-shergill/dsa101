@@ -1,3 +1,10 @@
+# Binary Tree (4)
+
+1. Preorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/preorder-traversal_2035934)] [[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/preorder-traversal)]
+2. Inorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/inorder-traversal_3839605)] [[gfg](https://www.geeksforgeeks.org/problems/inorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/inorder-traversal)]
+3. Postorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/postorder-traversal_3839614)] [[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/postorder-traversal)]
+4. Level Order Traversal [[leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/level-order-traversal_796002)] [[gfg](https://www.geeksforgeeks.org/problems/level-order-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/level-order-traversal)]
+
 # Dynamic Programming (47)
 
 1. Climbing Stairs [[leetcode](https://leetcode.com/problems/climbing-stairs/description/)] [[code360](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)] [[gfg](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/climbing-stairs)]
