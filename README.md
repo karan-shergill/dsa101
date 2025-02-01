@@ -10,6 +10,15 @@
     1. Maximum path sum [[leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)] [[code360](https://www.naukri.com/code360/problems/binary-tree-maximum-path-sum_1280142)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/medium-problems/maximum-path-sum-)] ⭐️
 7. Check Identical Trees [[leetcode](https://leetcode.com/problems/same-tree/description/)] [[code360](https://www.naukri.com/code360/problems/identical-trees_799364)] [[gfg](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/medium-problems/check-if-two-trees-are-identical-or-not)]
     1. Check for symmetrical Binary Tree [[leetcode](https://leetcode.com/problems/symmetric-tree/description/)] [[code360](https://www.naukri.com/code360/problems/tree-symmetricity_630426)] [[gfg](https://www.geeksforgeeks.org/problems/symmetric-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/medium-problems/check-for-symmetrical-bts)]
+  
+# Heap(6)
+
+1. Heapify Algorithm [[gfg](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/heapify-algorithm)] ⭐️
+2. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/build-heap-from-a-given-array)] ⭐️
+3. Implement Min Heap [[code360](https://www.naukri.com/code360/problems/min-heap-implementation_5480527)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/implement-min-heap)] ⭐️
+4. Implement Max Heap [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/implement-max-heap)] ⭐️
+5. Check if an array represents a min heap [[gfg](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/check-if-an-array-represents-a-min-heap-)]
+6. Convert Min Heap to Max Heap [[code360](https://www.naukri.com/code360/problems/convert-min-heap-to-max-heap_630293)] [[gfg](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/convert-min-heap-to-max-heap)]
 
 # Dynamic Programming (47)
 
