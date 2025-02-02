@@ -18,7 +18,7 @@
     3. Left View of Binary Tree [[code360](https://www.naukri.com/code360/problems/left-view-of-binary-tree_625707)] [[gfg](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/right-left-view-of-bt)]
     4. Right View of Binary Tree [[leetcode](https://leetcode.com/problems/binary-tree-right-side-view/description/)] [[code360](https://www.naukri.com/code360/problems/right-view_764605)] [[gfg](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/right-left-view-of-bt)]
   
-# Heap(6)
+# Heap(9)
 
 1. Heapify Algorithm [[gfg](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/heapify-algorithm)] ⭐️
 2. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/build-heap-from-a-given-array)] ⭐️
@@ -26,6 +26,9 @@
 4. Implement Max Heap [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/implement-max-heap)] ⭐️
 5. Check if an array represents a min heap [[gfg](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/check-if-an-array-represents-a-min-heap-)]
 6. Convert Min Heap to Max Heap [[code360](https://www.naukri.com/code360/problems/convert-min-heap-to-max-heap_630293)] [[gfg](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/convert-min-heap-to-max-heap)]
+7. Heap Sort [[code360](https://www.naukri.com/code360/problems/heap-sort_1262153)] [[gfg](https://www.geeksforgeeks.org/problems/heap-sort/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/heap-sort)] ⭐️
+8. Kth Largest element in an array [[leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)] [[code360](https://www.naukri.com/code360/problems/kth-largest-element-in-the-unsorted-array_893030)] [[gfg](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/k-th-largest-element-in-an-array)]
+    1. Kth Smallest element in an array [[code360](https://www.naukri.com/code360/problems/kth-smallest-and-largest-element-of-array_1115488)] [[gfg](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)]
 
 # Dynamic Programming (47)
 
