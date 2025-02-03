@@ -1,4 +1,4 @@
-# Binary Tree(17)
+# Binary Tree(19)
 
 1. Preorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/preorder-traversal_2035934)] [[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/preorder-traversal)]
 2. Inorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/inorder-traversal_3839605)] [[gfg](https://www.geeksforgeeks.org/problems/inorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/inorder-traversal)] (Iterative ⭐️)
@@ -17,8 +17,10 @@
     2. Bottom View of Binary Tree [[code360](https://www.naukri.com/code360/problems/bottom-view-of-binary-tree_893110)] [[gfg](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/bottom-view-of-bt)]
     3. Left View of Binary Tree [[code360](https://www.naukri.com/code360/problems/left-view-of-binary-tree_625707)] [[gfg](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/right-left-view-of-bt)]
     4. Right View of Binary Tree [[leetcode](https://leetcode.com/problems/binary-tree-right-side-view/description/)] [[code360](https://www.naukri.com/code360/problems/right-view_764605)] [[gfg](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/right-left-view-of-bt)]
+11. All Root to Leaf Paths [[leetcode](https://leetcode.com/problems/binary-tree-paths/description/)] [[code360](https://www.naukri.com/code360/problems/all-root-to-leaf-paths-in-binary-tree_983599)] [[gfg](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/print-root-to-note-path-in-bt)] ⭐️
+    1. Path to Given Node [[code360](https://www.naukri.com/code360/problems/path-in-a-tree_3843990?leftPanelTabValue=PROBLEM)] [[interviewbit](https://www.interviewbit.com/problems/path-to-given-node/)]
   
-# Heap(9)
+# Heap(10)
 
 1. Heapify Algorithm [[gfg](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/heapify-algorithm)] ⭐️
 2. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/build-heap-from-a-given-array)] ⭐️
@@ -29,6 +31,7 @@
 7. Heap Sort [[code360](https://www.naukri.com/code360/problems/heap-sort_1262153)] [[gfg](https://www.geeksforgeeks.org/problems/heap-sort/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/heap-sort)] ⭐️
 8. Kth Largest element in an array [[leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)] [[code360](https://www.naukri.com/code360/problems/kth-largest-element-in-the-unsorted-array_893030)] [[gfg](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/k-th-largest-element-in-an-array)]
     1. Kth Smallest element in an array [[code360](https://www.naukri.com/code360/problems/kth-smallest-and-largest-element-of-array_1115488)] [[gfg](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)]
+9. K Closest Points to Origin [[leetcode](https://leetcode.com/problems/k-closest-points-to-origin/description/)] [[code360](https://www.naukri.com/code360/problems/k-closest-points-to-origin_1094908)] ⭐️
 
 # Dynamic Programming (47)
 
