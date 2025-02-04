@@ -1,4 +1,4 @@
-# Binary Tree(19)
+# Binary Tree(20)
 
 1. Preorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/preorder-traversal_2035934)] [[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/preorder-traversal)]
 2. Inorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/inorder-traversal_3839605)] [[gfg](https://www.geeksforgeeks.org/problems/inorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/inorder-traversal)] (Iterative ⭐️)
@@ -19,8 +19,9 @@
     4. Right View of Binary Tree [[leetcode](https://leetcode.com/problems/binary-tree-right-side-view/description/)] [[code360](https://www.naukri.com/code360/problems/right-view_764605)] [[gfg](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/right-left-view-of-bt)]
 11. All Root to Leaf Paths [[leetcode](https://leetcode.com/problems/binary-tree-paths/description/)] [[code360](https://www.naukri.com/code360/problems/all-root-to-leaf-paths-in-binary-tree_983599)] [[gfg](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/print-root-to-note-path-in-bt)] ⭐️
     1. Path to Given Node [[code360](https://www.naukri.com/code360/problems/path-in-a-tree_3843990?leftPanelTabValue=PROBLEM)] [[interviewbit](https://www.interviewbit.com/problems/path-to-given-node/)]
+12. Maximum Width of Binary Tree [[leetcode](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/maximum-width-of-bt)] ⭐️
   
-# Heap(10)
+# Heap(16)
 
 1. Heapify Algorithm [[gfg](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/heapify-algorithm)] ⭐️
 2. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/build-heap-from-a-given-array)] ⭐️
@@ -32,6 +33,12 @@
 8. Kth Largest element in an array [[leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)] [[code360](https://www.naukri.com/code360/problems/kth-largest-element-in-the-unsorted-array_893030)] [[gfg](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/k-th-largest-element-in-an-array)]
     1. Kth Smallest element in an array [[code360](https://www.naukri.com/code360/problems/kth-smallest-and-largest-element-of-array_1115488)] [[gfg](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)]
 9. K Closest Points to Origin [[leetcode](https://leetcode.com/problems/k-closest-points-to-origin/description/)] [[code360](https://www.naukri.com/code360/problems/k-closest-points-to-origin_1094908)] ⭐️
+10. Top K Frequent Elements [[leetcode](https://leetcode.com/problems/top-k-frequent-elements/description/)] [[code360](https://www.naukri.com/code360/problems/k-most-frequent-elements_3167808)] [[gfg](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1)]
+    1. Top K Frequent Words [[leetcode](https://leetcode.com/problems/top-k-frequent-words/description/)] [[code360](https://www.naukri.com/code360/problems/k-most-frequent-words_696192)] ⭐️
+    2. Sort Characters By Frequency [[leetcode](https://leetcode.com/problems/sort-characters-by-frequency/description/)] [[code360](https://www.naukri.com/code360/problems/sorting-characters-by-frequency_1263699)] ⭐️
+11. Kth Largest Element in a Stream [[leetcode](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)] [[code360](https://www.naukri.com/code360/problems/kthlargestnumber_800301)] [[gfg](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1)]
+12. Reorganize String [[leetcode](https://leetcode.com/problems/reorganize-string/description/)] [[code360](https://www.naukri.com/code360/problems/rearrange-string_982765)] [[gfg](https://www.geeksforgeeks.org/problems/rearrange-characters4649/1)] ⭐️
+    1. Rearrange String k Distance Apart [[leetcode](https://www.lintcode.com/problem/907/)] [[code360](https://www.naukri.com/code360/problems/ninja-favourite-string_1460386)] ⭐️
 
 # Dynamic Programming (47)
 
