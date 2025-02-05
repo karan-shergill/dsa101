@@ -1,4 +1,4 @@
-# Binary Tree(20)
+# Binary Tree(22)
 
 1. Preorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/preorder-traversal_2035934)] [[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/preorder-traversal)]
 2. Inorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/inorder-traversal_3839605)] [[gfg](https://www.geeksforgeeks.org/problems/inorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/inorder-traversal)] (Iterative ⭐️)
@@ -20,6 +20,8 @@
 11. All Root to Leaf Paths [[leetcode](https://leetcode.com/problems/binary-tree-paths/description/)] [[code360](https://www.naukri.com/code360/problems/all-root-to-leaf-paths-in-binary-tree_983599)] [[gfg](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/print-root-to-note-path-in-bt)] ⭐️
     1. Path to Given Node [[code360](https://www.naukri.com/code360/problems/path-in-a-tree_3843990?leftPanelTabValue=PROBLEM)] [[interviewbit](https://www.interviewbit.com/problems/path-to-given-node/)]
 12. Maximum Width of Binary Tree [[leetcode](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/maximum-width-of-bt)] ⭐️
+13. All Nodes Distance K [[leetcode](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/print-nodes-at-distance-k-from-a-given-node_842560)] [[gfg](https://www.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/print-all-nodes-at-a-distance-of-k-in-bt)] ⭐️
+    1. Amount of Time for Binary Tree to Be Burn [[leetcode](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/)] [[code360](https://www.naukri.com/code360/problems/time-to-burn-tree_630563)] [[gfg](https://www.geeksforgeeks.org/problems/burning-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/faqs/minimum-time-taken-to-burn-the-bt-from-a-given-node)] ⭐️
   
 # Heap(16)
 
