@@ -27,12 +27,14 @@
     1. Construct BT from Inorder & Postorder Traversal [[leetcode](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/construct-binary-tree-from-inorder-and-postorder-traversal_1266106)] [[gfg](https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/construction-problems/construct-a-bt-from-postorder-and-inorder)]
 16. Serialize and Deserialize Binary Tree [[leetcode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/serialise-deserialise-a-binary-tree_920328)] [[gfg](https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/construction-problems/serialize-and-de-serialize-bt)] ⭐️
 
-# Binary Search Tree (4)
+# Binary Search Tree (6)
 
 1. Search in BST [[leetcode](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-bst_1402878)] [[gfg](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/theory-and-basics/search-in-bst)]
 2. Floor and Ceil in a BST [[code360](https://www.naukri.com/code360/problems/ceil-from-bst_920464)] [[gfg](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/theory-and-basics/floor-and-ceil-in-a-bst)]
 3. Insert a given node in BST [[leetcode](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/insert-into-a-binary-search-tree_1279913)] [[gfg](https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/medium/insert-a-given-node-in-bst)]
 4. Delete a node in BST [[leetcode](https://leetcode.com/problems/delete-node-in-a-bst/description/)] [[code360](https://www.naukri.com/code360/problems/delete-node-in-bst_920381)] [[gfg](https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/medium/delete-a-node-in-bst)] ⭐️
+5. Kth Smallest and Largest element in BST [[leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)] [[code360](https://www.naukri.com/code360/problems/find-k-th-smallest-element-in-bst_1069333)] [[gfg](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/medium/kth-smallest-and-largest-element-in-bst)] ⭐️
+6. Check if a tree is a BST or not [[leetcode](https://leetcode.com/problems/validate-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/validate-bst_981275)] [[gfg](https://www.geeksforgeeks.org/problems/check-for-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/medium/check-if-a-tree-is-a-bst-or-not)]
   
 # Heap(18)
 
