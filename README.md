@@ -1,3 +1,12 @@
+# Binary Search (6)
+
+1. Binary Search (Iterative & recursive) [[leetcode](https://leetcode.com/problems/binary-search/description/)] [[code360](https://www.naukri.com/code360/problems/binary-search_972)] [[gfg](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/search-x-in-sorted-array)]
+2. Lower Bound [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/lower-bound-)]
+3. Upper Bound [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/upper-bound)]
+4. Search insert position [[leetcode](https://leetcode.com/problems/search-insert-position/description/)] [[code360](https://www.naukri.com/code360/problems/algorithm-to-find-best-insert-position-in-sorted-array_839813)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/logic-building/search-insert-position)]
+5. Floor and Ceil in Sorted Array [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)] [[gfg](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/logic-building/floor-and-ceil-in-sorted-array)]
+6. First and last occurrence [[leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/first-and-last-position-of-an-element-in-sorted-array_1082549)] [[gfg](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/logic-building/first-and-last-occurrence)]
+
 # Binary Tree(37)
 
 1. Preorder Traversal (Recursive | Iterative | Morris ⭐️) [[leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/preorder-traversal_2035934)] [[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/preorder-traversal)]
