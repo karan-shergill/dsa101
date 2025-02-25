@@ -1,4 +1,4 @@
-# Binary Search (16)
+# Binary Search (19)
 
 1. Binary Search (Iterative & recursive) [[leetcode](https://leetcode.com/problems/binary-search/description/)] [[code360](https://www.naukri.com/code360/problems/binary-search_972)] [[gfg](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/search-x-in-sorted-array)]
 2. Lower Bound [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/lower-bound-)]
@@ -11,12 +11,16 @@
 9. Find Minimum in Rotated Sorted Array [[leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/rotated-array_1093219)] [[gfg](https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/logic-building/find-minimum-in-rotated-sorted-array)] ⭐️
     1. Find out how many times the array is rotated [[gfg](https://www.geeksforgeeks.org/problems/rotation4723/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/logic-building/find-out-how-many-times-the-array-is-rotated)]
 10. Single Element in a Sorted Array [[leetcode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/unique-element-in-sorted-array_1112654)] [[gfg](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/logic-building/single-element-in-sorted-array)] ⭐️
-11. [Binary Search on Answer](https://youtu.be/IZP_8-JZqhM?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
+11. Find Peak Element [[leetcode](https://leetcode.com/problems/find-peak-element/description/)] [[code360](https://www.naukri.com/code360/problems/find-peak-element_1081482)] [[gfg](https://www.geeksforgeeks.org/problems/peak-element/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/faqs/find-peak-element)] ⭐️
+12. [Binary Search on Answer](https://youtu.be/IZP_8-JZqhM?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
     1. Square Root of a number [[leetcode](https://leetcode.com/problems/sqrtx/description/)] [[code360](https://www.naukri.com/code360/problems/square-root-integral_893351)] [[gfg](https://www.geeksforgeeks.org/problems/square-root/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/on-answers/find-square-root-of-a-number)]
     2. Find Nth Root Of M [[code360](https://www.naukri.com/code360/problems/nth-root-of-m_1062679)] [[gfg](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/on-answers/find-nth-root-of-a-number)]
     3. Find the Smallest Divisor Given a Threshold [[leetcode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)] [[code360](https://www.naukri.com/code360/problems/smallest-divisor-with-the-given-limit_1755882)] [[gfg](https://www.geeksforgeeks.org/problems/smallest-divisor/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/on-answers/find-the-smallest-divisor)]
     4. Koko Eating Bananas [[leetcode](https://leetcode.com/problems/koko-eating-bananas/description/)] [[code360](https://www.naukri.com/code360/problems/koko-eating-bananas_10870969)] [[gfg](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/on-answers/koko-eating-bananas)] ⭐️
     5. Minimum Number of Days to Make m Bouquets [[leetcode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)] [[code360](https://www.naukri.com/code360/problems/rose-garden_2248080)] [[gfg](https://www.geeksforgeeks.org/problems/minimum-days-to-make-m-bouquets/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/on-answers/minimum-days-to-make-m-bouquets)] ⭐️
+13. Binary Search on Answer - min_of(max) | max_of(min)
+    1. Aggressive Cows [[code360](https://www.naukri.com/code360/problems/aggressive-cows_1082559)] [[gfg](https://www.geeksforgeeks.org/problems/aggressive-cows/0)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/faqs/aggressive-cows)] ⭐️
+    2. Allocate Minimum Pages [[code360](https://www.naukri.com/code360/problems/allocate-books_1090540)] [[gfg](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/faqs/book-allocation-problem)] ⭐️
 
 # Binary Tree(37)
 
