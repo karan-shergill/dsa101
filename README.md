@@ -1,4 +1,4 @@
-# Binary Search (19)
+# Binary Search (21)
 
 1. Binary Search (Iterative & recursive) [[leetcode](https://leetcode.com/problems/binary-search/description/)] [[code360](https://www.naukri.com/code360/problems/binary-search_972)] [[gfg](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/search-x-in-sorted-array)]
 2. Lower Bound [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/lower-bound-)]
@@ -21,6 +21,8 @@
 13. Binary Search on Answer - min_of(max) | max_of(min)
     1. Aggressive Cows [[code360](https://www.naukri.com/code360/problems/aggressive-cows_1082559)] [[gfg](https://www.geeksforgeeks.org/problems/aggressive-cows/0)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/faqs/aggressive-cows)] ⭐️
     2. Allocate Minimum Pages [[code360](https://www.naukri.com/code360/problems/allocate-books_1090540)] [[gfg](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/faqs/book-allocation-problem)] ⭐️
+14. Median of Two Sorted Arrays [[leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)] [[code360](https://www.naukri.com/code360/problems/median-of-two-sorted-arrays_985294)] [[gfg](https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1)] ⭐️
+    1. K-th Element of Two Sorted Arrays [[code360](https://www.naukri.com/code360/problems/k-th-element-of-2-sorted-array_1164159)] [[gfg](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)] ⭐️
 
 # Binary Tree(37)
 
