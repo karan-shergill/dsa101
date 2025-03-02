@@ -1,4 +1,4 @@
-# Binary Search (26)
+# Binary Search (30)
 
 1. Binary Search (Iterative & recursive) [[leetcode](https://leetcode.com/problems/binary-search/description/)] [[code360](https://www.naukri.com/code360/problems/binary-search_972)] [[gfg](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/search-x-in-sorted-array)]
 2. Lower Bound [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/lower-bound-)]
@@ -13,6 +13,7 @@
     1. Find out how many times the array is rotated [[gfg](https://www.geeksforgeeks.org/problems/rotation4723/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/logic-building/find-out-how-many-times-the-array-is-rotated)]
 10. Single Element in a Sorted Array [[leetcode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/unique-element-in-sorted-array_1112654)] [[gfg](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/logic-building/single-element-in-sorted-array)] ⭐️
 11. Find Peak Element [[leetcode](https://leetcode.com/problems/find-peak-element/description/)] [[code360](https://www.naukri.com/code360/problems/find-peak-element_1081482)] [[gfg](https://www.geeksforgeeks.org/problems/peak-element/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/faqs/find-peak-element)] ⭐️
+    1. Find a Peak Element II [[leetcode](https://leetcode.com/problems/find-a-peak-element-ii/description/)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/find-peak-element-ii)] ⭐️
 12. [Binary Search on Answer](https://youtu.be/IZP_8-JZqhM?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) min_of(max) | max_of(min) [[link1](https://leetcode.com/discuss/study-guide/3444552/binary-search-on-answer-template-generic-template)] [[link2](https://leetcode.com/discuss/study-guide/3816970/List-on%3A-Binary-Search-On-Answer-(5step-solution))]
     1. Square Root of a number [[leetcode](https://leetcode.com/problems/sqrtx/description/)] [[code360](https://www.naukri.com/code360/problems/square-root-integral_893351)] [[gfg](https://www.geeksforgeeks.org/problems/square-root/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/on-answers/find-square-root-of-a-number)]
     2. Find Nth Root Of M [[code360](https://www.naukri.com/code360/problems/nth-root-of-m_1062679)] [[gfg](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/on-answers/find-nth-root-of-a-number)]
@@ -27,6 +28,9 @@
         3. Capacity To Ship Packages Within D Days [[leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)] [[code360](https://www.naukri.com/code360/problems/capacity-to-ship-packages-within-d-days_1229379)] [[gfg](https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1)] ⭐️
 13. Median of Two Sorted Arrays [[leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)] [[code360](https://www.naukri.com/code360/problems/median-of-two-sorted-arrays_985294)] [[gfg](https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1)] ⭐️
     1. K-th Element of Two Sorted Arrays [[code360](https://www.naukri.com/code360/problems/k-th-element-of-2-sorted-array_1164159)] [[gfg](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)] ⭐️
+14. Row with max 1s [[code360](https://www.naukri.com/code360/problems/row-of-a-matrix-with-maximum-ones_982768)] [[gfg](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/find-row-with-maximum-1's)]
+15. Search a 2D Matrix [[leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix_980531)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/search-in-a-2d-matrix)] ⭐️
+16. Search a 2D Matrix II [[leetcode](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix-ii_1089637)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/search-in-2d-matrix-ii)] ⭐️
 
 # Binary Tree(37)
 
