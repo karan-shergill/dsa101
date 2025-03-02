@@ -1,4 +1,6 @@
-# Binary Search (30)
+# DSA-101
+
+## Binary Search (30)
 
 1. Binary Search (Iterative & recursive) [[leetcode](https://leetcode.com/problems/binary-search/description/)] [[code360](https://www.naukri.com/code360/problems/binary-search_972)] [[gfg](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/search-x-in-sorted-array)]
 2. Lower Bound [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/lower-bound-)]
@@ -32,7 +34,7 @@
 15. Search a 2D Matrix [[leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix_980531)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/search-in-a-2d-matrix)] ⭐️
 16. Search a 2D Matrix II [[leetcode](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix-ii_1089637)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/search-in-2d-matrix-ii)] ⭐️
 
-# Binary Tree(37)
+## Binary Tree(37)
 
 1. Preorder Traversal (Recursive | Iterative | Morris ⭐️) [[leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/preorder-traversal_2035934)] [[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/preorder-traversal)]
 2. Inorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/inorder-traversal_3839605)] [[gfg](https://www.geeksforgeeks.org/problems/inorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/inorder-traversal)] (Recursive | Iterative ⭐️ | Morris ⭐️)
@@ -72,7 +74,7 @@
 22. Maximum Path Sum [[leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)] [[code360](https://www.naukri.com/code360/problems/binary-tree-maximum-path-sum_1280142)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1)] ⭐️
 23. Flatten Binary Tree to Linked List [[leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)]
 
-# Binary Search Tree (14)
+## Binary Search Tree (14)
 
 1. Search in BST [[leetcode](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-bst_1402878)] [[gfg](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/theory-and-basics/search-in-bst)]
 2. Floor and Ceil in a BST [[code360](https://www.naukri.com/code360/problems/ceil-from-bst_920464)] [[gfg](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/theory-and-basics/floor-and-ceil-in-a-bst)]
@@ -89,7 +91,7 @@
 12. Recover BST with two nodes swapped [[leetcode](https://leetcode.com/problems/recover-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/fix-bst_873137)] [[gfg](https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/faqs/correct-bst-with-two-nodes-swapped)] ⭐️
 13. Largest BST in Binary Tree [[leetcode](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/largest-bst-subtree_893103)] [[gfg](https://www.geeksforgeeks.org/problems/largest-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/faqs/largest-bst-in-binary-tree)] ⭐️
   
-# Heap(18)
+## Heap(18)
 
 1. Heapify Algorithm [[gfg](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/heapify-algorithm)] ⭐️
 2. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/build-heap-from-a-given-array)] ⭐️
@@ -110,7 +112,7 @@
 13. Nearly Sorted Array [[code360](https://www.naukri.com/code360/problems/nearly-sorted_982937)] [[gfg](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1)]
 14. Find K Closest Elements [[leetcode](https://leetcode.com/problems/find-k-closest-elements/description/)] [[code360](https://www.naukri.com/code360/problems/find-k-closest-elements_1263702)] [[gfg](https://www.geeksforgeeks.org/problems/k-closest-elements3619/0)] ⭐️
 
-# Dynamic Programming (47)
+## Dynamic Programming (47)
 
 1. Climbing Stairs [[leetcode](https://leetcode.com/problems/climbing-stairs/description/)] [[code360](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)] [[gfg](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)] [[tuf](https://takeuforward.org/plus/data-structures-and-algorithm/dynamic-programming/1d-dp/climbing-stairs)]
     1. Min Cost Climbing Stairs [[leetcode](https://leetcode.com/problems/min-cost-climbing-stairs/description/)] [[gfg](https://www.geeksforgeeks.org/problems/min-cost-climbing-stairs/1)] ⭐️
