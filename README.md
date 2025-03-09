@@ -72,11 +72,11 @@
     1. Construct BT from Inorder & Postorder Traversal [[leetcode](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/construct-binary-tree-from-inorder-and-postorder-traversal_1266106)] [[gfg](https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/construction-problems/construct-a-bt-from-postorder-and-inorder)]
 21. Serialize and Deserialize Binary Tree [[leetcode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/serialise-deserialise-a-binary-tree_920328)] [[gfg](https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/construction-problems/serialize-and-de-serialize-bt)] ⭐️
 22. Maximum Path Sum [[leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)] [[code360](https://www.naukri.com/code360/problems/binary-tree-maximum-path-sum_1280142)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1)] ⭐️
-23. Flatten Binary Tree to Linked List [[leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)]
+23. Flatten Binary Tree to Linked List [[leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)] ⭐️
 
-## Binary Search Tree (14)
+## Binary Search Tree (15)
 
-1. Search in BST [[leetcode](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-bst_1402878)] [[gfg](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/theory-and-basics/search-in-bst)]
+1. Search in BST [[leetcode](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-bst_1402878)] [[gfg](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/theory-and-basics/search-in-bst)] - Recursive & Iterative
 2. Floor and Ceil in a BST [[code360](https://www.naukri.com/code360/problems/ceil-from-bst_920464)] [[gfg](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/theory-and-basics/floor-and-ceil-in-a-bst)]
 3. Insert a given node in BST [[leetcode](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/insert-into-a-binary-search-tree_1279913)] [[gfg](https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/medium/insert-a-given-node-in-bst)]
 4. Delete a node in BST [[leetcode](https://leetcode.com/problems/delete-node-in-a-bst/description/)] [[code360](https://www.naukri.com/code360/problems/delete-node-in-bst_920381)] [[gfg](https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/medium/delete-a-node-in-bst)] ⭐️
@@ -90,6 +90,7 @@
     1. Two sum in BST [[leetcode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)] [[code360](https://www.naukri.com/code360/problems/two-sum-in-a-bst_1062631)] [[gfg](https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/faqs/two-sum-in-bst)] ⭐️
 12. Recover BST with two nodes swapped [[leetcode](https://leetcode.com/problems/recover-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/fix-bst_873137)] [[gfg](https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/faqs/correct-bst-with-two-nodes-swapped)] ⭐️
 13. Largest BST in Binary Tree [[leetcode](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/largest-bst-subtree_893103)] [[gfg](https://www.geeksforgeeks.org/problems/largest-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/faqs/largest-bst-in-binary-tree)] ⭐️
+14. Convert Binary Search Tree to Sorted Doubly Linked List [[leetcode](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)] ⭐️
   
 ## Heap(18)
 
