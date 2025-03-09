@@ -1,5 +1,54 @@
 # DSA-101
 
+## Linked List (40)
+
+1. Basic operations
+    1. Array to Linked List [[gfg](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1)]
+    2. Count Linked List Nodes [[gfg](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0)]
+    3. Search in Linked List [[code360](https://www.naukri.com/code360/problems/search-in-a-linked-list_975381)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1)]
+    4. Delete Node in a Linked List [[leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)] [[code360](https://www.naukri.com/code360/problems/delete-node-in-a-linked-list_1105578)] [[gfg](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1)]
+    5. Array to Doubly Linked List [[code360](https://www.naukri.com/code360/problems/insertion-in-doubly-linked-list_4609682)] [[gfg](https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1)]
+    6. Doubly Linked List Insertion at Given Position [[gfg](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1)]
+    7. Delete Node in Doubly Linked List [[gfg](https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1)]
+2. Slow & Fast Pointer
+    1. Middle of the Linked List [[leetcode](https://leetcode.com/problems/middle-of-the-linked-list/description/)] [[code360](https://www.naukri.com/code360/problems/middle-of-linked-list_973250)] [[gfg](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)]
+    2. Delete the Middle Node of a Linked List [[leetcode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)] [[code360](https://www.naukri.com/code360/problems/delete-middle-node_763267)] [[gfg](https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1)]
+    3. Remove Nth Node From End of List [[leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)] [[code360](https://www.naukri.com/code360/problems/delete-kth-node-from-end-in-linked-list_799912)] [[gfg](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)]
+    4. Swapping Nodes in a Linked List [[leetcode](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)] [[code360](https://www.naukri.com/code360/problems/swapping-nodes_2425460)]
+    5. Detect Loop in Linked List [[leetcode](https://leetcode.com/problems/linked-list-cycle/description/)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-a-singly-linked-list_628974)] [[gfg](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)]
+    6. Find the First Node of Loop in Linked List [[leetcode](https://leetcode.com/problems/linked-list-cycle-ii/description/)] [[code360](https://www.naukri.com/code360/problems/detect-the-first-node-of-the-loop_1112628)] [[gfg](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1)]
+    7. Find Length of Loop [[gfg](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)]
+3. Reversal and Manipulation
+    1. Reverse Linked List [[leetcode](https://leetcode.com/problems/reverse-linked-list/description/)] [[code360](https://www.naukri.com/code360/problems/reverse-linked-list_920513)] [[gfg](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1)] ⭐️
+    2. Reverse a Doubly Linked List [[code360](https://www.naukri.com/code360/problems/reverse-a-doubly-linked-list_1116098)] [[gfg](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)] ⭐️
+    3. Reverse a Sublist of a Linked List [[leetcode](https://leetcode.com/problems/reverse-linked-list-ii/description/)] [[code360](https://www.naukri.com/code360/problems/reverse-a-sublist-of-linked-list_1092613)] [[gfg](https://www.geeksforgeeks.org/problems/reverse-a-sublist-of-a-linked-list/1)] ⭐️
+    4. Reverse Nodes in k-Group [[leetcode](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)] [[code360](https://www.naukri.com/code360/problems/reverse-list-in-k-groups_983644)] [[gfg](https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)] ⭐️
+4. Segregation and Rearrangement
+    1. Segregate Even and Odd Nodes in a Linked List [[code360](https://www.naukri.com/code360/problems/segregate-even-and-odd-nodes-in-a-linked-list_1116100)] [[gfg](https://www.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1)]
+    2. Odd Even Linked List [[leetcode](https://leetcode.com/problems/odd-even-linked-list/description/)] [[gfg](https://www.geeksforgeeks.org/problems/rearrange-a-linked-list/1)]
+    3. Pairwise Swap Elements of a Linked List [[leetcode](https://leetcode.com/problems/swap-nodes-in-pairs/description/)] [[code360](https://www.naukri.com/code360/problems/pair-swap_759396)] [[gfg](https://www.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)]
+    4. Sort a Linked List of 0s, 1s, and 2s [[code360](https://www.naukri.com/code360/problems/sort-linked-list-of-0s-1s-2s_1071937)] [[gfg](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)]
+    5. Partition a Linked List around a given value [[leetcode](https://leetcode.com/problems/partition-list/description/)] [[gfg](https://www.geeksforgeeks.org/problems/partition-a-linked-list-around-a-given-value/1)] ⭐️
+5. Merging and Sorting
+    1. Merge Two Sorted Linked Lists [[leetcode](https://leetcode.com/problems/merge-two-sorted-lists/description/)] [[code360](https://www.naukri.com/code360/problems/merge-two-sorted-linked-lists_800332)] [[gfg](https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1)]
+    2. Merge Sort for Linked List [[leetcode](https://leetcode.com/problems/sort-list/description/)] [[gfg](https://www.geeksforgeeks.org/problems/sort-a-linked-list/1)] ⭐️
+    3. Flattening a Linked List [[code360](https://www.naukri.com/code360/problems/flatten-a-linked-list_1112655)] [[gfg](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1)] ⭐️
+    4. Merge K Sorted Lists [[leetcode](https://leetcode.com/problems/merge-k-sorted-lists/description/)] [[code360](https://www.naukri.com/code360/problems/merge-k-sorted-lists_992772)] [[gfg](https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)] ⭐️
+6. Doubly Linked List Problems
+    1. Delete All Occurrences of a Given Key in a Doubly Linked List [[gfg](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1)]
+    2. Find Pairs with Given Sum in Doubly Linked List [[code360](https://www.naukri.com/code360/problems/find-pair-with-a-given-sum-in-a-doubly-linked-list_1164172)] [[gfg](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1)]
+    3. Remove Duplicates from a Sorted Doubly Linked List [[code360](https://www.naukri.com/code360/problems/unique-sorted-list_2420283)] [[gfg](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1)]
+7. Palindrome Linked List [[leetcode](https://leetcode.com/problems/palindrome-linked-list/description/)] [[code360](https://www.naukri.com/code360/problems/check-if-linked-list-is-palindrome_985248)] [[gfg](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1)]
+8. Reorder List [[leetcode](https://leetcode.com/problems/reorder-list/description/)] [[code360](https://www.naukri.com/code360/problems/rearrange-linked-list_764146)] [[gfg](https://www.geeksforgeeks.org/problems/reorder-list/1)]
+9. Intersection Point in Y-Shaped Linked Lists [[leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)] [[code360](https://www.naukri.com/code360/problems/intersection-of-linked-list_630457)] [[gfg](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)]
+10. Rotate List [[leetcode](https://leetcode.com/problems/rotate-list/description/)] [[code360](https://www.naukri.com/code360/problems/rotate-linked-list_920454)] [[gfg](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1)]
+11. Add 1 to a number represented as linked list [[leetcode](https://www.lintcode.com/problem/904/)] [[code360](https://www.naukri.com/code360/problems/add-one-to-linked-list_920557)] [[gfg](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)]
+12. Insert into a Sorted Circular Linked List [[leetcode](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/description/)] [[code360](https://www.naukri.com/code360/problems/insertion-in-circular-linked-list_4609562)] [[gfg](https://www.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1)] ⭐️
+13. Add Two Numbers [[leetcode](https://leetcode.com/problems/add-two-numbers/description/)] [[code360](https://www.naukri.com/code360/problems/add-two-linked-lists_799487)] [[gfg](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)] ⭐️
+14. Copy List with Random Pointer [[leetcode](https://leetcode.com/problems/copy-list-with-random-pointer/description/)] [[code360](https://www.naukri.com/code360/problems/clone-a-linked-list-with-random-pointers_983604)] [[gfg](https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)] ⭐️
+15. Flatten The Multi-Level Single Linked List [[code360](https://www.naukri.com/code360/problems/flatten-the-multi-level-linked-list_839810)] ⭐️
+16. Flatten a Multilevel Doubly Linked List [[leetcode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)] ⭐️
+
 ## Binary Search (30)
 
 1. Binary Search (Iterative & recursive) [[leetcode](https://leetcode.com/problems/binary-search/description/)] [[code360](https://www.naukri.com/code360/problems/binary-search_972)] [[gfg](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/fundamentals/search-x-in-sorted-array)]
