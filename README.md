@@ -1,4 +1,4 @@
-# DSA-101
+# dsa101
 
 ## Linked List (40)
 
@@ -65,7 +65,7 @@
 10. Single Element in a Sorted Array [[leetcode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/unique-element-in-sorted-array_1112654)] [[gfg](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/logic-building/single-element-in-sorted-array)] ⭐️
 11. Find Peak Element [[leetcode](https://leetcode.com/problems/find-peak-element/description/)] [[code360](https://www.naukri.com/code360/problems/find-peak-element_1081482)] [[gfg](https://www.geeksforgeeks.org/problems/peak-element/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/faqs/find-peak-element)] ⭐️
     1. Find a Peak Element II [[leetcode](https://leetcode.com/problems/find-a-peak-element-ii/description/)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/find-peak-element-ii)] ⭐️
-12. [Binary Search on Answer](https://youtu.be/IZP_8-JZqhM?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) min_of(max) | max_of(min) [[link1](https://leetcode.com/discuss/study-guide/3444552/binary-search-on-answer-template-generic-template)] [[link2](https://leetcode.com/discuss/study-guide/3816970/List-on%3A-Binary-Search-On-Answer-(5step-solution))]
+12. [Binary Search on Answer](https://youtu.be/IZP_8-JZqhM?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) min_of(max) | max_of(min) [[link1](https://leetcode.com/discuss/study-guide/3444552/binary-search-on-answer-template-generic-template)] [[link2](https://leetcode.com/discuss/study-guide/3816970/List-on%3A-Binary-Search-On-Answer-(5step-solution))]
     1. Square Root of a number [[leetcode](https://leetcode.com/problems/sqrtx/description/)] [[code360](https://www.naukri.com/code360/problems/square-root-integral_893351)] [[gfg](https://www.geeksforgeeks.org/problems/square-root/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/on-answers/find-square-root-of-a-number)]
     2. Find Nth Root Of M [[code360](https://www.naukri.com/code360/problems/nth-root-of-m_1062679)] [[gfg](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/on-answers/find-nth-root-of-a-number)]
     3. Find the Smallest Divisor Given a Threshold [[leetcode](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)] [[code360](https://www.naukri.com/code360/problems/smallest-divisor-with-the-given-limit_1755882)] [[gfg](https://www.geeksforgeeks.org/problems/smallest-divisor/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/on-answers/find-the-smallest-divisor)] ⭐️
@@ -82,6 +82,56 @@
 14. Row with max 1s [[code360](https://www.naukri.com/code360/problems/row-of-a-matrix-with-maximum-ones_982768)] [[gfg](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/find-row-with-maximum-1's)]
 15. Search a 2D Matrix [[leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix_980531)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/search-in-a-2d-matrix)] ⭐️
 16. Search a 2D Matrix II [[leetcode](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix-ii_1089637)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/search-in-2d-matrix-ii)] ⭐️
+
+## Sliding Window(44)
+
+1. Fixed Window Size (17)
+    1. Max Sum Subarray of size K [[code360](https://www.naukri.com/code360/problems/maximum-of-all-subarrays-of-size-k_1170789)] [[gfg](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)]
+    2. Maximum Sum of Distinct Subarrays With Length K [[leetcode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)]
+    3. First negative in every window of size K [[code360](https://www.naukri.com/code360/problems/first-negative-integer-in-every-window-of-size-k_1164406)] [[gfg](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)]
+    4. Count Occurences of Anagrams [[leetcode](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)] [[code360](https://www.naukri.com/code360/problems/find-all-anagrams_975387)] [[gfg](https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1)]
+    5. Duplicate within K Distance in an Array [[leetcode](https://leetcode.com/problems/contains-duplicate-ii/description/)] [[code360](https://www.naukri.com/code360/problems/check-duplicate_763405)] [[gfg](https://www.geeksforgeeks.org/problems/kth-distance3757/1)]
+    6. Permutation in String [[leetcode](https://leetcode.com/problems/permutation-in-string/description/)]
+    7. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold [[leetcode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/)]
+    8. Maximum Number of Vowels in a Substring of Given Length [[leetcode](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)]
+    9. Minimum Swaps to Group All 1's Together [[leetcode](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/description/)] [[code360](https://www.naukri.com/code360/problems/group-all-1-s-together_1171155)] [[gfg](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-group-all-1s-together2451/1)]
+    10. Minimum Swaps to Group All 1's Together In Circular Array [[leetcode](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/)] ⭐️
+    11. Grumpy Bookstore Owner [[leetcode](https://leetcode.com/problems/grumpy-bookstore-owner/description/)] ⭐️
+    12. Maximum Points From Cards [[leetcode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)] [[code360](https://www.naukri.com/code360/problems/maximum-points-from-cards_8391016)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-point-you-can-obtain-from-cards/0)] ⭐️
+    13. Sliding Window Maximum [[leetcode](https://leetcode.com/problems/sliding-window-maximum/description/)] [[code360](https://www.naukri.com/code360/problems/sliding-window-maximum_980226)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)] ⭐️
+    14. Repeated DNA Sequences [[leetcode](https://leetcode.com/problems/repeated-dna-sequences/description/)] [[code360](https://www.naukri.com/code360/problems/repeated-substrings_1387094)] ⭐️
+    15. Substring with Concatenation of All Words [[leetcode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)] ⭐️
+    16. Find the Power of K-Size Subarrays I [[leetcode](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/)] ⭐️
+    17. Alternating Groups II [[leetcode](https://leetcode.com/problems/alternating-groups-ii/description/)] ⭐️
+2. Variable Window Size (23)
+    1. Longest Subarray With Sum K - only +ve int [[code360](https://www.naukri.com/code360/problems/longest-subarray-with-sum-k_6682399)]
+    2. Longest Substring with At Most Two Distinct Characters [[leetcode](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/)] [[code360](https://www.naukri.com/code360/problems/longest-substring-with-at-most-two-distinct-characters_3125863)]
+    3. Longest Substring with K Uniques [[code360](https://www.naukri.com/code360/problems/longest-sub-string-with-k-distinct-characters_920521)] [[gfg](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)]
+    4. Longest Substring with At Most K Distinct Characters [[leetcode](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/)] [[code360](https://www.naukri.com/code360/problems/distinct-characters_2221410)]
+    5. Longest Substring Without Repeating Characters [[leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)] [[code360](https://www.naukri.com/code360/problems/longest-substring-without-repeating-characters_758894)] [[gfg](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1)]
+    6. Get Equal Substrings Within Budget [[leetcode](https://leetcode.com/problems/get-equal-substrings-within-budget/description/)]
+    7. Minimum Size Subarray Sum [[leetcode](https://leetcode.com/problems/minimum-size-subarray-sum/description/)] [[code360](https://www.naukri.com/code360/problems/minimum-subarray-with-required-sum_696460)] [[gfg](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)]
+    8. Max Consecutive Ones With Single Flip [[leetcode](https://leetcode.com/problems/max-consecutive-ones-ii/description/)]
+    9. Maximum Consecutive Ones With K Flip [[leetcode](https://leetcode.com/problems/max-consecutive-ones-iii/)] [[code360](https://www.naukri.com/code360/problems/maximum-consecutive-ones_3843993)] [[gfg](https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1)] ⭐️
+    10. Longest Subarray of 1's After Deleting One Element [[leetcode](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)]
+    11. Maximize the Confusion of an Exam [[leetcode](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/)]
+    12. Fruit Into Baskets [[leetcode](https://leetcode.com/problems/fruit-into-baskets/description/)] [[code360](https://www.naukri.com/code360/problems/fruits-and-baskets_985356)]
+    13. Minimum Consecutive Cards to Pick Up [[leetcode](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/description/)]
+    14. Length of Longest Subarray With at Most K Frequency [[leetcode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/)]
+    15. Count Subarrays Having Product Less Than K [[leetcode](https://leetcode.com/problems/subarray-product-less-than-k/description/)] [[code360](https://www.naukri.com/code360/problems/count-subarrays-having-product-less-than-k_1214643)] [[gfg](https://www.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1)]
+    16. Count Subarrays Where Max Element Appears at Least K Times [[leetcode](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/)] ⭐️
+    17. Minimum Window Substring [[leetcode](https://leetcode.com/problems/minimum-window-substring/description/)] [[code360](https://www.naukri.com/code360/problems/min-substring_1215004)] [[gfg](https://www.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1)] ⭐️
+    18. Longest Repeating Character Replacement [[leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/description/)] [[code360](https://www.naukri.com/code360/problems/longest-repeating-substring_980523)] [[gfg](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1)] ⭐️
+    19. Frequency of the Most Frequent Element [[leetcode](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)] ⭐️
+    20. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit [[leetcode](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/)] [[code360](https://www.naukri.com/code360/problems/longest-contiguous-subarray-with-absolute-diff-bounded-by-a-limit_977250)] [[gfg](https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1)] ⭐️
+    21. Continuous Subarrays [[leetcode](https://leetcode.com/problems/continuous-subarrays/description/)] **⭐️**
+    22. Take K of Each Character From Left and Right [[leetcode](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/)] ⭐️
+    23. Count Subarrays With Fixed Bounds [[leetcode](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/)] ⭐️
+3. Count subarray / substring (4)
+    1. Number of Substrings Containing All Three Characters [[leetcode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)] [[code360](https://www.naukri.com/code360/problems/count-substring-with-abc_8160465)] [[gfg](https://www.geeksforgeeks.org/problems/count-substring/1)] ⭐️
+    2. Count Subarrays with K Different Integers [[leetcode](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)] [[code360](https://www.naukri.com/code360/problems/subarrays-with-at-most-k-distinct-values_1473804)] [[gfg](https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1)] ⭐️
+    3. Count Binary Subarrays With Sum [[leetcode](https://leetcode.com/problems/binary-subarrays-with-sum/description/)] [[gfg](https://www.geeksforgeeks.org/problems/binary-subarray-with-sum/1)] ⭐️
+    4. Count Number of Nice Subarrays [[leetcode](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)] [[gfg](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1)] ⭐️
 
 ## Binary Tree(37)
 
@@ -140,7 +190,7 @@
 12. Recover BST with two nodes swapped [[leetcode](https://leetcode.com/problems/recover-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/fix-bst_873137)] [[gfg](https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/faqs/correct-bst-with-two-nodes-swapped)] ⭐️
 13. Largest BST in Binary Tree [[leetcode](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/largest-bst-subtree_893103)] [[gfg](https://www.geeksforgeeks.org/problems/largest-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/faqs/largest-bst-in-binary-tree)] ⭐️
 14. Convert Binary Search Tree to Sorted Doubly Linked List [[leetcode](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)] ⭐️
-  
+
 ## Heap(18)
 
 1. Heapify Algorithm [[gfg](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/heapify-algorithm)] ⭐️
@@ -192,7 +242,7 @@
     2. Target sum [[leetcode](https://leetcode.com/problems/target-sum/description/)] [[code360](https://www.naukri.com/code360/problems/target-sum_4127362)] [[gfg](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1)] [[tuf](https://takeuforward.org/plus/dsa/dynamic-programming/dp-on-subsequences/target-sum)] ⭐️
 14. 0 and 1 Knapsack [[code360](https://www.naukri.com/code360/problems/0-1-knapsack_920542)] [[gfg](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)] [[tuf](https://takeuforward.org/plus/dsa/dynamic-programming/dp-on-subsequences/0-and-1-knapsack)] ⭐️
 15. Coin Change (Minimum Coins) [[leetcode](https://leetcode.com/problems/coin-change/description/)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-coins1824/1)] [[tuf](https://takeuforward.org/plus/dsa/dynamic-programming/dp-on-subsequences/minimum-coins)] ⭐️
-    1. Coin change II  (Count Ways) [[leetcode](https://leetcode.com/problems/coin-change-ii/description/)] [[code360](https://www.naukri.com/code360/problems/ways-to-make-coin-change_630471)] [[gfg](https://www.geeksforgeeks.org/problems/coin-change2448/1)] [[tuf](https://takeuforward.org/plus/dsa/dynamic-programming/dp-on-subsequences/coin-change-ii)]
+    1. Coin change II (Count Ways) [[leetcode](https://leetcode.com/problems/coin-change-ii/description/)] [[code360](https://www.naukri.com/code360/problems/ways-to-make-coin-change_630471)] [[gfg](https://www.geeksforgeeks.org/problems/coin-change2448/1)] [[tuf](https://takeuforward.org/plus/dsa/dynamic-programming/dp-on-subsequences/coin-change-ii)]
 16. Unbounded knapsack [[code360](https://www.naukri.com/code360/problems/unbounded-knapsack_1215029)] [[gfg](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1)] [[tuf](https://takeuforward.org/plus/dsa/dynamic-programming/dp-on-subsequences/unbounded-knapsack)]
     1. Rod Cutting [[code360](https://www.naukri.com/code360/problems/rod-cutting-problem_800284)] [[gfg](https://www.geeksforgeeks.org/problems/rod-cutting0840/1)] [[tuf](https://takeuforward.org/plus/dsa/dynamic-programming/dp-on-subsequences/rod-cutting-problem)] ⭐️
 17. Longest Common Subsequence [[leetcode](https://leetcode.com/problems/longest-common-subsequence/description/)] [[code360](https://www.naukri.com/code360/problems/longest-common-subsequence_624879)] [[gfg](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1)] [[tuf](https://takeuforward.org/plus/dsa/dynamic-programming/dp-on-strings/longest-common-subsequence)] ⭐️
