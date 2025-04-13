@@ -133,6 +133,47 @@
     3. Count Binary Subarrays With Sum [[leetcode](https://leetcode.com/problems/binary-subarrays-with-sum/description/)] [[gfg](https://www.geeksforgeeks.org/problems/binary-subarray-with-sum/1)] ⭐️
     4. Count Number of Nice Subarrays [[leetcode](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)] [[gfg](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1)] ⭐️
 
+## Stack & Queue (35)
+
+1. Stack (16)
+    1. Implement stack using an array [[gfg](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)]
+    2. Implement Queue using Stacks [[gfg](https://www.geeksforgeeks.org/problems/queue-using-two-stacks/1)] [[leetcode](https://leetcode.com/problems/implement-queue-using-stacks/description/)]
+    3. Implement Stack using Linked List [[gfg](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)]
+    4. Valid Parentheses [[leetcode](https://leetcode.com/problems/valid-parentheses/description/)] [[code360](https://www.naukri.com/code360/problems/valid-parenthesis_795104)] [[gfg](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1)]
+    5. Remove All Adjacent Duplicates In String [[leetcode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)] [[gfg](https://www.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1)] ⭐️
+    6. Remove All Adjacent Duplicates in String II [[leetcode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/)]
+    7. Evaluate Reverse Polish Notation [[leetcode](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)] [[code360](https://www.naukri.com/code360/problems/evaluate-reverse-polish-notation_3189126)] [[gfg](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)]
+    8. Removing Stars From a String [[leetcode](https://leetcode.com/problems/removing-stars-from-a-string/description/)]
+    9. Minimum Remove to Make Valid Parentheses [[leetcode](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)] [[code360](https://www.naukri.com/code360/problems/print-valid-string_3164683)] ⭐️
+    10. Remove All Occurrences of a Substring [[leetcode](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)] ⭐️
+    11. Simplify the Directory Path [[leetcode](https://leetcode.com/problems/simplify-path/description/)] [[code360](https://www.naukri.com/code360/problems/simplify-the-directory_668400)] ⭐️
+    12. Decode String [[leetcode](https://leetcode.com/problems/decode-string/description/)] [[code360](https://www.naukri.com/code360/problems/decode-string_696319)] [[gfg](https://www.geeksforgeeks.org/problems/decode-the-string2444/1)] ⭐️
+    13. Remove Duplicate Letters Lexicographical Order [[leetcode](https://leetcode.com/problems/remove-duplicate-letters/description/)] ⭐️
+    14. Min Stack [[leetcode](https://leetcode.com/problems/min-stack/description/)] [[code360](https://www.naukri.com/code360/problems/min-stack_3843991)] [[gfg](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)] ⭐️
+    15. Basic Calculator [[leetcode](https://leetcode.com/problems/basic-calculator/description/)] ⭐️
+    16. Longest Valid Parentheses [[leetcode](https://leetcode.com/problems/longest-valid-parentheses/description/)] [[code360](https://www.naukri.com/code360/problems/longest-valid-parentheses_1089563)] [[gfg](https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/1)] ⭐️
+2. Queue (3)
+    1. Implement Queue using an array [[gfg](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1)]
+    2. Implement Stack using Queues [[gfg](https://www.geeksforgeeks.org/problems/stack-using-two-queues/1)] [[leetcode](https://leetcode.com/problems/implement-stack-using-queues/description/)]
+    3. Implement Queue using Linked List [[gfg](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1)]
+3. Monotonic Stack [[link](https://onecompiler.com/java/43e3f6ubt)] (16)
+    1. Next Greater Element [[leetcode](https://leetcode.com/problems/next-greater-element-i/description/)] [[code360](https://www.naukri.com/code360/problems/next-greater-element_670312)] [[gfg](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1)] ⭐️
+    2. Next Smaller Element [[code360](https://www.naukri.com/code360/problems/next-smaller-element_1112581)]
+    3. Next Greater Element 2 [[leetcode](https://leetcode.com/problems/next-greater-element-ii/description/)] [[code360](https://www.naukri.com/code360/problems/next-greater-element-ii_6212757)] ⭐️
+    4. Daily Temperatures [[leetcode](https://leetcode.com/problems/daily-temperatures/description/)]
+    5. Buildings With an Ocean View [[leetcode](https://leetcode.com/problems/buildings-with-an-ocean-view/description/)] (Prev Greater Element) ⭐️
+    6. Online Stock Span [[leetcode](https://leetcode.com/problems/online-stock-span/description/)] [[code360](https://www.naukri.com/code360/problems/stock-span_5243295)] [[gfg](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)]
+    7. Asteroid Collision [[leetcode](https://leetcode.com/problems/asteroid-collision/description/)] [[code360](https://www.naukri.com/code360/problems/asteroid-collision_977232)] [[gfg](https://www.geeksforgeeks.org/problems/asteroid-collision/1)] ⭐️
+    8. 132 Pattern [[leetcode](https://leetcode.com/problems/132-pattern/description/)] ⭐️
+    9. Remove K Digits [[leetcode](https://leetcode.com/problems/remove-k-digits/description/)] [[code360](https://www.naukri.com/code360/problems/remove-k-digits_1461221)] [[gfg](https://www.geeksforgeeks.org/problems/remove-k-digits/1)] ⭐️
+    10. Number of Visible People in a Queue [[leetcode](https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/)] [[code360](https://www.naukri.com/code360/problems/order-of-people-heights_1170764)] ⭐️
+    11. Largest Rectangle in Histogram [[leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)] [[code360](https://www.naukri.com/code360/problems/largest-rectangle-in-a-histogram_1058184)] ⭐️
+    12. Maximum Size Rectangle Sub-matrix With All 1's [[leetcode](https://leetcode.com/problems/maximal-rectangle/description/)] [[code360](https://www.naukri.com/code360/problems/maximum-size-rectangle-sub-matrix-with-all-1-s_893017)] [[gfg](https://www.geeksforgeeks.org/problems/max-rectangle/1)] ⭐️
+    13. The sum of the subarray minimum [[leetcode](https://leetcode.com/problems/sum-of-subarray-minimums/description/)] [[code360](https://www.naukri.com/code360/problems/find-minimum-sum-subarray-of-given-size_873368)] [[gfg](https://www.geeksforgeeks.org/problems/sum-of-subarray-minimum/1)] ⭐️
+    14. Sum of Subarray Ranges [[leetcode](https://leetcode.com/problems/sum-of-subarray-ranges/description/)] [[code360](https://www.naukri.com/code360/problems/subarray-range-sum_8365419)] 
+    15. Sliding Window Maximum [[leetcode](https://leetcode.com/problems/sliding-window-maximum/description/)] [[code360](https://www.naukri.com/code360/problems/sliding-window-maximum_980226)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)] ⭐️
+    16. Maximum Width Ramp [[leetcode](https://leetcode.com/problems/maximum-width-ramp/description/)] ⭐️
+
 ## Binary Tree(37)
 
 1. Preorder Traversal (Recursive | Iterative | Morris ⭐️) [[leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/preorder-traversal_2035934)] [[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-trees/theory-and-traversals/preorder-traversal)]
