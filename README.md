@@ -1,4 +1,13 @@
 # dsa101
+- [Linked List (40)](#linked-list-40)
+- [Binary Search (30)](#binary-search-30)
+- [Two Pointer(26)](#two-pointer26)
+- [Sliding Window(44)](#sliding-window44)
+- [Stack & Queue (35)](#stack--queue-35)
+- [Binary Tree(37)](#binary-tree37)
+- [Binary Search Tree (15)](#binary-search-tree-15)
+- [Heap(18)](#heap18)
+- [Dynamic Programming (47)](#dynamic-programming-47)
 
 ## Linked List (40)
 
@@ -82,6 +91,38 @@
 14. Row with max 1s [[code360](https://www.naukri.com/code360/problems/row-of-a-matrix-with-maximum-ones_982768)] [[gfg](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/find-row-with-maximum-1's)]
 15. Search a 2D Matrix [[leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix_980531)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/search-in-a-2d-matrix)] ⭐️
 16. Search a 2D Matrix II [[leetcode](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix-ii_1089637)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search/2d-arrays/search-in-2d-matrix-ii)] ⭐️
+
+## Two Pointer(26)
+
+1. Left/Right Pointer (12)
+    1. Valid Palindrome [[leetcode](https://leetcode.com/problems/valid-palindrome/description/)] [[gfg](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)] ⭐️
+    2. Two Sum II - Input Array Is Sorted [[leetcode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)] [[code360](https://www.naukri.com/code360/problems/two-sum_4244495)] [[gfg](https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1)]
+    3. Container With Most Water [[leetcode](https://leetcode.com/problems/container-with-most-water/description/)] [[code360](https://www.naukri.com/code360/problems/container-with-most-water_873860)] [[gfg](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1)]
+    4. 3Sum [[leetcode](https://leetcode.com/problems/3sum/description/)] [[code360](https://www.naukri.com/code360/problems/triplets-with-given-sum_893028)] [[gfg](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1)] ⭐️
+    5. 3Sum Closest [[leetcode](https://leetcode.com/problems/3sum-closest/description/)] [[code360](https://www.naukri.com/code360/problems/3-sum_873370)] [[gfg](https://www.geeksforgeeks.org/problems/3-sum-closest/1)]
+    6. 4Sum [[leetcode](https://leetcode.com/problems/4sum/description/)] [[code360](https://www.naukri.com/code360/problems/4sum_5713771)] [[gfg](https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)] ⭐️
+    7. Reverse Vowels of a String [[leetcode](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)] [[code360](https://www.naukri.com/code360/problems/reverse-vowels-in-a-string_1231000)] [[gfg](https://www.geeksforgeeks.org/problems/reversing-the-vowels5304/1)]
+    8. Valid Palindrome II [[leetcode](https://leetcode.com/problems/valid-palindrome-ii/description/)] [[code360](https://www.naukri.com/code360/problems/valid-palindrome_2663285)] ⭐️
+    9. Squares of a Sorted Array [[leetcode](https://leetcode.com/problems/squares-of-a-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/squares-of-a-sorted-array_1230552)]
+    10. Sort Colors [[leetcode](https://leetcode.com/problems/sort-colors/description/)] [[gfg](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)] ⭐️
+    11. Trapping Rain Water [[leetcode](https://leetcode.com/problems/trapping-rain-water/description/)] [[code360](https://www.naukri.com/code360/problems/trapping-rainwater_630519)] [[gfg](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)] ⭐️
+    12. Palindromic Substrings [[leetcode](https://leetcode.com/problems/palindromic-substrings/description/)] [[code360](https://www.naukri.com/code360/problems/palindromic-substrings_630404)] [[gfg](https://www.geeksforgeeks.org/problems/count-palindrome-sub-strings-of-a-string0652/1)] ⭐️
+2. Running from Beginning of 2 Arrays / Merging (7)
+    1. Merge Strings Alternately [[leetcode](https://leetcode.com/problems/merge-strings-alternately/description/)] [[gfg](https://www.geeksforgeeks.org/problems/merge-two-strings2736/1)]
+    2. Is Subsequence [[leetcode](https://leetcode.com/problems/is-subsequence/description/)] [[code360](https://www.naukri.com/code360/problems/is-subsequence_892991)] [[gfg](https://www.geeksforgeeks.org/problems/check-for-subsequence4930/1)]
+    3. Merge Two Sorted Arrays [[leetcode](https://leetcode.com/problems/merge-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/ninja-and-sorted-arrays_1214628)] ⭐️
+    4. Backspace String Compare [[leetcode](https://leetcode.com/problems/backspace-string-compare/description/)] ⭐️
+    5. Valid Word Abbreviation [[leetcode](https://leetcode.com/problems/valid-word-abbreviation/description/)] [[code360](https://www.naukri.com/code360/problems/valid-word-abbreviations_1171044)] 
+    6. Interval List Intersections [[leetcode](https://leetcode.com/problems/interval-list-intersections/description/)] [[code360](https://www.naukri.com/code360/problems/interval-list-intersection_1104723)] [[gfg](https://www.geeksforgeeks.org/problems/interval-list-intersections/0)] ⭐️
+    7. Meeting Scheduler [[leetcode](https://leetcode.com/problems/meeting-scheduler/description/)] [[gfg](https://www.geeksforgeeks.org/problems/earliest-common-slot/1)] ⭐️
+3. Slow & Fast Pointer (7)
+    1. Remove Element [[leetcode](https://leetcode.com/problems/remove-element/description/)]
+    2. Move Zeroes To End [[leetcode](https://leetcode.com/problems/move-zeroes/description/)] [[code360](https://www.naukri.com/code360/problems/interview-shuriken-41-move-zeroes-to-end_240143)] [[gfg](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)]
+    3. Remove Duplicates from Sorted Array [[leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/remove-duplicates-from-sorted-array_1102307)] [[gfg](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)]
+    4. Remove Duplicates from Sorted Array II [[leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)] ⭐️
+    5. Find the Duplicate Number [[leetcode](https://leetcode.com/problems/find-the-duplicate-number/description/)] [[code360](https://www.naukri.com/code360/problems/find-duplicate-in-array_1112602)] ⭐️
+    6. Happy Number [[leetcode](https://leetcode.com/problems/happy-number/description/)] ⭐️
+    7. Reverse Words in a String [[leetcode](https://leetcode.com/problems/reverse-words-in-a-string/description/)] [[code360](https://www.naukri.com/code360/problems/reverse-words_696444)] [[gfg](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)] ⭐️
 
 ## Sliding Window(44)
 
