@@ -1,4 +1,5 @@
 # dsa101
+
 - [Linked List (40)](#linked-list-40)
 - [Binary Search (30)](#binary-search-30)
 - [Two Pointer(26)](#two-pointer26)
@@ -6,7 +7,7 @@
 - [Stack & Queue (35)](#stack--queue-35)
 - [Binary Tree(37)](#binary-tree37)
 - [Binary Search Tree (15)](#binary-search-tree-15)
-- [Heap(18)](#heap18)
+- [Heap (30)](#heap-30)
 - [Dynamic Programming (47)](#dynamic-programming-47)
 
 ## Linked List (40)
@@ -273,26 +274,43 @@
 13. Largest BST in Binary Tree [[leetcode](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/largest-bst-subtree_893103)] [[gfg](https://www.geeksforgeeks.org/problems/largest-bst/1)] [[tuf](https://takeuforward.org/plus/dsa/binary-search-trees/faqs/largest-bst-in-binary-tree)] ⭐️
 14. Convert Binary Search Tree to Sorted Doubly Linked List [[leetcode](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)] ⭐️
 
-## Heap(18)
+## Heap (30)
 
-1. Heapify Algorithm [[gfg](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/heapify-algorithm)] ⭐️
-2. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/build-heap-from-a-given-array)] ⭐️
-3. Implement Min Heap [[code360](https://www.naukri.com/code360/problems/min-heap-implementation_5480527)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/implement-min-heap)] ⭐️
-4. Implement Max Heap [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/implement-max-heap)] ⭐️
-5. Check if an array represents a min heap [[gfg](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/check-if-an-array-represents-a-min-heap-)]
-6. Convert Min Heap to Max Heap [[code360](https://www.naukri.com/code360/problems/convert-min-heap-to-max-heap_630293)] [[gfg](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/convert-min-heap-to-max-heap)]
-7. Heap Sort [[code360](https://www.naukri.com/code360/problems/heap-sort_1262153)] [[gfg](https://www.geeksforgeeks.org/problems/heap-sort/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/heap-sort)] ⭐️
-8. Kth Largest element in an array [[leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)] [[code360](https://www.naukri.com/code360/problems/kth-largest-element-in-the-unsorted-array_893030)] [[gfg](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)] [[tuf](https://takeuforward.org/plus/dsa/heaps/theory-and-implementation/k-th-largest-element-in-an-array)]
-    1. Kth Smallest element in an array [[code360](https://www.naukri.com/code360/problems/kth-smallest-and-largest-element-of-array_1115488)] [[gfg](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)]
-9. K Closest Points to Origin [[leetcode](https://leetcode.com/problems/k-closest-points-to-origin/description/)] [[code360](https://www.naukri.com/code360/problems/k-closest-points-to-origin_1094908)] ⭐️
-10. Top K Frequent Elements [[leetcode](https://leetcode.com/problems/top-k-frequent-elements/description/)] [[code360](https://www.naukri.com/code360/problems/k-most-frequent-elements_3167808)] [[gfg](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1)]
-    1. Top K Frequent Words [[leetcode](https://leetcode.com/problems/top-k-frequent-words/description/)] [[code360](https://www.naukri.com/code360/problems/k-most-frequent-words_696192)] ⭐️
-    2. Sort Characters By Frequency [[leetcode](https://leetcode.com/problems/sort-characters-by-frequency/description/)] [[code360](https://www.naukri.com/code360/problems/sorting-characters-by-frequency_1263699)] ⭐️
-11. Kth Largest Element in a Stream [[leetcode](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)] [[code360](https://www.naukri.com/code360/problems/kthlargestnumber_800301)] [[gfg](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1)]
-12. Reorganize String [[leetcode](https://leetcode.com/problems/reorganize-string/description/)] [[code360](https://www.naukri.com/code360/problems/rearrange-string_982765)] [[gfg](https://www.geeksforgeeks.org/problems/rearrange-characters4649/1)] ⭐️
-    1. Rearrange String k Distance Apart [[leetcode](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)] [[code360](https://www.naukri.com/code360/problems/ninja-favourite-string_1460386)] ⭐️
-13. Nearly Sorted Array [[code360](https://www.naukri.com/code360/problems/nearly-sorted_982937)] [[gfg](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1)]
-14. Find K Closest Elements [[leetcode](https://leetcode.com/problems/find-k-closest-elements/description/)] [[code360](https://www.naukri.com/code360/problems/find-k-closest-elements_1263702)] [[gfg](https://www.geeksforgeeks.org/problems/k-closest-elements3619/0)] ⭐️
+1. Basic (7)
+    1. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)]
+    2. Check if an array represents a min heap [[gfg](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1)]
+    3. Heap Sort [[code360](https://www.naukri.com/code360/problems/heap-sort_1262153)] [[gfg](https://www.geeksforgeeks.org/problems/heap-sort/1)] ⭐️
+    4. Implementation of Priority Queue using Binary Heap [[gfg](https://www.geeksforgeeks.org/problems/implementation-of-priority-queue-using-binary-heap/1)]
+    5. Binary Heap Operations [[gfg](https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)] ⭐️
+    6. Does array represent Heap [[gfg](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1)]
+    7. Convert Min Heap to Max Heap [[code360](https://www.naukri.com/code360/problems/convert-min-heap-to-max-heap_630293)] [[gfg](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1)] ⭐️
+2. Top K Pattern (12)
+    1. Kth Smallest Element in an Array [[gfg](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1)] [[code360](https://www.naukri.com/code360/problems/kth-smallest-element_893056)]
+    2. Kth Largest Element in an Array [[leetcode](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)] [[code360](https://www.naukri.com/code360/problems/kth-largest-element-in-the-unsorted-array_893030)]
+    3. Kth Largest Element in a Stream [[leetcode](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)] [[code360](https://www.naukri.com/code360/problems/kthlargestnumber_800301)] [[gfg](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1)]
+    4. K Closest Points to Origin [[leetcode](https://leetcode.com/problems/k-closest-points-to-origin/description/)] [[code360](https://www.naukri.com/code360/problems/k-closest-points-to-origin_1094908)]
+    5. Top K Frequent Elements [[leetcode](https://leetcode.com/problems/top-k-frequent-elements/description/)] [[code360](https://www.naukri.com/code360/problems/k-most-frequent-elements_3167808)] [[gfg](https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1)]
+    6. Top K Frequent Words [[leetcode](https://leetcode.com/problems/top-k-frequent-words/description/)] [[code360](https://www.naukri.com/code360/problems/k-most-frequent-words_696192)]
+    7. Sort Characters By Frequency [[leetcode](https://leetcode.com/problems/sort-characters-by-frequency/description/)] [[code360](https://www.naukri.com/code360/problems/sorting-characters-by-frequency_1263699)]
+    8. Ugly Number II [[leetcode](https://leetcode.com/problems/ugly-number-ii/description/)] [[code360](https://www.naukri.com/code360/problems/ugly-numbers_3114806)] [[gfg](https://www.geeksforgeeks.org/problems/ugly-number-ii/0)] ⭐️
+    9. Reorganize String [[leetcode](https://leetcode.com/problems/reorganize-string/description/)] [[code360](https://www.naukri.com/code360/problems/rearrange-string_982765)] [[gfg](https://www.geeksforgeeks.org/problems/rearrange-characters4649/1)] ⭐️
+    10. Find K Closest Elements [[leetcode](https://leetcode.com/problems/find-k-closest-elements/description/)] [[code360](https://www.naukri.com/code360/problems/find-k-closest-elements_1263702)] [[gfg](https://www.geeksforgeeks.org/problems/k-closest-elements3619/0)] ⭐️
+    11. Rearrange String k Distance Apart [[leetcode](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)] [[code360](https://www.naukri.com/code360/problems/ninja-favourite-string_1460386)] ⭐️
+    12. Employee Free Time [[leetcode](https://leetcode.com/problems/employee-free-time/description/)] ⭐️
+3. Merge K sorted pattern (4)
+    1. Merge K-Sorted Lists [[leetcode](https://leetcode.com/problems/merge-k-sorted-lists/description/)] [[code360](https://www.naukri.com/code360/problems/merge-k-sorted-lists_992772)] [[gfg](https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)] ⭐️
+    2. Merge k Sorted Arrays [[code360](https://www.naukri.com/code360/problems/merge-k-sorted-arrays_975379)] [[gfg](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)]
+    3. Find K Pairs with Smallest Sums [[leetcode](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)] [[code360](https://www.naukri.com/code360/problems/find-k-pairs-with-smallest-sums_1381413)] ⭐️
+    4. Kth Smallest Element in a Sorted Matrix [[leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)] [[gfg](https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1)] ⭐️
+4. Minimum number Pattern (5)
+    1. Minimum Cost to connect sticks/ropes [[leetcode](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)] [[code360](https://www.naukri.com/code360/problems/minimum-cost-to-connect-sticks_1402396)] [[gfg](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)]
+    2. Meeting Rooms II [[leetcode](https://leetcode.com/problems/meeting-rooms-ii/description/)] [[code360](https://www.naukri.com/code360/problems/meeting-room-ii_893289)] [[gfg](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1)] ⭐️
+    3. Task Scheduler [[leetcode](https://leetcode.com/problems/task-scheduler/description/)] [[code360](https://www.naukri.com/code360/problems/task-scheduler_1070424)] [[gfg](https://www.geeksforgeeks.org/problems/task-scheduler/0)] ⭐️
+    4. Minimum Number of Refueling Stops [[leetcode](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)] ⭐️
+    5. Minimum Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)] ⭐️
+5. Two Heaps Pattern (2)
+    1.  ****Total Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)] ⭐️
+    2. Find Median from Data Stream [[leetcode](https://leetcode.com/problems/find-median-from-data-stream/description/)] [[code360](http://naukri.com/code360/problems/find-median-from-data-stream_6212830)] [[gfg](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)] ⭐️
 
 ## Dynamic Programming (47)
 
