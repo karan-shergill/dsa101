@@ -1,4 +1,4 @@
-# dsa101
+# DSA 101
 
 - [Linked List (40)](#linked-list-40)
 - [Binary Search (30)](#binary-search-30)
@@ -9,6 +9,8 @@
 - [Binary Search Tree (15)](#binary-search-tree-15)
 - [Heap (30)](#heap-30)
 - [Dynamic Programming (47)](#dynamic-programming-47)
+- [Trie (10)](#trie-10)
+- [Graph (43)](#graph-43)
 
 ## Linked List (40)
 
@@ -309,7 +311,7 @@
     4. Minimum Number of Refueling Stops [[leetcode](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)] ⭐️
     5. Minimum Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)] ⭐️
 5. Two Heaps Pattern (2)
-    1.  ****Total Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)] ⭐️
+    1. Total Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)] ⭐️
     2. Find Median from Data Stream [[leetcode](https://leetcode.com/problems/find-median-from-data-stream/description/)] [[code360](http://naukri.com/code360/problems/find-median-from-data-stream_6212830)] [[gfg](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)] ⭐️
 
 ## Dynamic Programming (47)
@@ -361,3 +363,72 @@
     2. Minimum number of deletions array sorted sequence [[gfg](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/0)]
     3. Longest Decreasing Subsequence [[code360](https://www.naukri.com/code360/problems/longest-decreasing-subsequence_800300)]
     4. Longest Bitonic subsequence [[code360](https://www.naukri.com/code360/problems/longest-bitonic-sequence_1062688)] [[gfg](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)]
+
+## Trie (10)
+
+1. Implement Tries [[leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/description/)] [[code360](https://www.naukri.com/code360/problems/implement-trie_631356)] [[gfg](https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1)]
+2. Implement Trie II [[leetcode](https://leetcode.com/problems/implement-trie-ii-prefix-tree/description/)] [[code360](https://www.naukri.com/code360/problems/implement-trie_1387095)] [[gfg](https://www.geeksforgeeks.org/problems/trie-delete/1)] ⭐️
+3. Counting Words With a Given Prefix [[leetcode](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)]
+4. Longest Common Prefix [[leetcode](https://leetcode.com/problems/longest-common-prefix/description/)] [[code360](https://www.naukri.com/code360/problems/longest-common-prefix_2090383)] [[gfg](https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1)] ⭐️
+5. Longest Word in Dictionary [[leetcode](https://leetcode.com/problems/longest-word-in-dictionary/description/)] [[code360](https://www.naukri.com/code360/problems/complete-string_2687860)] [[gfg](https://www.geeksforgeeks.org/problems/find-the-longest-string--170645/0)] ⭐️
+6. Number of Distinct Substrings in a String [[leetcode](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/description/)] [[code360](https://www.naukri.com/code360/problems/count-distinct-substrings_985292)] [[gfg](https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/0)]
+7. Design Add and Search Words Data Structure [[leetcode](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)] [[gfg](https://www.geeksforgeeks.org/problems/design-add-and-search-words-data-structure--154618/0)] ⭐️
+8. Replace Words [[leetcode](https://leetcode.com/problems/replace-words/description/)] ⭐️
+9. Remove Sub-Folders from the Filesystem [[leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)] ⭐️
+10. Word Search II [[leetcode](https://leetcode.com/problems/word-search-ii/description/)] [[code360](https://www.naukri.com/code360/problems/word-search_630520)] [[gfg](https://www.geeksforgeeks.org/problems/word-search-ii/0)] ⭐️
+
+## Graph (43)
+
+1. BFS (Breadth First Search) 
+    1. Connected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy67xg7)] [[code360](https://www.naukri.com/code360/problems/bfs-in-graph_973002)] [[gfg](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)]
+    2. Unconnected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy6bhgz)] [[code360](https://www.naukri.com/code360/problems/bfs-in-graph_973002)] [[gfg](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)]
+2. DFS (Depth First Search) 
+    1. Recursive
+        1. Connected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy72e7v)] [[code360](https://www.naukri.com/code360/problems/dfs-traversal_630462)] [[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)]
+        2. Unconnected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy72s8y)] [[code360](https://www.naukri.com/code360/problems/dfs-traversal_630462)] [[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)]
+    2. Iterative
+        1. Connected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy7dcpd)] [[code360](https://www.naukri.com/code360/problems/dfs-traversal_630462)] [[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)]
+        2. Unconnected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy7dmrk)] [[code360](https://www.naukri.com/code360/problems/dfs-traversal_630462)] [[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)]
+3. BFS & DFS Traversal Problems 
+    1. Number of Connected Components in an Undirected Graph [[leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-provinces/1)]
+    2. Number of Provinces [[leetcode](https://leetcode.com/problems/number-of-provinces/description/)] [[code360](https://www.naukri.com/code360/problems/find-the-number-of-states_1377943)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-provinces/1)]
+    3. Number of Islands [[leetcode](https://www.lintcode.com/problem/433)] [[code360](https://www.naukri.com/code360/problems/number-of-islands_845181)] [[gfg](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1)]
+    4. Flood Fill [[leetcode](https://leetcode.com/problems/flood-fill/description/)] [[code360](https://www.naukri.com/code360/problems/flood-fill-algorithm_1089687)] [[gfg](https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1)]
+    5. Rotting Oranges [[leetcode](https://leetcode.com/problems/rotting-oranges/description/)] [[code360](https://www.naukri.com/code360/problems/rotting-oranges_701655)] [[gfg](https://www.geeksforgeeks.org/problems/rotten-oranges2536/1)]
+    6. Number of Enclaves [[leetcode](https://leetcode.com/problems/number-of-enclaves/description/)] [[code360](https://www.naukri.com/code360/problems/find-number-of-islands_630512)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-enclaves/1)]
+    7. Max Area of Island [[leetcode](https://leetcode.com/problems/max-area-of-island/description/)] [[gfg](https://www.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1)]
+    8. Distance of nearest cell having 1 [[leetcode](https://leetcode.com/problems/01-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/distance-of-nearest-cell-having-1-in-a-binary-matrix_1169913)] [[gfg](https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1)] ⭐️
+    9. Walls and Gates [[leetcode](https://leetcode.com/problems/walls-and-gates/description/)] [[code360](https://www.naukri.com/code360/problems/walls-and-gates_1092887)] ⭐️
+    10. Surrounded Regions - Replace ‘O’ With ‘X’ [[leetcode](https://leetcode.com/problems/surrounded-regions/description/)] [[code360](https://www.naukri.com/code360/problems/replace-o-with-x_630517)] [[gfg](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1)]
+    11. Number of Distinct Islands [[leetcode](https://leetcode.com/problems/number-of-distinct-islands/description/)] [[code360](https://www.naukri.com/code360/problems/distinct-islands_630460)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/0)] ⭐️
+    12. Shortest Bridge [[leetcode](https://leetcode.com/problems/shortest-bridge/description/)] [[code360](https://www.naukri.com/code360/problems/shortest-bridge_1105571)] ⭐️
+4. Cycle Detection in Undirected Graph 
+    1. Via BFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
+    2. Via DFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
+5. Is Graph Bipartite? 
+    1. Via BFS (Connected / Unconnected Graph) [[leetcode](https://leetcode.com/problems/is-graph-bipartite/description/)] [[code360](https://www.naukri.com/code360/problems/check-graph-is-bipartite-or-not_920551)] [[gfg](https://www.geeksforgeeks.org/problems/bipartite-graph/1)]
+    2. Via DFS (Connected / Unconnected Graph) [[leetcode](https://leetcode.com/problems/is-graph-bipartite/description/)] [[code360](https://www.naukri.com/code360/problems/check-graph-is-bipartite-or-not_920551)] [[gfg](https://www.geeksforgeeks.org/problems/bipartite-graph/1)]
+6. Topological sort 
+    1. Via BFS [[code360](https://www.naukri.com/code360/problems/topological-sort_982938)] [[gfg](https://www.geeksforgeeks.org/problems/topological-sort/1)] ⭐️
+    2. Via DFS [[code360](https://www.naukri.com/code360/problems/topological-sort_982938)] [[gfg](https://www.geeksforgeeks.org/problems/topological-sort/1)] ⭐️
+7. Detect Cycle In A Directed Graph 
+    1. Via BFS [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-a-directed-graph_1062626)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)] ⭐️
+    2. Via DFS [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-a-directed-graph_1062626)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)] ⭐️
+8. Topological sort / Detect Cycle In A Directed Graph
+    1. Find Eventual Safe States [[leetcode](https://leetcode.com/problems/find-eventual-safe-states/description/)] [[gfg](https://www.geeksforgeeks.org/problems/eventual-safe-states/0)] ⭐️
+    2. Course Schedule [[leetcode](https://leetcode.com/problems/course-schedule/description/)] [[code360](https://www.naukri.com/code360/problems/course-schedule_985288)] [[gfg](https://www.geeksforgeeks.org/problems/prerequisite-tasks/1)]
+    3. Course Schedule II [[leetcode](https://leetcode.com/problems/course-schedule-ii/description/)] [[code360](https://www.naukri.com/code360/problems/course-schedule-ii_1069243)] [[gfg](https://www.geeksforgeeks.org/problems/course-schedule/1)] ⭐️
+    4. Alien Dictionary [[leetcode](https://leetcode.com/problems/alien-dictionary/description/)] [[code360](https://www.naukri.com/code360/problems/alien-dictionary_630423)] [[gfg](https://www.geeksforgeeks.org/problems/alien-dictionary/1)] ⭐️
+    5. Shortest path in Directed Acyclic Graph [[code360](https://www.naukri.com/code360/problems/shortest-path-in-dag_8381897)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)] ⭐️
+    6. Shortest Path in Undirected Graph [[code360](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)]
+    7. Word Ladder I [[leetcode](https://leetcode.com/problems/word-ladder/description/)] [[code360](https://www.naukri.com/code360/problems/word-ladder_1102319)] [[gfg](https://www.geeksforgeeks.org/problems/word-ladder/1)] ⭐️
+    8. Word Ladder II [[leetcode](https://leetcode.com/problems/word-ladder-ii/description/)] [[gfg](https://www.geeksforgeeks.org/problems/word-ladder-ii/1)] ⭐️
+9. Dijkstra Algorithm [[gfg](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)]
+    1. Shortest Path in Weighted undirected graph [[code360](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1)]
+    2. Shortest Path in Binary Matrix [[leetcode](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/shortest-path-in-a-binary-maze_893065)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1)] ⭐️
+    3. Path With Minimum Effort [[leetcode](https://leetcode.com/problems/path-with-minimum-effort/description/)] [[code360](https://www.naukri.com/code360/problems/path-with-minimum-effort_1380958)] [[gfg](https://www.geeksforgeeks.org/problems/path-with-minimum-effort/1)] ⭐️
+    4. Cheapest flight within K stops [[leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)] [[code360](https://www.naukri.com/code360/problems/saving-money_1171195)] [[gfg](https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1?page=1&sortBy=newest&query=page1sortBynewest)] ⭐️
+    5. Network Delay Time [[leetcode](https://leetcode.com/problems/network-delay-time/description/)] [[code360](https://www.naukri.com/code360/problems/network-delay-time_1382215)] [[gfg](https://www.geeksforgeeks.org/problems/network-delay-time/1)]
+10. Bellman-Ford Algorithm [[gfg](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1)]
+    1. Negative weight cycle [[gfg](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1)]
+    2. Cheapest flight within K stops [[leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)] [[code360](https://www.naukri.com/code360/problems/saving-money_1171195)] [[gfg](https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1?page=1&sortBy=newest&query=page1sortBynewest)] ⭐️
