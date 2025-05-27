@@ -1,4 +1,4 @@
-# DSA 101
+# DSA-101
 
 - [Linked List (40)](#linked-list-40)
 - [Binary Search (30)](#binary-search-30)
@@ -8,6 +8,7 @@
 - [Binary Tree(37)](#binary-tree37)
 - [Binary Search Tree (15)](#binary-search-tree-15)
 - [Heap (30)](#heap-30)
+- [Backtracking (18)](#backtracking-18)
 - [Dynamic Programming (47)](#dynamic-programming-47)
 - [Trie (10)](#trie-10)
 - [Graph (43)](#graph-43)
@@ -313,6 +314,27 @@
 5. Two Heaps Pattern (2)
     1. Total Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)] ⭐️
     2. Find Median from Data Stream [[leetcode](https://leetcode.com/problems/find-median-from-data-stream/description/)] [[code360](http://naukri.com/code360/problems/find-median-from-data-stream_6212830)] [[gfg](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)] ⭐️
+
+## Backtracking (18)
+
+1. Permutations of a String [[leetcode](https://leetcode.com/problems/permutations/description/)] [[gfg](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)] ⭐️
+2. Permutations II [[leetcode](https://leetcode.com/problems/permutations-ii/description/)]
+3. Rat in a Maze [[code360](https://www.naukri.com/code360/problems/rat-in-a-maze_1215030)] [[gfg](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)] ⭐️
+4. Word Search [[leetcode](https://leetcode.com/problems/word-search/description/)] [[gfg](https://www.geeksforgeeks.org/problems/word-search/1)] ⭐️
+5. Find all possible paths from top to bottom [[code360](https://www.naukri.com/code360/problems/print-all-possible-paths-from-top-left-corner-to-bottom-right-corner-of-a-2-d-matrix_1171152)] [[gfg](https://www.geeksforgeeks.org/problems/find-all-possible-paths-from-top-to-bottom/1)] ⭐️
+6. Palindrome Partitioning [[leetcode](https://leetcode.com/problems/palindrome-partitioning/description/)] [[code360](https://www.naukri.com/code360/problems/palindrome-partitioning_799931)] [[gfg](https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1)] ⭐️
+7. Letter Combinations of a Phone Number [[leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)] [[code360](https://www.naukri.com/code360/problems/letter-combinations-of-a-phone-number_983623)] [[gfg](https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1)] ⭐️
+8. Generate Parentheses [[leetcode](https://leetcode.com/problems/generate-parentheses/description/)] [[gfg](https://www.geeksforgeeks.org/problems/generate-all-possible-parentheses/1)] ⭐️
+9. Subsets [[leetcode](https://leetcode.com/problems/subsets/description/)] [[gfg](https://www.geeksforgeeks.org/problems/subsets-1613027340/1)]
+10. Subsets II [[leetcode](https://leetcode.com/problems/subsets-ii/description/)] [[code360](https://www.naukri.com/code360/problems/subsets-ii_3625236)] [[gfg](https://www.geeksforgeeks.org/problems/subset-sum-ii/1)]
+11. Combination Sum [[leetcode](https://leetcode.com/problems/combination-sum/description/)] [[gfg](https://www.geeksforgeeks.org/problems/combination-sum-1587115620/1)] ⭐️
+12. Combination Sum II [[leetcode](https://leetcode.com/problems/combination-sum-ii/description/)] [[gfg](https://www.geeksforgeeks.org/problems/combination-sum-ii-1664263832/1)] ⭐️
+13. Largest number in K swaps [[code360](https://www.naukri.com/code360/problems/maximum-number-in-k-swaps_992843)] [[gfg](https://www.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1)] ⭐️
+14. Expression Add Operators [[leetcode](https://leetcode.com/problems/expression-add-operators/description/)] [[gfg](https://www.geeksforgeeks.org/problems/expression-add-operators/1)] ⭐️
+15. N-Queens [[leetcode](https://leetcode.com/problems/n-queens/description/)] [[gfg](https://www.geeksforgeeks.org/problems/n-queen-problem0315/1)] ⭐️
+16. Restore IP Addresses [[leetcode](https://leetcode.com/problems/restore-ip-addresses/description/)] [[gfg](https://www.geeksforgeeks.org/problems/generate-ip-addresses/1)] ⭐️
+17. Sudoku Solver [[leetcode](https://leetcode.com/problems/sudoku-solver/description/)] [[gfg](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)] ⭐️
+18. Word Break II [[leetcode](https://leetcode.com/problems/word-break-ii/description/)] [[code360](https://www.naukri.com/code360/problems/983635)] [[gfg](https://www.geeksforgeeks.org/problems/word-break-part-23249/1)] ⭐️
 
 ## Dynamic Programming (47)
 
