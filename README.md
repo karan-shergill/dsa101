@@ -1,29 +1,29 @@
-# 🚀 DSA-101: Data Structures & Algorithms Mastery
+# DSA-101: Data Structures & Algorithms
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/)
 
-## 🗂️ Table of Contents
+## Table of Contents
 
-| 🧩 **Topic** | 📝 **Problems** | 🎯 **Focus Area** |
+| **Topic** | **Problems** | **Patterns** |
 |-------------|----------------|------------------|
-| [📎 Linked List](#-linked-list-40) | **40** | Pointers & Node Manipulation |
-| [🔍 Binary Search](#-binary-search-30) | **30** | Search & Optimization |
-| [👥 Two Pointer](#-two-pointer-26) | **26** | Array & String Techniques |
-| [🪟 Sliding Window](#-sliding-window-44) | **44** | Substring & Subarray Problems |
-| [📚 Stack & Queue](#-stack--queue-35) | **35** | LIFO & FIFO Operations |
-| [🌳 Binary Tree](#-binary-tree-37) | **37** | Tree Traversal & Manipulation |
-| [🔢 Binary Search Tree](#-binary-search-tree-15) | **15** | BST Operations & Properties |
-| [⛰️ Heap](#-heap-30) | **30** | Priority Queue & Heap Operations |
-| [🔄 Backtracking](#-backtracking-18) | **18** | Recursive Problem Solving |
-| [🧮 Dynamic Programming](#-dynamic-programming-47) | **47** | Optimization & Memoization |
-| [🔤 Trie](#-trie-10) | **10** | String & Prefix Operations |
-| [🕸️ Graph](#-graph-43) | **43** | Graph Algorithms & Traversal |
+| [Linked List](#linked-list-40) | **40** | Fast & Slow Pointer, Reversal, Merging |
+| [Binary Search](#binary-search-30) | **30** | Search Space Reduction, Binary Search on Answer |
+| [Two Pointer](#two-pointer-26) | **26** | Left-Right Pointer, Fast-Slow Pointer, Merging |
+| [Sliding Window](#sliding-window-44) | **44** | Fixed Window, Variable Window, Counting |
+| [Stack & Queue](#stack--queue-35) | **35** | Monotonic Stack, Bracket Matching, Expression Evaluation |
+| [Binary Tree](#binary-tree-37) | **37** | Tree Traversal, Path Finding, Construction |
+| [Binary Search Tree](#binary-search-tree-15) | **15** | Search & Insert, Tree Validation, Iterator |
+| [Heap](#heap-30) | **30** | Top K Elements, Merge K Sorted, Two Heaps |
+| [Backtracking](#backtracking-18) | **18** | Generate All Solutions, Constraint Satisfaction |
+| [Dynamic Programming](#dynamic-programming-47) | **47** | Optimization Problems, Counting Problems, Decision Problems |
+| [Trie](#trie-10) | **10** | Prefix Matching, Word Search, Auto-complete |
+| [Graph](#graph-43) | **43** | BFS/DFS Traversal, Shortest Path, Topological Sort |
 
 ---
 
-## 📎 Linked List (40)
+## Linked List (40)
 
 1. Basic operations
     1. Array to Linked List [[gfg](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1)]
@@ -72,7 +72,7 @@
 15. Flatten The Multi-Level Single Linked List [[code360](https://www.naukri.com/code360/problems/flatten-the-multi-level-linked-list_839810)] ⭐️
 16. Flatten a Multilevel Doubly Linked List [[leetcode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)] ⭐️
 
-## 🔍 Binary Search (30)
+## Binary Search (30)
 
 1. Binary Search (Iterative & recursive) [[leetcode](https://leetcode.com/problems/binary-search/description/)] [[code360](https://www.naukri.com/code360/problems/binary-search_972)] [[gfg](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)]
 2. Lower Bound [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)]
@@ -106,7 +106,7 @@
 15. Search a 2D Matrix [[leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix_980531)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)] ⭐️
 16. Search a 2D Matrix II [[leetcode](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix-ii_1089637)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)] ⭐️
 
-## 👥 Two Pointer (26)
+## Two Pointer (26)
 
 1. Left/Right Pointer (12)
     1. Valid Palindrome [[leetcode](https://leetcode.com/problems/valid-palindrome/description/)] [[gfg](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)] ⭐️
@@ -126,7 +126,7 @@
     2. Is Subsequence [[leetcode](https://leetcode.com/problems/is-subsequence/description/)] [[code360](https://www.naukri.com/code360/problems/is-subsequence_892991)] [[gfg](https://www.geeksforgeeks.org/problems/check-for-subsequence4930/1)]
     3. Merge Two Sorted Arrays [[leetcode](https://leetcode.com/problems/merge-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/ninja-and-sorted-arrays_1214628)] ⭐️
     4. Backspace String Compare [[leetcode](https://leetcode.com/problems/backspace-string-compare/description/)] ⭐️
-    5. Valid Word Abbreviation [[leetcode](https://leetcode.com/problems/valid-word-abbreviation/description/)] [[code360](https://www.naukri.com/code360/problems/valid-word-abbreviations_1171044)] 
+    5. Valid Word Abbreviation [[leetcode](https://leetcode.com/problems/valid-word-abbreviation/description/)] [[code360](https://www.naukri.com/code360/problems/valid-word-abbreviations_1171044)]
     6. Interval List Intersections [[leetcode](https://leetcode.com/problems/interval-list-intersections/description/)] [[code360](https://www.naukri.com/code360/problems/interval-list-intersection_1104723)] [[gfg](https://www.geeksforgeeks.org/problems/interval-list-intersections/0)] ⭐️
     7. Meeting Scheduler [[leetcode](https://leetcode.com/problems/meeting-scheduler/description/)] [[gfg](https://www.geeksforgeeks.org/problems/earliest-common-slot/1)] ⭐️
 3. Slow & Fast Pointer (7)
@@ -138,7 +138,7 @@
     6. Happy Number [[leetcode](https://leetcode.com/problems/happy-number/description/)] ⭐️
     7. Reverse Words in a String [[leetcode](https://leetcode.com/problems/reverse-words-in-a-string/description/)] [[code360](https://www.naukri.com/code360/problems/reverse-words_696444)] [[gfg](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)] ⭐️
 
-## 🪟 Sliding Window (44)
+## Sliding Window (44)
 
 1. Fixed Window Size (17)
     1. Max Sum Subarray of size K [[code360](https://www.naukri.com/code360/problems/maximum-of-all-subarrays-of-size-k_1170789)] [[gfg](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)]
@@ -188,7 +188,7 @@
     3. Count Binary Subarrays With Sum [[leetcode](https://leetcode.com/problems/binary-subarrays-with-sum/description/)] [[gfg](https://www.geeksforgeeks.org/problems/binary-subarray-with-sum/1)] ⭐️
     4. Count Number of Nice Subarrays [[leetcode](https://leetcode.com/problems/count-number-of-nice-subarrays/description/)] [[gfg](https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1)] ⭐️
 
-## 📚 Stack & Queue (35)
+## Stack & Queue (35)
 
 1. Stack (17)
     1. Implement stack using an array [[gfg](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)]
@@ -225,11 +225,11 @@
     10. Largest Rectangle in Histogram [[leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)] [[code360](https://www.naukri.com/code360/problems/largest-rectangle-in-a-histogram_1058184)] ⭐️
     11. Maximum Size Rectangle Sub-matrix With All 1's [[leetcode](https://leetcode.com/problems/maximal-rectangle/description/)] [[code360](https://www.naukri.com/code360/problems/maximum-size-rectangle-sub-matrix-with-all-1-s_893017)] [[gfg](https://www.geeksforgeeks.org/problems/max-rectangle/1)] ⭐️
     12. The sum of the subarray minimum [[leetcode](https://leetcode.com/problems/sum-of-subarray-minimums/description/)] [[code360](https://www.naukri.com/code360/problems/find-minimum-sum-subarray-of-given-size_873368)] [[gfg](https://www.geeksforgeeks.org/problems/sum-of-subarray-minimum/1)] ⭐️
-    13. Sum of Subarray Ranges [[leetcode](https://leetcode.com/problems/sum-of-subarray-ranges/description/)] [[code360](https://www.naukri.com/code360/problems/subarray-range-sum_8365419)] 
+    13. Sum of Subarray Ranges [[leetcode](https://leetcode.com/problems/sum-of-subarray-ranges/description/)] [[code360](https://www.naukri.com/code360/problems/subarray-range-sum_8365419)]
     14. Sliding Window Maximum [[leetcode](https://leetcode.com/problems/sliding-window-maximum/description/)] [[code360](https://www.naukri.com/code360/problems/sliding-window-maximum_980226)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)] ⭐️
     15. Maximum Width Ramp [[leetcode](https://leetcode.com/problems/maximum-width-ramp/description/)] ⭐️
 
-## 🌳 Binary Tree (37)
+## Binary Tree (37)
 
 1. Preorder Traversal (Recursive | Iterative | Morris ⭐️) [[leetcode](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/preorder-traversal_2035934)] [[gfg](https://www.geeksforgeeks.org/problems/postorder-traversal/1)]
 2. Inorder Traversal [[leetcode](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/inorder-traversal_3839605)] [[gfg](https://www.geeksforgeeks.org/problems/inorder-traversal/1)] (Recursive | Iterative ⭐️ | Morris ⭐️)
@@ -269,15 +269,15 @@
 22. Maximum Path Sum [[leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)] [[code360](https://www.naukri.com/code360/problems/binary-tree-maximum-path-sum_1280142)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1)] ⭐️
 23. Flatten Binary Tree to Linked List [[leetcode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)] ⭐️
 
-## 🔢 Binary Search Tree (15)
+## Binary Search Tree (15)
 
 1. Search in BST [[leetcode](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-bst_1402878)] [[gfg](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1)] - Recursive & Iterative
 2. Floor and Ceil in a BST [[code360](https://www.naukri.com/code360/problems/ceil-from-bst_920464)] [[gfg](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1)]
 3. Insert a given node in BST [[leetcode](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/insert-into-a-binary-search-tree_1279913)] [[gfg](https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1)]
 4. Delete a node in BST [[leetcode](https://leetcode.com/problems/delete-node-in-a-bst/description/)] [[code360](https://www.naukri.com/code360/problems/delete-node-in-bst_920381)] [[gfg](https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1)] ⭐️
 5. Kth Smallest and Largest element in BST [[leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)] [[code360](https://www.naukri.com/code360/problems/find-k-th-smallest-element-in-bst_1069333)] [[gfg](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1)] ⭐️
-6. Check if a tree is a BST or not [[leetcode](https://leetcode.com/problems/validate-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/validate-bst_981275)] [[gfg](https://www.geeksforgeeks.org/problems/check-for-bst/1)] 
-7. Lowest Common Ancestor in a BST [[leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/lca-in-a-bst_981280)] [[gfg](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)] 
+6. Check if a tree is a BST or not [[leetcode](https://leetcode.com/problems/validate-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/validate-bst_981275)] [[gfg](https://www.geeksforgeeks.org/problems/check-for-bst/1)]
+7. Lowest Common Ancestor in a BST [[leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)] [[code360](https://www.naukri.com/code360/problems/lca-in-a-bst_981280)] [[gfg](https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1)]
 8. Construct BST from Preorder Traversal [[leetcode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/)] [[code360](https://www.naukri.com/code360/problems/construct-bst-from-preorder-traversal_2689307)] [[gfg](https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1)] ⭐️
 9. Inorder successor and predecessor in BST [[code360](https://www.naukri.com/code360/problems/predecessor-and-successor-in-bst_893049)] [[gfg](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1)]
 10. Range Sum of BST [[leetcode](https://leetcode.com/problems/range-sum-of-bst/description/)]
@@ -287,7 +287,7 @@
 13. Largest BST in Binary Tree [[leetcode](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/largest-bst-subtree_893103)] [[gfg](https://www.geeksforgeeks.org/problems/largest-bst/1)] ⭐️
 14. Convert Binary Search Tree to Sorted Doubly Linked List [[leetcode](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)] ⭐️
 
-## ⛰️ Heap (30)
+## Heap (30)
 
 1. Basic (7)
     1. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)]
@@ -325,7 +325,7 @@
     1. Total Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/)] ⭐️
     2. Find Median from Data Stream [[leetcode](https://leetcode.com/problems/find-median-from-data-stream/description/)] [[code360](http://naukri.com/code360/problems/find-median-from-data-stream_6212830)] [[gfg](https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1)] ⭐️
 
-## 🔄 Backtracking (18)
+## Backtracking (18)
 
 1. Permutations of a String [[leetcode](https://leetcode.com/problems/permutations/description/)] [[gfg](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1)] ⭐️
 2. Permutations II [[leetcode](https://leetcode.com/problems/permutations-ii/description/)]
@@ -346,7 +346,7 @@
 17. Sudoku Solver [[leetcode](https://leetcode.com/problems/sudoku-solver/description/)] [[gfg](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)] ⭐️
 18. Word Break II [[leetcode](https://leetcode.com/problems/word-break-ii/description/)] [[code360](https://www.naukri.com/code360/problems/983635)] [[gfg](https://www.geeksforgeeks.org/problems/word-break-part-23249/1)] ⭐️
 
-## 🧮 Dynamic Programming (47)
+## Dynamic Programming (47)
 
 1. Climbing Stairs [[leetcode](https://leetcode.com/problems/climbing-stairs/description/)] [[code360](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)] [[gfg](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)]
     1. Min Cost Climbing Stairs [[leetcode](https://leetcode.com/problems/min-cost-climbing-stairs/description/)] [[gfg](https://www.geeksforgeeks.org/problems/min-cost-climbing-stairs/1)] ⭐️
@@ -357,9 +357,9 @@
     2. Paint House [[leetcode](https://leetcode.com/problems/paint-house/description/)] [[code360](https://www.naukri.com/code360/problems/paint-house_1460385)] [[gfg](https://www.geeksforgeeks.org/problems/distinct-coloring--170645/1)] ⭐️
 5. House Robber 2 [[leetcode](https://leetcode.com/problems/house-robber-ii/description/)] [[code360](https://www.naukri.com/code360/problems/house-robber_839733)] [[gfg](https://www.geeksforgeeks.org/problems/house-robber-ii/1)] ⭐️
 6. Ninja's training [[code360](https://www.naukri.com/code360/problems/ninja-s-training_3621003)] [[gfg](https://www.geeksforgeeks.org/problems/geeks-training/0)] ⭐️
-7. Unique Paths [[leetcode](https://leetcode.com/problems/unique-paths/description/)] [[code360](https://www.naukri.com/code360/problems/total-unique-paths_1081470)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-paths0926/1)] 
-    1. Unique paths II [[leetcode](https://leetcode.com/problems/unique-paths-ii/description/)] [[code360](https://www.naukri.com/code360/problems/maze-obstacles_977241)] 
-8. Minimum path sum in grid 
+7. Unique Paths [[leetcode](https://leetcode.com/problems/unique-paths/description/)] [[code360](https://www.naukri.com/code360/problems/total-unique-paths_1081470)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-paths0926/1)]
+    1. Unique paths II [[leetcode](https://leetcode.com/problems/unique-paths-ii/description/)] [[code360](https://www.naukri.com/code360/problems/maze-obstacles_977241)]
+8. Minimum path sum in grid
     1. Triangle Path Sum [[leetcode](https://leetcode.com/problems/triangle/description/)] [[code360](https://www.naukri.com/code360/problems/triangle_1229398)] [[gfg](https://www.geeksforgeeks.org/problems/triangle-path-sum/1)]
 9. Cherry pickup II [[leetcode](https://leetcode.com/problems/cherry-pickup-ii/description/)] [[code360](https://www.naukri.com/code360/problems/ninja-and-his-friends_3125885)] [[gfg](https://www.geeksforgeeks.org/problems/chocolates-pickup/1)] ⭐️
 10. Stock Buy And Sell With Single Transaction Allowed [[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)] [[code360](https://www.naukri.com/code360/problems/stocks-are-profitable_893405)] [[gfg](https://www.geeksforgeeks.org/problems/buy-stock-2/1)]
@@ -396,7 +396,7 @@
     3. Longest Decreasing Subsequence [[code360](https://www.naukri.com/code360/problems/longest-decreasing-subsequence_800300)]
     4. Longest Bitonic subsequence [[code360](https://www.naukri.com/code360/problems/longest-bitonic-sequence_1062688)] [[gfg](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)]
 
-## 🔤 Trie (10)
+## Trie (10)
 
 1. Implement Tries [[leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/description/)] [[code360](https://www.naukri.com/code360/problems/implement-trie_631356)] [[gfg](https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1)]
 2. Implement Trie II [[leetcode](https://leetcode.com/problems/implement-trie-ii-prefix-tree/description/)] [[code360](https://www.naukri.com/code360/problems/implement-trie_1387095)] [[gfg](https://www.geeksforgeeks.org/problems/trie-delete/1)] ⭐️
@@ -409,19 +409,19 @@
 9. Remove Sub-Folders from the Filesystem [[leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)] ⭐️
 10. Word Search II [[leetcode](https://leetcode.com/problems/word-search-ii/description/)] [[code360](https://www.naukri.com/code360/problems/word-search_630520)] [[gfg](https://www.geeksforgeeks.org/problems/word-search-ii/0)] ⭐️
 
-## 🕸️ Graph (43)
+## Graph (43)
 
-1. BFS (Breadth First Search) 
+1. BFS (Breadth First Search)
     1. Connected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy67xg7)] [[code360](https://www.naukri.com/code360/problems/bfs-in-graph_973002)] [[gfg](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)]
     2. Unconnected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy6bhgz)] [[code360](https://www.naukri.com/code360/problems/bfs-in-graph_973002)] [[gfg](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)]
-2. DFS (Depth First Search) 
+2. DFS (Depth First Search)
     1. Recursive
         1. Connected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy72e7v)] [[code360](https://www.naukri.com/code360/problems/dfs-traversal_630462)] [[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)]
         2. Unconnected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy72s8y)] [[code360](https://www.naukri.com/code360/problems/dfs-traversal_630462)] [[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)]
     2. Iterative
         1. Connected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy7dcpd)] [[code360](https://www.naukri.com/code360/problems/dfs-traversal_630462)] [[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)]
         2. Unconnected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy7dmrk)] [[code360](https://www.naukri.com/code360/problems/dfs-traversal_630462)] [[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)]
-3. BFS & DFS Traversal Problems 
+3. BFS & DFS Traversal Problems
     1. Number of Connected Components in an Undirected Graph [[leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-provinces/1)]
     2. Number of Provinces [[leetcode](https://leetcode.com/problems/number-of-provinces/description/)] [[code360](https://www.naukri.com/code360/problems/find-the-number-of-states_1377943)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-provinces/1)]
     3. Number of Islands [[leetcode](https://www.lintcode.com/problem/433)] [[code360](https://www.naukri.com/code360/problems/number-of-islands_845181)] [[gfg](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1)]
@@ -434,16 +434,16 @@
     10. Surrounded Regions - Replace ‘O’ With ‘X’ [[leetcode](https://leetcode.com/problems/surrounded-regions/description/)] [[code360](https://www.naukri.com/code360/problems/replace-o-with-x_630517)] [[gfg](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1)]
     11. Number of Distinct Islands [[leetcode](https://leetcode.com/problems/number-of-distinct-islands/description/)] [[code360](https://www.naukri.com/code360/problems/distinct-islands_630460)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/0)] ⭐️
     12. Shortest Bridge [[leetcode](https://leetcode.com/problems/shortest-bridge/description/)] [[code360](https://www.naukri.com/code360/problems/shortest-bridge_1105571)] ⭐️
-4. Cycle Detection in Undirected Graph 
+4. Cycle Detection in Undirected Graph
     1. Via BFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
     2. Via DFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
-5. Is Graph Bipartite? 
+5. Is Graph Bipartite?
     1. Via BFS (Connected / Unconnected Graph) [[leetcode](https://leetcode.com/problems/is-graph-bipartite/description/)] [[code360](https://www.naukri.com/code360/problems/check-graph-is-bipartite-or-not_920551)] [[gfg](https://www.geeksforgeeks.org/problems/bipartite-graph/1)]
     2. Via DFS (Connected / Unconnected Graph) [[leetcode](https://leetcode.com/problems/is-graph-bipartite/description/)] [[code360](https://www.naukri.com/code360/problems/check-graph-is-bipartite-or-not_920551)] [[gfg](https://www.geeksforgeeks.org/problems/bipartite-graph/1)]
-6. Topological sort 
+6. Topological sort
     1. Via BFS [[code360](https://www.naukri.com/code360/problems/topological-sort_982938)] [[gfg](https://www.geeksforgeeks.org/problems/topological-sort/1)] ⭐️
     2. Via DFS [[code360](https://www.naukri.com/code360/problems/topological-sort_982938)] [[gfg](https://www.geeksforgeeks.org/problems/topological-sort/1)] ⭐️
-7. Detect Cycle In A Directed Graph 
+7. Detect Cycle In A Directed Graph
     1. Via BFS [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-a-directed-graph_1062626)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)] ⭐️
     2. Via DFS [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-a-directed-graph_1062626)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1)] ⭐️
 8. Topological sort / Detect Cycle In A Directed Graph
@@ -467,33 +467,82 @@
 
 ---
 
-### 💡 **Problem-Solving Strategy**
+## Problem Patterns Overview
 
-```
-1. 🤔 Understand the Problem
-   - Read carefully, identify constraints
-   - Work through examples manually
+### **Linked List Patterns**
+- **Fast & Slow Pointer**: Cycle detection, middle node, nth node from end
+- **Reversal Pattern**: Reverse entire list, reverse in groups, reverse sublist
+- **Merging Pattern**: Merge two sorted lists, merge k sorted lists, flatten multilevel
+- **Two Pointer**: Intersection, palindrome check, remove duplicates
 
-2. 🧠 Think Before Coding
-   - Try to identify the pattern
-   - Consider multiple approaches
-   - Analyze time/space complexity
+### **Binary Search Patterns**
+- **Search Space Reduction**: Find target, first/last occurrence, peak element
+- **Binary Search on Answer**: Minimum/maximum optimization problems
+- **Matrix Search**: 2D matrix search, rotated sorted array
+- **Range Query**: Lower bound, upper bound, floor/ceil
 
-3. 💻 Code with Purpose
-   - Write clean, readable code
-   - Add comments for complex logic
+### **Two Pointer Patterns**
+- **Left-Right Pointer**: Palindrome check, two sum, three sum, container with water
+- **Fast-Slow Pointer**: Remove duplicates, move zeros, find duplicate
+- **Merging Pattern**: Merge sorted arrays, intersection of arrays
+- **Opposite Direction**: Reverse operations, valid palindrome
 
-4. 🧪 Test Thoroughly
-   - Test with edge cases
-   - Verify your solution works
+### **Sliding Window Patterns**
+- **Fixed Window**: Maximum sum subarray, anagrams in string, fixed size problems
+- **Variable Window**: Longest substring problems, minimum window substring
+- **Counting Pattern**: Count subarrays/substrings with conditions
+- **Shrinking Window**: Find minimum/maximum window satisfying condition
 
-5. 🚀 Optimize
-   - Look for better solutions
-   - Discuss trade-offs
-```
+### **Stack & Queue Patterns**
+- **Monotonic Stack**: Next greater/smaller element, largest rectangle
+- **Bracket Matching**: Valid parentheses, minimum removals
+- **Expression Evaluation**: Calculator, decode string, simplify path
+- **Stack for Recursion**: Iterative tree traversal, backtracking simulation
+
+### **Binary Tree Patterns**
+- **Tree Traversal**: Preorder, inorder, postorder (recursive, iterative, Morris)
+- **Path Finding**: Root to leaf paths, path sum, diameter
+- **Construction**: Build tree from traversals, serialize/deserialize
+- **Level Order**: BFS traversal, connect nodes, zigzag traversal
+
+### **Binary Search Tree Patterns**
+- **Search & Insert**: Find node, insert node, delete node
+- **Tree Validation**: Check if valid BST, recover BST
+- **Iterator Pattern**: In-order traversal iterator, two sum in BST
+- **Range Operations**: Range sum, kth smallest/largest element
+
+### **Heap Patterns**
+- **Top K Elements**: Kth largest/smallest, top k frequent elements
+- **Merge K Sorted**: Merge k sorted lists/arrays, smallest range
+- **Two Heaps**: Find median, sliding window median
+- **Minimum Number**: Minimum cost problems, task scheduling
+
+### **Backtracking Patterns**
+- **Generate All Solutions**: Permutations, combinations, subsets
+- **Constraint Satisfaction**: N-Queens, Sudoku solver, word search
+- **Path Finding**: All paths, palindrome partitioning
+- **Optimization**: Maximum/minimum with constraints
+
+### **Dynamic Programming Patterns**
+- **Linear DP**: Fibonacci, climbing stairs, house robber
+- **Grid DP**: Unique paths, minimum path sum, cherry pickup
+- **Subsequence DP**: Longest increasing subsequence, edit distance
+- **Partition DP**: Subset sum, coin change, knapsack problems
+- **Interval DP**: Matrix chain multiplication, palindrome partitioning
+- **State Machine DP**: Stock problems, paint house
+
+### **Trie Patterns**
+- **Prefix Matching**: Longest common prefix, word search
+- **Word Search**: Find words in grid, word break problems
+- **Auto-complete**: Implement search suggestions
+- **String Processing**: Count distinct substrings, replace words
+
+### **Graph Patterns**
+- **BFS/DFS Traversal**: Connected components, island problems
+- **Shortest Path**: Dijkstra, Bellman-Ford, Floyd-Warshall
+- **Topological Sort**: Course schedule, alien dictionary
+- **Cycle Detection**: Detect cycles in directed/undirected graphs
+- **Bipartite Check**: Graph coloring, partition into two sets
+- **Union Find**: Connected components, redundant connections
 
 ---
-
-<div align="center">
-  <h3>🎯 May your algorithms be efficient and your interviews successful! 🚀</h3>
-</div>
