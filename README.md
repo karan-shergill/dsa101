@@ -6,6 +6,8 @@
 
 ## Table of Contents
 
+### **Total Problems: 375**
+
 | **Topic** | **Problems** | **Patterns** |
 |-------------|----------------|------------------|
 | [Linked List](#linked-list-40) | **40** | Fast & Slow Pointer, Reversal, Merging |
