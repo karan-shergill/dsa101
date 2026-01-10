@@ -32,6 +32,6 @@ class Solution {
 2. In BSoA we can face overflow issue, hence better to have long for calculation   
 
 
-TC: nlogn
+TC: logn
 SC: O(1)
 */
