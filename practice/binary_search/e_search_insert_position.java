@@ -32,6 +32,6 @@ class Solution {
 /* Learning:
 1. Need to check edge case carefully in BS - last & first no in the array
 
-TC: nlogn
+TC: logn
 SC: O(1)
 */
