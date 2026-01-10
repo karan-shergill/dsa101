@@ -34,6 +34,6 @@ public class Solution extends GuessGame {
 /* Learning:
 1. Problem discription needs to be read properly before starting
 
-TC: nlogn
+TC: logn
 SC: O(1)
 */
