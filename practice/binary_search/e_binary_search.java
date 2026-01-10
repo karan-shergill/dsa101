@@ -25,6 +25,6 @@ class Solution {
 2. BS while loop needs to have while (start <= end) and not while (start < end)
 3. To prohibit overflow mid needs to be start + (end - start)/2
 
-TC: nlogn
+TC: logn
 SC: O(1)
 */
