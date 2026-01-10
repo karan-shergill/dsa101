@@ -5,3 +5,4 @@
 
 ## Binary Search On Answer
 1. https://leetcode.com/problems/arranging-coins/
+2. https://leetcode.com/problems/valid-perfect-square/description/
