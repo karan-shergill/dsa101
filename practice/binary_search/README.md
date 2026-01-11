@@ -3,6 +3,8 @@
 2. https://leetcode.com/problems/search-insert-position/description/
 3. https://leetcode.com/problems/guess-number-higher-or-lower/description/
 4. https://neetcode.io/problems/missing-number-in-arithmetic-progression/question ⭐️
+5. https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+6. https://leetcode.com/problems/find-peak-element/description/
 
 ## Binary Search First/Last Occurance
 1. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
