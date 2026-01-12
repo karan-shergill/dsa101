@@ -1,3 +1,5 @@
+# Binary Search (14)
+
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
 2. https://leetcode.com/problems/search-insert-position/description/
@@ -5,6 +7,10 @@
 4. https://neetcode.io/problems/missing-number-in-arithmetic-progression/question ⭐️
 5. https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 6. https://leetcode.com/problems/find-peak-element/description/
+7. https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/
+
+## Binary Search On Matrix
+1. https://leetcode.com/problems/search-a-2d-matrix/description/ ⭐️
 
 ## Binary Search First/Last Occurance
 1. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
