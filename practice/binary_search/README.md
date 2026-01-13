@@ -20,3 +20,5 @@
 1. https://leetcode.com/problems/arranging-coins/
 2. https://leetcode.com/problems/valid-perfect-square/description/
 4. https://leetcode.com/problems/sqrtx/description/
+5. https://leetcode.com/problems/koko-eating-bananas/description/
+6. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/ ⭐️
