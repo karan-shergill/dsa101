@@ -1,4 +1,4 @@
-# Binary Search (16)
+# Binary Search (17)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -22,3 +22,4 @@
 4. https://leetcode.com/problems/sqrtx/description/
 5. https://leetcode.com/problems/koko-eating-bananas/description/
 6. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/ ⭐️
+7. https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
