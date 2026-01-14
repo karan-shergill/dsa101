@@ -23,3 +23,4 @@
 5. https://leetcode.com/problems/koko-eating-bananas/description/
 6. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/ ⭐️
 7. https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
+8. https://leetcode.com/problems/house-robber-iv/description/ ⭐️⭐️
