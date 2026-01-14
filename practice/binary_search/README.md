@@ -1,4 +1,4 @@
-# Binary Search (19)
+# Binary Search (20)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
