@@ -1,4 +1,4 @@
-# Binary Search (20)
+# Binary Search (21)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -25,5 +25,6 @@
 5. https://leetcode.com/problems/koko-eating-bananas/description/
 6. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/ ⭐️
 7. https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
-8. https://leetcode.com/problems/house-robber-iv/description/ ⭐️⭐️
-9. https://leetcode.com/problems/minimum-time-to-repair-cars/description/ ⭐️⭐️
+8. https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/ ⭐️⭐️
+9. https://leetcode.com/problems/house-robber-iv/description/ ⭐️⭐️
+10. https://leetcode.com/problems/minimum-time-to-repair-cars/description/ ⭐️⭐️
