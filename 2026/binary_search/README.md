@@ -1,4 +1,4 @@
-# Binary Search (21)
+# Binary Search (22)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -10,6 +10,7 @@
 7. https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/
 8. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ ⭐️
 9. https://leetcode.com/problems/search-in-rotated-sorted-array/description/ ⭐️
+10. https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ⭐️
 
 ## Binary Search On Matrix
 1. https://leetcode.com/problems/search-a-2d-matrix/description/ ⭐️
