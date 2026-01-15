@@ -8,7 +8,7 @@
 5. https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 6. https://leetcode.com/problems/find-peak-element/description/
 7. https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/
-8. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+8. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ ⭐️
 9. https://leetcode.com/problems/search-in-rotated-sorted-array/description/ ⭐️⭐️
 
 ## Binary Search On Matrix
