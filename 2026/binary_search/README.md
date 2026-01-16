@@ -1,4 +1,4 @@
-# Binary Search (22)
+# Binary Search (24)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -29,3 +29,5 @@
 8. https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/ ⭐️⭐️
 9. https://leetcode.com/problems/house-robber-iv/description/ ⭐️⭐️
 10. https://leetcode.com/problems/minimum-time-to-repair-cars/description/ ⭐️⭐️
+11. https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/ ⭐️⭐️
+12. https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/ ⭐️⭐️
