@@ -1,4 +1,4 @@
-# Binary Search (28)
+# Binary Search (29)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -33,5 +33,6 @@
 11. https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/ ⭐️⭐️
 12. https://leetcode.com/problems/minimum-time-to-complete-trips/description/ ⭐️⭐️
 13. https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/ ⭐️⭐️
-14. https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/ ⭐️⭐️
-15. https://leetcode.com/problems/magnetic-force-between-two-balls/description/ ⭐️⭐️
+14. https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/ ⭐️
+15. https://www.geeksforgeeks.org/problems/aggressive-cows/1 ⭐️
+16. https://leetcode.com/problems/magnetic-force-between-two-balls/description/ ⭐️
