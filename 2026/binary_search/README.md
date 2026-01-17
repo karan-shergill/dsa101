@@ -1,4 +1,4 @@
-# Binary Search (29)
+# Binary Search (28)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -22,16 +22,16 @@
 ## Binary Search On Answer
 1. https://leetcode.com/problems/arranging-coins/
 2. https://leetcode.com/problems/valid-perfect-square/description/
-4. https://leetcode.com/problems/sqrtx/description/
-5. https://leetcode.com/problems/koko-eating-bananas/description/
-6. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/ ⭐️
-7. https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
-8. https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/ ⭐️⭐️
-9. https://leetcode.com/problems/house-robber-iv/description/ ⭐️⭐️
-10. https://leetcode.com/problems/minimum-time-to-repair-cars/description/ ⭐️⭐️
-11. https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/ ⭐️⭐️
-12. https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/ ⭐️⭐️
-13. https://leetcode.com/problems/minimum-time-to-complete-trips/description/ ⭐️⭐️
-14. https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/ ⭐️⭐️
-15. https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/ ⭐️⭐️
-16. https://leetcode.com/problems/magnetic-force-between-two-balls/description/ ⭐️⭐️
+3. https://leetcode.com/problems/sqrtx/description/
+4. https://leetcode.com/problems/koko-eating-bananas/description/
+5. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/ ⭐️
+6. https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
+7. https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/ ⭐️⭐️
+8. https://leetcode.com/problems/house-robber-iv/description/ ⭐️⭐️
+9. https://leetcode.com/problems/minimum-time-to-repair-cars/description/ ⭐️⭐️
+10. https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/ ⭐️⭐️
+11. https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/ ⭐️⭐️
+12. https://leetcode.com/problems/minimum-time-to-complete-trips/description/ ⭐️⭐️
+13. https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/ ⭐️⭐️
+14. https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/ ⭐️⭐️
+15. https://leetcode.com/problems/magnetic-force-between-two-balls/description/ ⭐️⭐️
