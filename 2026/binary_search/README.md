@@ -1,4 +1,4 @@
-# Binary Search (24)
+# Binary Search (29)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -31,3 +31,7 @@
 10. https://leetcode.com/problems/minimum-time-to-repair-cars/description/ ⭐️⭐️
 11. https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/ ⭐️⭐️
 12. https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/ ⭐️⭐️
+13. https://leetcode.com/problems/minimum-time-to-complete-trips/description/ ⭐️⭐️
+14. https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/ ⭐️⭐️
+15. https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/ ⭐️⭐️
+16. https://leetcode.com/problems/magnetic-force-between-two-balls/description/ ⭐️⭐️
