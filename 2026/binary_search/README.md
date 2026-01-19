@@ -1,4 +1,4 @@
-# Binary Search (31)
+# Binary Search (32)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -38,3 +38,4 @@
 16. https://leetcode.com/problems/magnetic-force-between-two-balls/description/ ⭐️
 17. https://leetcode.com/problems/split-array-largest-sum/description/ ⭐️⭐️⭐️
 18. https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1 ⭐️⭐️⭐️
+19. https://neetcode.io/problems/divide-chocolate/question ⭐️⭐️⭐️
