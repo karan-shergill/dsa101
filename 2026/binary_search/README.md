@@ -36,5 +36,5 @@
 14. https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/ ⭐️
 15. https://www.geeksforgeeks.org/problems/aggressive-cows/1 ⭐️
 16. https://leetcode.com/problems/magnetic-force-between-two-balls/description/ ⭐️
-17. https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1 ⭐️⭐️⭐️
-18. https://leetcode.com/problems/split-array-largest-sum/description/ ⭐️⭐️⭐️
+17. https://leetcode.com/problems/split-array-largest-sum/description/ ⭐️⭐️⭐️
+18. https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1 ⭐️⭐️⭐️
