@@ -1,4 +1,4 @@
-# Binary Search (29)
+# Binary Search (31)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -36,3 +36,5 @@
 14. https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/ ⭐️
 15. https://www.geeksforgeeks.org/problems/aggressive-cows/1 ⭐️
 16. https://leetcode.com/problems/magnetic-force-between-two-balls/description/ ⭐️
+17. https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1 ⭐️⭐️⭐️
+18. https://leetcode.com/problems/split-array-largest-sum/description/ ⭐️⭐️⭐️
