@@ -1,4 +1,4 @@
-# Binary Search (32)
+# Binary Search (34)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -11,6 +11,7 @@
 8. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ ⭐️
 9. https://leetcode.com/problems/search-in-rotated-sorted-array/description/ ⭐️
 10. https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ⭐️
+11. https://leetcode.com/problems/time-based-key-value-store/
 
 ## Binary Search On Matrix
 1. https://leetcode.com/problems/search-a-2d-matrix/description/ ⭐️
@@ -39,3 +40,4 @@
 17. https://leetcode.com/problems/split-array-largest-sum/description/ ⭐️⭐️⭐️
 18. https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1 ⭐️⭐️⭐️
 19. https://neetcode.io/problems/divide-chocolate/question ⭐️⭐️⭐️
+20. https://leetcode.com/problems/maximum-number-of-removable-characters/description/
