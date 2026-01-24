@@ -1,4 +1,4 @@
-# Binary Search (36)
+# Binary Search (37)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -13,6 +13,7 @@
 10. https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ⭐️
 11. https://leetcode.com/problems/time-based-key-value-store/
 12. https://leetcode.com/problems/most-beautiful-item-for-each-query/ ⭐️⭐️
+13. https://leetcode.com/problems/kth-missing-positive-number/description/ ⭐️⭐️
 
 ## Binary Search On Matrix
 1. https://leetcode.com/problems/search-a-2d-matrix/description/ ⭐️
