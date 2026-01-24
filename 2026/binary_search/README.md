@@ -1,4 +1,4 @@
-# Binary Search (35)
+# Binary Search (36)
 
 ## Straight Forward Binary Search
 1. https://leetcode.com/problems/binary-search/description/
@@ -20,6 +20,7 @@
 ## Binary Search First/Last Occurance
 1. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 2. https://neetcode.io/problems/check-if-a-number-is-majority-element-in-a-sorted-array/question ⭐️
+3. https://leetcode.com/problems/count-the-number-of-fair-pairs/description/ ⭐️⭐️
 
 ## Binary Search On Answer
 1. https://leetcode.com/problems/arranging-coins/
