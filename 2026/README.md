@@ -13,8 +13,7 @@
 11. Tries
 12. Graphs
 13. Advanced Graphs
-14. 1-D Dynamic Programming
-15. 2-D Dynamic Programming
-16. Greedy
-17. Intervals
-18. Design Qs
+14. Dynamic Programming 🔄
+15. Greedy
+16. Intervals
+17. Design Qs
