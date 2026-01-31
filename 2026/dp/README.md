@@ -11,3 +11,7 @@
 9. https://leetcode.com/problems/coin-change/description/ ⭐️
 10. https://leetcode.com/problems/unique-paths/
 11. https://leetcode.com/problems/unique-paths-ii/description/
+12. https://leetcode.com/problems/house-robber-ii/description/ ⭐️
+13. https://leetcode.com/problems/minimum-path-sum/description/
+14. https://leetcode.com/problems/triangle/description/
+15. https://leetcode.com/problems/cherry-pickup-ii/description/ ⭐️
