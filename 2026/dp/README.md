@@ -13,5 +13,6 @@
 11. https://leetcode.com/problems/unique-paths-ii/description/
 12. https://leetcode.com/problems/house-robber-ii/description/ ⭐️
 13. https://leetcode.com/problems/minimum-path-sum/description/
-14. https://leetcode.com/problems/triangle/description/
-15. https://leetcode.com/problems/cherry-pickup-ii/description/ ⭐️
+14. https://leetcode.com/problems/maximum-number-of-points-with-cost/description/ ⭐️
+15. https://leetcode.com/problems/triangle/description/
+16. https://leetcode.com/problems/cherry-pickup-ii/description/ ⭐️
