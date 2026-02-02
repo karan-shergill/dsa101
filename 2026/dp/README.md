@@ -16,3 +16,5 @@
 14. https://leetcode.com/problems/maximum-number-of-points-with-cost/description/ ⭐️
 15. https://leetcode.com/problems/triangle/description/
 16. https://leetcode.com/problems/cherry-pickup-ii/description/ ⭐️
+17. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ ⭐️
+18. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
