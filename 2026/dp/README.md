@@ -18,3 +18,6 @@
 16. https://leetcode.com/problems/cherry-pickup-ii/description/ ⭐️
 17. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/ ⭐️
 18. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+19. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
+20. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
+21. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/
