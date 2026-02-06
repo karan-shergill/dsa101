@@ -25,3 +25,6 @@
 23. https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 24. https://leetcode.com/problems/partition-equal-subset-sum/description/
 25. https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1 ⭐️
+26. https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1 ⭐️⭐️
+27. https://www.geeksforgeeks.org/problems/partitions-with-given-difference/0 ⭐️⭐️
+28. https://leetcode.com/problems/target-sum/ ⭐️⭐️
