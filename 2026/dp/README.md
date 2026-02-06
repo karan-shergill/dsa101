@@ -24,3 +24,4 @@
 22. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/ ⭐️
 23. https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 24. https://leetcode.com/problems/partition-equal-subset-sum/description/
+25. https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1 ⭐️
