@@ -1,0 +1,81 @@
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
+
+// RECURSIVE
+class Solution {
+
+    public int maxProfit(int k, int[] prices) {
+        return maxProfit(prices, 0, 0, k);
+    }
+
+    private int maxProfit(int[] prices, int currIndex, int buyOrSell, int transactionCount) {
+        // BASE CASE: no transaction pending
+        if (transactionCount == 0) {
+            return 0;
+        }
+
+        // BASE CASE: index of of bound
+        if (currIndex >= prices.length) {
+            return 0;
+        }
+
+        if (buyOrSell == 0) {
+            // no stock holding - need to buy
+            int buy = maxProfit(prices, currIndex + 1, 1, transactionCount) + (prices[currIndex] * (-1));
+            int dontBuy = maxProfit(prices, currIndex + 1, 0, transactionCount);
+
+            return Math.max(buy, dontBuy);
+        } else {
+            // stock holding - need to sell
+            int sell = maxProfit(prices, currIndex + 1, 0, transactionCount - 1) + prices[currIndex];
+            int dontSell = maxProfit(prices, currIndex + 1, 1, transactionCount);
+
+            return Math.max(sell, dontSell);
+        }
+    }
+}
+
+// TOP-DOWN
+class Solution {
+
+    public int maxProfit(int k, int[] prices) {
+        int[][][] cache = new int[prices.length][2][k + 1];
+        for (int i = 0; i < prices.length; i++) {
+            for (int j = 0; j < 2; j++) {
+                Arrays.fill(cache[i][j], -1);
+            }
+        }
+        return maxProfit(prices, 0, 0, k, cache);
+    }
+
+    private int maxProfit(int[] prices, int currIndex, int buyOrSell, int transactionCount, int[][][] cache) {
+        // BASE CASE: no transaction pending
+        if (transactionCount == 0) {
+            return 0;
+        }
+
+        // BASE CASE: index of of bound
+        if (currIndex >= prices.length) {
+            return 0;
+        }
+
+        if (cache[currIndex][buyOrSell][transactionCount] != -1) {
+            return cache[currIndex][buyOrSell][transactionCount];
+        }
+
+        if (buyOrSell == 0) {
+            // no stock holding - need to buy
+            int buy = maxProfit(prices, currIndex + 1, 1, transactionCount, cache) + (prices[currIndex] * (-1));
+            int dontBuy = maxProfit(prices, currIndex + 1, 0, transactionCount, cache);
+
+            cache[currIndex][buyOrSell][transactionCount] = Math.max(buy, dontBuy);
+        } else {
+            // stock holding - need to sell
+            int sell = maxProfit(prices, currIndex + 1, 0, transactionCount - 1, cache) + prices[currIndex];
+            int dontSell = maxProfit(prices, currIndex + 1, 1, transactionCount, cache);
+
+            cache[currIndex][buyOrSell][transactionCount] = Math.max(sell, dontSell);
+        }
+
+        return cache[currIndex][buyOrSell][transactionCount];
+    }
+}
