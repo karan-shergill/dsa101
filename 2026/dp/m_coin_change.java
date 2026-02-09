@@ -2,76 +2,66 @@
 
 // RECURSIVE
 class Solution {
-
     public int coinChange(int[] coins, int amount) {
-        int count = coinChange(coins, amount, coins.length - 1);
+        int count = coinChange(coins, amount, 0);
         return count == Integer.MAX_VALUE ? -1 : count;
     }
 
-    private int coinChange(int[] coins, int amount, int index) {
-        // base case 1
+    private int coinChange(int[] coins, int amount, int currIndex) {
         if (amount == 0) {
             return 0;
         }
-        // base case 2
-        if (amount > 0 && index < 0) {
+
+        if (currIndex >= coins.length) {
             return Integer.MAX_VALUE;
         }
 
-        int takeCurrentCoin = Integer.MAX_VALUE;
-        if (amount >= coins[index]) {
-            // take current coin
-            int subResult = coinChange(coins, amount - coins[index], index);
-            if (subResult != Integer.MAX_VALUE) {
-                takeCurrentCoin = 1 + subResult;
+        int pick = Integer.MAX_VALUE;
+        if (amount >= coins[currIndex]) {
+            pick = coinChange(coins, amount - coins[currIndex], currIndex);
+            if (pick != Integer.MAX_VALUE) {
+                pick += 1;
             }
         }
-        // don't take current coin
-        int dontTakeCurrentCoin = coinChange(coins, amount, index - 1);
 
-        return Math.min(takeCurrentCoin, dontTakeCurrentCoin);
+        int dontPick = coinChange(coins, amount, currIndex + 1);
+
+        return Math.min(pick, dontPick);
     }
 }
 
 // TOP DOWN
 class Solution {
-
     public int coinChange(int[] coins, int amount) {
-        int [][] cache = new int[coins.length + 1][amount + 1];
-        for (int i=0; i<coins.length; i++) {
-            Arrays.fill(cache[i], -1);
-        }
-
-        int count = coinChange(coins, amount, coins.length - 1, cache);
+        Integer[][] cache = new Integer[amount + 1][coins.length];
+        int count = coinChange(coins, amount, 0, cache);
         return count == Integer.MAX_VALUE ? -1 : count;
     }
 
-    private int coinChange(int[] coins, int amount, int index, int[][] cache) {
-        // base case 1
+    private int coinChange(int[] coins, int amount, int currIndex, Integer[][] cache) {
         if (amount == 0) {
             return 0;
         }
-        // base case 2
-        if (amount > 0 && index < 0) {
+
+        if (currIndex >= coins.length) {
             return Integer.MAX_VALUE;
         }
 
-        if (cache[index][amount] != -1) {
-            return cache[index][amount];
+        if (cache[amount][currIndex] != null) {
+            return cache[amount][currIndex];
         }
 
-        int takeCurrentCoin = Integer.MAX_VALUE;
-        if (amount >= coins[index]) {
-            // take current coin
-            int subResult = coinChange(coins, amount - coins[index], index, cache);
-            if (subResult != Integer.MAX_VALUE) {
-                takeCurrentCoin = 1 + subResult;
+        int pick = Integer.MAX_VALUE;
+        if (amount >= coins[currIndex]) {
+            pick = coinChange(coins, amount - coins[currIndex], currIndex, cache);
+            if (pick != Integer.MAX_VALUE) {
+                pick += 1;
             }
         }
-        // don't take current coin
-        int dontTakeCurrentCoin = coinChange(coins, amount, index - 1, cache);
 
-        cache[index][amount] = Math.min(takeCurrentCoin, dontTakeCurrentCoin);
-        return cache[index][amount];
+        int dontPick = coinChange(coins, amount, currIndex + 1, cache);
+
+        cache[amount][currIndex] = Math.min(pick, dontPick);
+        return cache[amount][currIndex];
     }
 }
