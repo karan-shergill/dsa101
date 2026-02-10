@@ -30,3 +30,5 @@
 29. https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
 30. https://leetcode.com/problems/coin-change/description/ ⭐️
 31. https://leetcode.com/problems/coin-change-ii/description/
+32. https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1
+33. https://www.geeksforgeeks.org/problems/rod-cutting0840/1
