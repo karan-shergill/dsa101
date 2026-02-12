@@ -34,4 +34,5 @@
 33. https://www.geeksforgeeks.org/problems/rod-cutting0840/1
 34. https://leetcode.com/problems/longest-common-subsequence/
 35. https://leetcode.com/problems/longest-palindromic-subsequence/description/
-36. https://www.naukri.com/code360/problems/print-longest-common-subsequence_8416383 ⭐️
+36. https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/
+37. https://www.naukri.com/code360/problems/print-longest-common-subsequence_8416383 ⭐️
