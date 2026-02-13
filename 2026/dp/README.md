@@ -39,3 +39,4 @@
 38. https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/
 39. https://www.naukri.com/code360/problems/print-longest-common-subsequence_8416383 ⭐️
 40. https://leetcode.com/problems/shortest-common-supersequence/description/ ⭐️
+41. https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
