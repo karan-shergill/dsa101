@@ -40,3 +40,5 @@
 39. https://www.naukri.com/code360/problems/print-longest-common-subsequence_8416383 ⭐️
 40. https://leetcode.com/problems/shortest-common-supersequence/description/ ⭐️
 41. https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1
+42. https://leetcode.com/problems/distinct-subsequences/description/ ⭐️
+43. https://leetcode.com/problems/edit-distance/description/ ⭐️⭐️
