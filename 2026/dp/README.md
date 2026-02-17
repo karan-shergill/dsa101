@@ -44,3 +44,4 @@
 43. https://leetcode.com/problems/edit-distance/description/ ⭐️⭐️
 44. https://leetcode.com/problems/wildcard-matching/description/ ⭐️⭐️
 45. https://leetcode.com/problems/longest-increasing-subsequence/description/ ⭐️
+46. https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1
