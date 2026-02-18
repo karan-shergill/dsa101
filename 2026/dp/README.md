@@ -45,3 +45,5 @@
 44. https://leetcode.com/problems/wildcard-matching/description/ ⭐️⭐️
 45. https://leetcode.com/problems/longest-increasing-subsequence/description/ ⭐️
 46. https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1
+47. https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/0
+48. https://www.naukri.com/code360/problems/longest-decreasing-subsequence_800300
