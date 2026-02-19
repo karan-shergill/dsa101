@@ -47,3 +47,5 @@
 46. https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1
 47. https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/0
 48. https://www.naukri.com/code360/problems/longest-decreasing-subsequence_800300
+49. https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1 ⭐️⭐️
+50. https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/ ⭐️⭐️
