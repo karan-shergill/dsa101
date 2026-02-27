@@ -7,3 +7,7 @@
 5. https://leetcode.com/problems/binary-tree-level-order-traversal/description/
 6. https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
 7. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
+8. https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1
+9. https://leetcode.com/problems/invert-binary-tree/description/
+10. https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+11. https://leetcode.com/problems/balanced-binary-tree/description/
