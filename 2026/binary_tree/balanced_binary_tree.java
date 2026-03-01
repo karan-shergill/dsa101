@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/balanced-binary-tree/description/
 
+// DFS
 // Recursive
 class Solution {
 
