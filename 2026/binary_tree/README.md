@@ -14,3 +14,10 @@
 13. https://leetcode.com/problems/binary-tree-maximum-path-sum/description/ ⭐️⭐️
 14. https://leetcode.com/problems/same-tree/description/
 15. https://leetcode.com/problems/symmetric-tree/description/
+16. https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+17. https://leetcode.com/problems/binary-tree-right-side-view/description/
+18. https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1 ⭐️⭐️
+19. https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/ ⭐️⭐️⭐️
+20. https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1 ⭐️
+21. https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1 ⭐️
+22. https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1 ⭐️⭐️
