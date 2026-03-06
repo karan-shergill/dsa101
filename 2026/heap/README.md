@@ -10,3 +10,5 @@
 8. https://leetcode.com/problems/ugly-number-ii/ ⭐️⭐️
 9. https://leetcode.com/problems/reorganize-string/description/ ⭐️
 10. https://leetcode.com/problems/find-k-closest-elements/description/
+11. https://www.naukri.com/code360/problems/ninja-favourite-string_1460386
+12. https://leetcode.com/problems/merge-k-sorted-lists/description/ ⭐️
