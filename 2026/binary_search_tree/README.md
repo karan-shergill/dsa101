@@ -7,3 +7,4 @@
 5. https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/ ⭐️
 6. https://leetcode.com/problems/validate-binary-search-tree/description/ ⭐️⭐️
 7. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+8. https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/
