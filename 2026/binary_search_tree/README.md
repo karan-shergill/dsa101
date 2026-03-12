@@ -5,3 +5,4 @@
 3. https://leetcode.com/problems/insert-into-a-binary-search-tree/description/
 4. https://leetcode.com/problems/delete-node-in-a-bst/description/ ⭐️
 5. https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/ ⭐️
+6. https://leetcode.com/problems/validate-binary-search-tree/description/ ⭐️⭐️
