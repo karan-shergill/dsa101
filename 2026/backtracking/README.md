@@ -5,4 +5,4 @@
 3. https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
 4. https://leetcode.com/problems/word-search/description/
 5. https://www.geeksforgeeks.org/problems/find-all-possible-paths-from-top-to-bottom/1
-6. https://leetcode.com/problems/palindrome-partitioning/description/ ⭐️⭐️
+6. https://leetcode.com/problems/palindrome-partitioning/description/ ⭐️⭐️⭐️
