@@ -5,3 +5,4 @@
 3. https://leetcode.com/problems/counting-words-with-a-given-prefix/description/
 4. https://leetcode.com/problems/longest-common-prefix/description/ ⭐️
 5. https://leetcode.com/problems/longest-word-in-dictionary/ ⭐️
+6. https://leetcode.com/problems/replace-words/description/ ⭐️⭐️
