@@ -8,3 +8,5 @@
 6. https://leetcode.com/problems/flood-fill/description/
 7. https://leetcode.com/problems/rotting-oranges/description/
 8. https://leetcode.com/problems/number-of-enclaves/description/
+9. https://leetcode.com/problems/max-area-of-island/description/
+10. https://leetcode.com/problems/01-matrix/description/ ⭐️⭐️
