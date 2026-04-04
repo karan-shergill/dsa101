@@ -10,3 +10,6 @@
 8. https://leetcode.com/problems/number-of-enclaves/description/
 9. https://leetcode.com/problems/max-area-of-island/description/
 10. https://leetcode.com/problems/01-matrix/description/ ⭐️⭐️
+11. https://leetcode.com/problems/map-of-highest-peak/description/
+12. https://www.naukri.com/code360/problems/walls-and-gates_1092887 ⭐️⭐️
+13. https://leetcode.com/problems/surrounded-regions/description/
