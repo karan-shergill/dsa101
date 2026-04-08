@@ -5,3 +5,4 @@
 3. https://leetcode.com/problems/insert-interval/description/ 
 4. https://leetcode.com/problems/remove-covered-intervals/description/ ⭐️
 5. https://leetcode.com/problems/non-overlapping-intervals/description/ ⭐️⭐️
+6. https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/ ⭐️⭐️
