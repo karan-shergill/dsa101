@@ -1,4 +1,4 @@
-# DSA problems i did in 2026 - 202
+# DSA problems i did in 2026 (202)
 
 ## Backtracking (11)
 1. https://leetcode.com/problems/permutations/description/ ⭐️
