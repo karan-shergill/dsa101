@@ -6,22 +6,24 @@
 
 ## Table of Contents
 
-### **Total Problems: 375**
+### **Total Problems: 414**
 
 | **Topic** | **Problems** | **Patterns** |
 |-------------|----------------|------------------|
 | [Linked List](#linked-list-40) | **40** | Fast & Slow Pointer, Reversal, Merging |
-| [Binary Search](#binary-search-30) | **30** | Search Space Reduction, Binary Search on Answer |
-| [Two Pointer](#two-pointer-26) | **26** | Left-Right Pointer, Fast-Slow Pointer, Merging |
+| [Binary Search](#binary-search-48) | **48** | Search Space Reduction, Binary Search on Answer |
+| [Two Pointer](#two-pointer-29) | **29** | Left-Right Pointer, Fast-Slow Pointer, Merging |
 | [Sliding Window](#sliding-window-44) | **44** | Fixed Window, Variable Window, Counting |
 | [Stack & Queue](#stack--queue-35) | **35** | Monotonic Stack, Bracket Matching, Expression Evaluation |
 | [Binary Tree](#binary-tree-37) | **37** | Tree Traversal, Path Finding, Construction |
 | [Binary Search Tree](#binary-search-tree-15) | **15** | Search & Insert, Tree Validation, Iterator |
-| [Heap](#heap-30) | **30** | Top K Elements, Merge K Sorted, Two Heaps |
+| [Heap](#heap-31) | **31** | Top K Elements, Merge K Sorted, Two Heaps |
 | [Backtracking](#backtracking-18) | **18** | Generate All Solutions, Constraint Satisfaction |
-| [Dynamic Programming](#dynamic-programming-47) | **47** | Optimization Problems, Counting Problems, Decision Problems |
+| [Dynamic Programming](#dynamic-programming-53) | **53** | Optimization Problems, Counting Problems, Decision Problems |
 | [Trie](#trie-10) | **10** | Prefix Matching, Word Search, Auto-complete |
-| [Graph](#graph-43) | **43** | BFS/DFS Traversal, Shortest Path, Topological Sort |
+| [Graph](#graph-45) | **45** | BFS/DFS Traversal, Shortest Path, Topological Sort |
+| [Greedy](#greedy) | **2** | Greedy Choice, Local Optimum |
+| [Intervals](#intervals) | **7** | Overlap Detection, Merge, Scheduling |
 
 ---
 
@@ -74,7 +76,7 @@
 15. Flatten The Multi-Level Single Linked List [[code360](https://www.naukri.com/code360/problems/flatten-the-multi-level-linked-list_839810)] ⭐️
 16. Flatten a Multilevel Doubly Linked List [[leetcode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/)] ⭐️
 
-## Binary Search (30)
+## Binary Search (48)
 
 1. Binary Search (Iterative & recursive) [[leetcode](https://leetcode.com/problems/binary-search/description/)] [[code360](https://www.naukri.com/code360/problems/binary-search_972)] [[gfg](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)]
 2. Lower Bound [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)]
@@ -83,6 +85,7 @@
 5. Floor and Ceil in Sorted Array [[code360](https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401)] [[gfg](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)]
 6. First and last occurrence [[leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/first-and-last-position-of-an-element-in-sorted-array_1082549)] [[gfg](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)]
     1. Number of occurrences [[code360](https://www.naukri.com/code360/problems/occurrence-of-x-in-a-sorted-array_630456)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)]
+    2. Count the Number of Fair Pairs [[leetcode](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/)] ⭐️⭐️
 7. Search in Rotated Sorted Array I [[leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-rotated-sorted-array_630450)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1)] ⭐️
 8. Search in Rotated Sorted Array II [[leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-rotated-sorted-array-ii_7449547)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-rotated-array-2/1)] ⭐️
 9. Find Minimum in Rotated Sorted Array [[leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/rotated-array_1093219)] [[gfg](https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1)] ⭐️
@@ -90,6 +93,7 @@
 10. Single Element in a Sorted Array [[leetcode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)] [[code360](https://www.naukri.com/code360/problems/unique-element-in-sorted-array_1112654)] [[gfg](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1)] ⭐️
 11. Find Peak Element [[leetcode](https://leetcode.com/problems/find-peak-element/description/)] [[code360](https://www.naukri.com/code360/problems/find-peak-element_1081482)] [[gfg](https://www.geeksforgeeks.org/problems/peak-element/1)] ⭐️
     1. Find a Peak Element II [[leetcode](https://leetcode.com/problems/find-a-peak-element-ii/description/)] ⭐️
+    2. Find in Mountain Array [[leetcode](https://leetcode.com/problems/find-in-mountain-array/description/)] ⭐️⭐️
 12. [Binary Search on Answer](https://youtu.be/IZP_8-JZqhM?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) min_of(max) | max_of(min) [[link1](https://leetcode.com/discuss/study-guide/3444552/binary-search-on-answer-template-generic-template)] [[link2](https://leetcode.com/discuss/study-guide/3816970/List-on%3A-Binary-Search-On-Answer-(5step-solution))]
     1. Square Root of a number [[leetcode](https://leetcode.com/problems/sqrtx/description/)] [[code360](https://www.naukri.com/code360/problems/square-root-integral_893351)] [[gfg](https://www.geeksforgeeks.org/problems/square-root/1)]
     2. Find Nth Root Of M [[code360](https://www.naukri.com/code360/problems/nth-root-of-m_1062679)] [[gfg](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1)]
@@ -102,13 +106,29 @@
         1. Allocate Minimum Pages [[code360](https://www.naukri.com/code360/problems/allocate-books_1090540)] [[gfg](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)] ⭐️
         2. Painter's Partition Problem [[code360](https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557)] [[gfg](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1)] ⭐️
         3. Capacity To Ship Packages Within D Days [[leetcode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)] [[code360](https://www.naukri.com/code360/problems/capacity-to-ship-packages-within-d-days_1229379)] [[gfg](https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1)] ⭐️
+    7. Arranging Coins [[leetcode](https://leetcode.com/problems/arranging-coins/description/)]
+    8. Valid Perfect Square [[leetcode](https://leetcode.com/problems/valid-perfect-square/description/)]
+    9. Maximum Candies Allocated to K Children [[leetcode](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/)]
+    10. Minimize the Maximum Difference of Pairs [[leetcode](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)] ⭐️⭐️
+    11. House Robber IV [[leetcode](https://leetcode.com/problems/house-robber-iv/description/)] ⭐️⭐️
+    12. Minimum Time to Repair Cars [[leetcode](https://leetcode.com/problems/minimum-time-to-repair-cars/description/)] ⭐️⭐️
+    13. Minimized Maximum of Products Distributed to Any Store [[leetcode](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/)] ⭐️⭐️
+    14. Minimum Time to Complete Trips [[leetcode](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)] ⭐️⭐️
+    15. Minimum Speed to Arrive on Time [[leetcode](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/)] ⭐️⭐️
+    16. Magnetic Force Between Two Balls [[leetcode](https://leetcode.com/problems/magnetic-force-between-two-balls/description/)] ⭐️
+    17. Maximum Number of Removable Characters [[leetcode](https://leetcode.com/problems/maximum-number-of-removable-characters/description/)]
 13. Median of Two Sorted Arrays [[leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)] [[code360](https://www.naukri.com/code360/problems/median-of-two-sorted-arrays_985294)] [[gfg](https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1)] ⭐️
     1. K-th Element of Two Sorted Arrays [[code360](https://www.naukri.com/code360/problems/k-th-element-of-2-sorted-array_1164159)] [[gfg](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)] ⭐️
 14. Row with max 1s [[code360](https://www.naukri.com/code360/problems/row-of-a-matrix-with-maximum-ones_982768)] [[gfg](https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1)]
 15. Search a 2D Matrix [[leetcode](https://leetcode.com/problems/search-a-2d-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix_980531)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1)] ⭐️
 16. Search a 2D Matrix II [[leetcode](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)] [[code360](https://www.naukri.com/code360/problems/search-in-a-2d-matrix-ii_1089637)] [[gfg](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)] ⭐️
+17. Guess Number Higher or Lower [[leetcode](https://leetcode.com/problems/guess-number-higher-or-lower/description/)]
+18. Successful Pairs of Spells and Potions [[leetcode](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/)]
+19. Time Based Key-Value Store [[leetcode](https://leetcode.com/problems/time-based-key-value-store/description/)]
+20. Most Beautiful Item for Each Query [[leetcode](https://leetcode.com/problems/most-beautiful-item-for-each-query/description/)] ⭐️⭐️
+21. Kth Missing Positive Number [[leetcode](https://leetcode.com/problems/kth-missing-positive-number/description/)] ⭐️
 
-## Two Pointer (26)
+## Two Pointer (29)
 
 1. Left/Right Pointer (12)
     1. Valid Palindrome [[leetcode](https://leetcode.com/problems/valid-palindrome/description/)] [[gfg](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)] ⭐️
@@ -131,6 +151,8 @@
     5. Valid Word Abbreviation [[leetcode](https://leetcode.com/problems/valid-word-abbreviation/description/)] [[code360](https://www.naukri.com/code360/problems/valid-word-abbreviations_1171044)]
     6. Interval List Intersections [[leetcode](https://leetcode.com/problems/interval-list-intersections/description/)] [[code360](https://www.naukri.com/code360/problems/interval-list-intersection_1104723)] [[gfg](https://www.geeksforgeeks.org/problems/interval-list-intersections/0)] ⭐️
     7. Meeting Scheduler [[leetcode](https://leetcode.com/problems/meeting-scheduler/description/)] [[gfg](https://www.geeksforgeeks.org/problems/earliest-common-slot/1)] ⭐️
+    8. Append Characters to String to Make Subsequence [[leetcode](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/)]
+    9. Adding Spaces to a String [[leetcode](https://leetcode.com/problems/adding-spaces-to-a-string/description/)]
 3. Slow & Fast Pointer (7)
     1. Remove Element [[leetcode](https://leetcode.com/problems/remove-element/description/)]
     2. Move Zeroes To End [[leetcode](https://leetcode.com/problems/move-zeroes/description/)] [[code360](https://www.naukri.com/code360/problems/interview-shuriken-41-move-zeroes-to-end_240143)] [[gfg](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)]
@@ -139,6 +161,7 @@
     5. Find the Duplicate Number [[leetcode](https://leetcode.com/problems/find-the-duplicate-number/description/)] [[code360](https://www.naukri.com/code360/problems/find-duplicate-in-array_1112602)] ⭐️
     6. Happy Number [[leetcode](https://leetcode.com/problems/happy-number/description/)] ⭐️
     7. Reverse Words in a String [[leetcode](https://leetcode.com/problems/reverse-words-in-a-string/description/)] [[code360](https://www.naukri.com/code360/problems/reverse-words_696444)] [[gfg](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1)] ⭐️
+    8. String Compression [[leetcode](https://leetcode.com/problems/string-compression/description/)]
 
 ## Sliding Window (44)
 
@@ -289,7 +312,7 @@
 13. Largest BST in Binary Tree [[leetcode](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/largest-bst-subtree_893103)] [[gfg](https://www.geeksforgeeks.org/problems/largest-bst/1)] ⭐️
 14. Convert Binary Search Tree to Sorted Doubly Linked List [[leetcode](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)] ⭐️
 
-## Heap (30)
+## Heap (31)
 
 1. Basic (7)
     1. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)]
@@ -312,6 +335,7 @@
     10. Find K Closest Elements [[leetcode](https://leetcode.com/problems/find-k-closest-elements/description/)] [[code360](https://www.naukri.com/code360/problems/find-k-closest-elements_1263702)] [[gfg](https://www.geeksforgeeks.org/problems/k-closest-elements3619/0)] ⭐️
     11. Rearrange String k Distance Apart [[leetcode](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)] [[code360](https://www.naukri.com/code360/problems/ninja-favourite-string_1460386)] ⭐️
     12. Employee Free Time [[leetcode](https://leetcode.com/problems/employee-free-time/description/)] ⭐️
+    13. Design Event Manager [[leetcode](https://leetcode.com/problems/design-event-manager/description/)] ⭐️⭐️
 3. Merge K sorted pattern (4)
     1. Merge K-Sorted Lists [[leetcode](https://leetcode.com/problems/merge-k-sorted-lists/description/)] [[code360](https://www.naukri.com/code360/problems/merge-k-sorted-lists_992772)] [[gfg](https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)] ⭐️
     2. Merge k Sorted Arrays [[code360](https://www.naukri.com/code360/problems/merge-k-sorted-arrays_975379)] [[gfg](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1)]
@@ -348,7 +372,7 @@
 17. Sudoku Solver [[leetcode](https://leetcode.com/problems/sudoku-solver/description/)] [[gfg](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1)] ⭐️
 18. Word Break II [[leetcode](https://leetcode.com/problems/word-break-ii/description/)] [[code360](https://www.naukri.com/code360/problems/983635)] [[gfg](https://www.geeksforgeeks.org/problems/word-break-part-23249/1)] ⭐️
 
-## Dynamic Programming (47)
+## Dynamic Programming (53)
 
 1. Climbing Stairs [[leetcode](https://leetcode.com/problems/climbing-stairs/description/)] [[code360](https://www.naukri.com/code360/problems/count-ways-to-reach-nth-stairs_798650)] [[gfg](https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1)]
     1. Min Cost Climbing Stairs [[leetcode](https://leetcode.com/problems/min-cost-climbing-stairs/description/)] [[gfg](https://www.geeksforgeeks.org/problems/min-cost-climbing-stairs/1)] ⭐️
@@ -363,6 +387,7 @@
     1. Unique paths II [[leetcode](https://leetcode.com/problems/unique-paths-ii/description/)] [[code360](https://www.naukri.com/code360/problems/maze-obstacles_977241)]
 8. Minimum path sum in grid
     1. Triangle Path Sum [[leetcode](https://leetcode.com/problems/triangle/description/)] [[code360](https://www.naukri.com/code360/problems/triangle_1229398)] [[gfg](https://www.geeksforgeeks.org/problems/triangle-path-sum/1)]
+    2. Maximum Number of Points with Cost [[leetcode](https://leetcode.com/problems/maximum-number-of-points-with-cost/description/)] ⭐️
 9. Cherry pickup II [[leetcode](https://leetcode.com/problems/cherry-pickup-ii/description/)] [[code360](https://www.naukri.com/code360/problems/ninja-and-his-friends_3125885)] [[gfg](https://www.geeksforgeeks.org/problems/chocolates-pickup/1)] ⭐️
 10. Stock Buy And Sell With Single Transaction Allowed [[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)] [[code360](https://www.naukri.com/code360/problems/stocks-are-profitable_893405)] [[gfg](https://www.geeksforgeeks.org/problems/buy-stock-2/1)]
 11. Stock Buy And Sell With Multiple Transaction Allowed [[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)] [[code360](https://www.naukri.com/code360/problems/selling-stock_630282)] [[gfg](https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1)] ⭐️
@@ -370,6 +395,7 @@
     2. Stock Buy And Sell With Max K Transactions Allowed [[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)] [[code360](https://www.naukri.com/code360/problems/best-time-to-buy-and-sell-stock_1080698)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-profit4657/1)]
     3. Best Time To Buy And Sell Stock With Cooldown [[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)] [[code360](https://www.naukri.com/code360/problems/highway-billboards_3125969)] [[gfg](https://www.geeksforgeeks.org/problems/buy-stock-with-cooldown/1)]
     4. Best Time To Buy And Sell Stock With Transaction Fees [[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)] [[code360](https://www.naukri.com/code360/problems/best-time-to-buy-and-sell-stock-with-transaction-fee_3118974)] [[gfg](https://www.geeksforgeeks.org/problems/buy-stock-with-transaction-fee/1)]
+    5. Best Time to Buy and Sell Stock V [[leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/)] ⭐️
 12. Subset Sum Equal To Target [[code360](https://www.naukri.com/code360/problems/subset-sum-equal-to-k_1550954)] [[gfg](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)] ⭐️
     1. Partition Equal Subset Sum [[leetcode](https://leetcode.com/problems/partition-equal-subset-sum/description/)] [[code360](https://www.naukri.com/code360/problems/partition-equal-subset-sum_892980)] [[gfg](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1)]
     2. Count subsets with sum K [[code360](https://www.naukri.com/code360/problems/count-subsets-with-sum-k_3952532)] [[gfg](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1)]
@@ -397,6 +423,10 @@
     2. Minimum number of deletions array sorted sequence [[gfg](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/0)]
     3. Longest Decreasing Subsequence [[code360](https://www.naukri.com/code360/problems/longest-decreasing-subsequence_800300)]
     4. Longest Bitonic subsequence [[code360](https://www.naukri.com/code360/problems/longest-bitonic-sequence_1062688)] [[gfg](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)]
+    5. Number of Longest Increasing Subsequence [[leetcode](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)] ⭐️
+    6. Minimum Number of Removals to Make Mountain Array [[leetcode](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/)] ⭐️⭐️
+22. Longest Palindromic Substring [[leetcode](https://leetcode.com/problems/longest-palindromic-substring/description/)]
+    1. Palindromic Substrings [[leetcode](https://leetcode.com/problems/palindromic-substrings/description/)]
 
 ## Trie (10)
 
@@ -411,7 +441,7 @@
 9. Remove Sub-Folders from the Filesystem [[leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)] ⭐️
 10. Word Search II [[leetcode](https://leetcode.com/problems/word-search-ii/description/)] [[code360](https://www.naukri.com/code360/problems/word-search_630520)] [[gfg](https://www.geeksforgeeks.org/problems/word-search-ii/0)] ⭐️
 
-## Graph (43)
+## Graph (45)
 
 1. BFS (Breadth First Search)
     1. Connected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy67xg7)] [[code360](https://www.naukri.com/code360/problems/bfs-in-graph_973002)] [[gfg](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)]
@@ -436,6 +466,8 @@
     10. Surrounded Regions - Replace ‘O’ With ‘X’ [[leetcode](https://leetcode.com/problems/surrounded-regions/description/)] [[code360](https://www.naukri.com/code360/problems/replace-o-with-x_630517)] [[gfg](https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1)]
     11. Number of Distinct Islands [[leetcode](https://leetcode.com/problems/number-of-distinct-islands/description/)] [[code360](https://www.naukri.com/code360/problems/distinct-islands_630460)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/0)] ⭐️
     12. Shortest Bridge [[leetcode](https://leetcode.com/problems/shortest-bridge/description/)] [[code360](https://www.naukri.com/code360/problems/shortest-bridge_1105571)] ⭐️
+    13. Map of Highest Peak [[leetcode](https://leetcode.com/problems/map-of-highest-peak/description/)]
+    14. Multi Source Flood Fill [[leetcode](https://leetcode.com/problems/multi-source-flood-fill/description/)] ⭐️⭐️
 4. Cycle Detection in Undirected Graph
     1. Via BFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
     2. Via DFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
@@ -466,6 +498,21 @@
 10. Bellman-Ford Algorithm [[gfg](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1)]
     1. Negative weight cycle [[gfg](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1)]
     2. Cheapest flight within K stops [[leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)] [[code360](https://www.naukri.com/code360/problems/saving-money_1171195)] [[gfg](https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1?page=1&sortBy=newest&query=page1sortBynewest)] ⭐️
+
+## Greedy
+
+1. Lemonade Change [[leetcode](https://leetcode.com/problems/lemonade-change/description/)]
+2. Maximum Subarray [[leetcode](https://leetcode.com/problems/maximum-subarray/description/)] ⭐️
+
+## Intervals
+
+1. Merge Intervals [[leetcode](https://leetcode.com/problems/merge-intervals/description/)] ⭐️
+2. Insert Interval [[leetcode](https://leetcode.com/problems/insert-interval/description/)]
+3. Remove Covered Intervals [[leetcode](https://leetcode.com/problems/remove-covered-intervals/description/)] ⭐️
+4. Non-Overlapping Intervals [[leetcode](https://leetcode.com/problems/non-overlapping-intervals/description/)] ⭐️⭐️
+5. Minimum Number of Arrows to Burst Balloons [[leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)] ⭐️⭐️
+6. Divide Intervals into Minimum Number of Groups [[leetcode](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)]
+7. Interval List Intersections [[leetcode](https://leetcode.com/problems/interval-list-intersections/description/)] ⭐️⭐️⭐️
 
 ---
 
