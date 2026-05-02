@@ -502,7 +502,7 @@
 ## Greedy
 
 1. Lemonade Change [[leetcode](https://leetcode.com/problems/lemonade-change/description/)]
-2. Maximum Subarray [[leetcode](https://leetcode.com/problems/maximum-subarray/description/)] ⭐️
+2. Maximum Subarray [[leetcode](https://leetcode.com/problems/maximum-subarray/description/)] (Kadane's Algorithm) ⭐️ 
 
 ## Intervals
 
