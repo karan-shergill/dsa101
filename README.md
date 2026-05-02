@@ -502,8 +502,9 @@
 ## Greedy
 
 1. Lemonade Change [[leetcode](https://leetcode.com/problems/lemonade-change/description/)]
-2. Maximum Subarray [[leetcode](https://leetcode.com/problems/maximum-subarray/description/)] (Kadane's Algorithm) ⭐️
-3. Smallest sum contiguous subarray [[gfg](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1)] (Kadane's Algorithm) ⭐️
+2. Assign Cookies[[leetcode](https://leetcode.com/problems/assign-cookies/description/)]
+3. Maximum Subarray [[leetcode](https://leetcode.com/problems/maximum-subarray/description/)] (Kadane's Algorithm) ⭐️
+4. Smallest sum contiguous subarray [[gfg](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1)] (Kadane's Algorithm) ⭐️
 
 ## Intervals
 
