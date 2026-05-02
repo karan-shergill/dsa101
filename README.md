@@ -502,7 +502,8 @@
 ## Greedy
 
 1. Lemonade Change [[leetcode](https://leetcode.com/problems/lemonade-change/description/)]
-2. Maximum Subarray [[leetcode](https://leetcode.com/problems/maximum-subarray/description/)] (Kadane's Algorithm) ⭐️ 
+2. Maximum Subarray [[leetcode](https://leetcode.com/problems/maximum-subarray/description/)] (Kadane's Algorithm) ⭐️
+3. Smallest sum contiguous subarray [[gfg](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1)] (Kadane's Algorithm) ⭐️
 
 ## Intervals
 
@@ -513,85 +514,3 @@
 5. Minimum Number of Arrows to Burst Balloons [[leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)] ⭐️⭐️
 6. Divide Intervals into Minimum Number of Groups [[leetcode](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)]
 7. Interval List Intersections [[leetcode](https://leetcode.com/problems/interval-list-intersections/description/)] ⭐️⭐️⭐️
-
----
-
-## Problem Patterns Overview
-
-### **Linked List Patterns**
-- **Fast & Slow Pointer**: Cycle detection, middle node, nth node from end
-- **Reversal Pattern**: Reverse entire list, reverse in groups, reverse sublist
-- **Merging Pattern**: Merge two sorted lists, merge k sorted lists, flatten multilevel
-- **Two Pointer**: Intersection, palindrome check, remove duplicates
-
-### **Binary Search Patterns**
-- **Search Space Reduction**: Find target, first/last occurrence, peak element
-- **Binary Search on Answer**: Minimum/maximum optimization problems
-- **Matrix Search**: 2D matrix search, rotated sorted array
-- **Range Query**: Lower bound, upper bound, floor/ceil
-
-### **Two Pointer Patterns**
-- **Left-Right Pointer**: Palindrome check, two sum, three sum, container with water
-- **Fast-Slow Pointer**: Remove duplicates, move zeros, find duplicate
-- **Merging Pattern**: Merge sorted arrays, intersection of arrays
-- **Opposite Direction**: Reverse operations, valid palindrome
-
-### **Sliding Window Patterns**
-- **Fixed Window**: Maximum sum subarray, anagrams in string, fixed size problems
-- **Variable Window**: Longest substring problems, minimum window substring
-- **Counting Pattern**: Count subarrays/substrings with conditions
-- **Shrinking Window**: Find minimum/maximum window satisfying condition
-
-### **Stack & Queue Patterns**
-- **Monotonic Stack**: Next greater/smaller element, largest rectangle
-- **Bracket Matching**: Valid parentheses, minimum removals
-- **Expression Evaluation**: Calculator, decode string, simplify path
-- **Stack for Recursion**: Iterative tree traversal, backtracking simulation
-
-### **Binary Tree Patterns**
-- **Tree Traversal**: Preorder, inorder, postorder (recursive, iterative, Morris)
-- **Path Finding**: Root to leaf paths, path sum, diameter
-- **Construction**: Build tree from traversals, serialize/deserialize
-- **Level Order**: BFS traversal, connect nodes, zigzag traversal
-
-### **Binary Search Tree Patterns**
-- **Search & Insert**: Find node, insert node, delete node
-- **Tree Validation**: Check if valid BST, recover BST
-- **Iterator Pattern**: In-order traversal iterator, two sum in BST
-- **Range Operations**: Range sum, kth smallest/largest element
-
-### **Heap Patterns**
-- **Top K Elements**: Kth largest/smallest, top k frequent elements
-- **Merge K Sorted**: Merge k sorted lists/arrays, smallest range
-- **Two Heaps**: Find median, sliding window median
-- **Minimum Number**: Minimum cost problems, task scheduling
-
-### **Backtracking Patterns**
-- **Generate All Solutions**: Permutations, combinations, subsets
-- **Constraint Satisfaction**: N-Queens, Sudoku solver, word search
-- **Path Finding**: All paths, palindrome partitioning
-- **Optimization**: Maximum/minimum with constraints
-
-### **Dynamic Programming Patterns**
-- **Linear DP**: Fibonacci, climbing stairs, house robber
-- **Grid DP**: Unique paths, minimum path sum, cherry pickup
-- **Subsequence DP**: Longest increasing subsequence, edit distance
-- **Partition DP**: Subset sum, coin change, knapsack problems
-- **Interval DP**: Matrix chain multiplication, palindrome partitioning
-- **State Machine DP**: Stock problems, paint house
-
-### **Trie Patterns**
-- **Prefix Matching**: Longest common prefix, word search
-- **Word Search**: Find words in grid, word break problems
-- **Auto-complete**: Implement search suggestions
-- **String Processing**: Count distinct substrings, replace words
-
-### **Graph Patterns**
-- **BFS/DFS Traversal**: Connected components, island problems
-- **Shortest Path**: Dijkstra, Bellman-Ford, Floyd-Warshall
-- **Topological Sort**: Course schedule, alien dictionary
-- **Cycle Detection**: Detect cycles in directed/undirected graphs
-- **Bipartite Check**: Graph coloring, partition into two sets
-- **Union Find**: Connected components, redundant connections
-
----
