@@ -505,6 +505,9 @@
 2. Assign Cookies[[leetcode](https://leetcode.com/problems/assign-cookies/description/)]
 3. Maximum Subarray [[leetcode](https://leetcode.com/problems/maximum-subarray/description/)] (Kadane's Algorithm) ⭐️
 4. Smallest sum contiguous subarray [[gfg](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1)] (Kadane's Algorithm) ⭐️
+5. Maximum Sum Circular Subarray [[leetcode](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)] (Kadane's Algorithm) ⭐️⭐️
+6. Jump Game [[leetcode](https://leetcode.com/problems/jump-game/description/)] ⭐️
+7. Jump Game II [[leetcode](https://leetcode.com/problems/jump-game-ii/description/)] ⭐️⭐️
 
 ## Intervals
 
