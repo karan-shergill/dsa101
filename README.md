@@ -343,7 +343,6 @@
     4. Kth Smallest Element in a Sorted Matrix [[leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)] [[gfg](https://www.geeksforgeeks.org/problems/kth-element-in-matrix/1)] ⭐️
 4. Minimum number Pattern (5)
     1. Minimum Cost to connect sticks/ropes [[leetcode](https://leetcode.com/problems/minimum-cost-to-connect-sticks/description/)] [[code360](https://www.naukri.com/code360/problems/minimum-cost-to-connect-sticks_1402396)] [[gfg](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)]
-    2. Meeting Rooms II [[leetcode](https://leetcode.com/problems/meeting-rooms-ii/description/)] [[code360](https://www.naukri.com/code360/problems/meeting-room-ii_893289)] [[gfg](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1)] ⭐️
     3. Task Scheduler [[leetcode](https://leetcode.com/problems/task-scheduler/description/)] [[code360](https://www.naukri.com/code360/problems/task-scheduler_1070424)] [[gfg](https://www.geeksforgeeks.org/problems/task-scheduler/0)] ⭐️
     4. Minimum Number of Refueling Stops [[leetcode](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)] ⭐️
     5. Minimum Cost to Hire K Workers [[leetcode](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)] ⭐️
@@ -508,6 +507,7 @@
 5. Maximum Sum Circular Subarray [[leetcode](https://leetcode.com/problems/maximum-sum-circular-subarray/description/)] (Kadane's Algorithm) ⭐️⭐️
 6. Jump Game [[leetcode](https://leetcode.com/problems/jump-game/description/)] ⭐️
 7. Jump Game II [[leetcode](https://leetcode.com/problems/jump-game-ii/description/)] ⭐️⭐️
+8. Job Sequencing Problem [[gfg](https://www.geeksforgeeks.org/problems/job-sequencing-problem--170647/1)] ⭐️⭐️
 
 ## Intervals
 
@@ -519,3 +519,5 @@
 6. Divide Intervals into Minimum Number of Groups [[leetcode](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)]
 7. Interval List Intersections [[leetcode](https://leetcode.com/problems/interval-list-intersections/description/)] ⭐️⭐️⭐️
 8. N meetings in one room [[gfg](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)]
+9. Meeting Rooms II [[leetcode](https://leetcode.com/problems/meeting-rooms-ii/description/)] [[code360](https://www.naukri.com/code360/problems/meeting-room-ii_893289)] [[gfg](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1)] ⭐️
+10. Minimum Platforms [[gfg](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)] ⭐️
