@@ -518,3 +518,4 @@
 5. Minimum Number of Arrows to Burst Balloons [[leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)] ⭐️⭐️
 6. Divide Intervals into Minimum Number of Groups [[leetcode](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)]
 7. Interval List Intersections [[leetcode](https://leetcode.com/problems/interval-list-intersections/description/)] ⭐️⭐️⭐️
+8. N meetings in one room [[gfg](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)]
