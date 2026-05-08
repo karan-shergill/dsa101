@@ -416,15 +416,16 @@
     7. Shortest common super sequence [[leetcode](https://leetcode.com/problems/shortest-common-supersequence/)] [[code360](https://www.naukri.com/code360/problems/shortest-supersequence_4244493)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1)] ⭐️
 18. Distinct subsequences [[leetcode](https://leetcode.com/problems/distinct-subsequences/description/)] [[code360](https://www.naukri.com/code360/problems/distinct-subsequences_981277)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1)]
 19. Edit distance [[leetcode](https://leetcode.com/problems/edit-distance/description/)] [[code360](https://www.naukri.com/code360/problems/edit-distance_630420)] [[gfg](https://www.geeksforgeeks.org/problems/edit-distance3702/1)] ⭐️
-20. Wildcard matching [[leetcode](https://leetcode.com/problems/wildcard-matching/description/)] [[code360](https://www.naukri.com/code360/problems/wildcard-pattern-matching_701650)] [[gfg](https://www.geeksforgeeks.org/problems/wildcard-pattern-matching/1)] ⭐️
-21. Longest Increasing Subsequence [[leetcode](https://leetcode.com/problems/longest-increasing-subsequence/description/)] [[code360](https://www.naukri.com/code360/problems/longest-increasing-subsequence_630459)] [[gfg](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1)] ⭐️
+20. Valid Parenthesis String [[leetcode](https://leetcode.com/problems/valid-parenthesis-string/description/)]
+21. Wildcard matching [[leetcode](https://leetcode.com/problems/wildcard-matching/description/)] [[code360](https://www.naukri.com/code360/problems/wildcard-pattern-matching_701650)] [[gfg](https://www.geeksforgeeks.org/problems/wildcard-pattern-matching/1)] ⭐️
+22. Longest Increasing Subsequence [[leetcode](https://leetcode.com/problems/longest-increasing-subsequence/description/)] [[code360](https://www.naukri.com/code360/problems/longest-increasing-subsequence_630459)] [[gfg](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1)] ⭐️
     1. Maximum Sum Subsequence [[code360](https://www.naukri.com/code360/problems/maximum-sum-subsequence_1230547)] [[gfg](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1)]
     2. Minimum number of deletions array sorted sequence [[gfg](https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-to-make-a-sorted-sequence3248/0)]
     3. Longest Decreasing Subsequence [[code360](https://www.naukri.com/code360/problems/longest-decreasing-subsequence_800300)]
     4. Longest Bitonic subsequence [[code360](https://www.naukri.com/code360/problems/longest-bitonic-sequence_1062688)] [[gfg](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1)]
     5. Number of Longest Increasing Subsequence [[leetcode](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)] ⭐️
     6. Minimum Number of Removals to Make Mountain Array [[leetcode](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/)] ⭐️⭐️
-22. Longest Palindromic Substring [[leetcode](https://leetcode.com/problems/longest-palindromic-substring/description/)]
+23. Longest Palindromic Substring [[leetcode](https://leetcode.com/problems/longest-palindromic-substring/description/)]
     1. Palindromic Substrings [[leetcode](https://leetcode.com/problems/palindromic-substrings/description/)]
 
 ## Trie (10)
