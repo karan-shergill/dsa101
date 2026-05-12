@@ -513,6 +513,7 @@
 10. Hand of Straights [[leetcode](https://leetcode.com/problems/hand-of-straights/description/)] [[gfg](https://www.geeksforgeeks.org/problems/hands-of-straights/1)] ⭐️⭐️
 11. Partition Labels [[leetcode](https://leetcode.com/problems/partition-labels/description/)] [[gfg](https://www.geeksforgeeks.org/problems/partition-the-array--170647/1)] [[code360](https://www.naukri.com/code360/problems/partition-labels_1233437)]
 12. Candy [[leetcode](https://leetcode.com/problems/candy/description/)] [[gfg](http://geeksforgeeks.org/problems/candy/1)] [[code360](https://www.naukri.com/code360/problems/candies_893290)]
+13. Minimum Initial Energy to Finish Tasks [[leetcode](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/)]
 
 ## Intervals
 
