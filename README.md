@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-### **Total Problems: 435**
+### **Total Problems: 434**
 
 | **Topic** | **Problems** | **Patterns** |
 |-------------|----------------|------------------|
@@ -23,7 +23,7 @@
 | [Trie](#trie-10) | **10** | Prefix Matching, Word Search, Auto-complete |
 | [Graph](#graph-45) | **45** | BFS/DFS Traversal, Shortest Path, Topological Sort |
 | [Greedy](#greedy-13) | **13** | Greedy Choice, Local Optimum |
-| [Intervals](#intervals-18) | **18** | Overlap Detection, Merge, Scheduling |
+| [Intervals](#intervals-17) | **17** | Overlap Detection, Merge, Scheduling |
 
 ---
 
@@ -515,7 +515,7 @@
 12. Candy [[leetcode](https://leetcode.com/problems/candy/description/)] [[gfg](http://geeksforgeeks.org/problems/candy/1)] [[code360](https://www.naukri.com/code360/problems/candies_893290)]
 13. Minimum Initial Energy to Finish Tasks [[leetcode](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/)]
 
-## Intervals (18)
+## Intervals (17)
 
 1. Merge Intervals [[leetcode](https://leetcode.com/problems/merge-intervals/description/)]
 2. Insert Interval [[leetcode](https://leetcode.com/problems/insert-interval/description/)] 
@@ -534,4 +534,3 @@
 15.  My Calendar II [[leetcode](https://leetcode.com/problems/my-calendar-ii/description/)] ⭐️⭐️
 16. Employee Free Time [[leetcode](https://www.lintcode.com/problem/850)] ⭐️⭐️
 17. Meeting Rooms III [[leetcode](https://leetcode.com/problems/meeting-rooms-iii/description/)] ⭐️⭐️
-18. Minimum Interval to Include Each Query [[leetcode](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/)] ⭐️⭐️
