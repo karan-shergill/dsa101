@@ -167,9 +167,20 @@
 15. https://www.geeksforgeeks.org/problems/number-of-distinct-islands/0 ⭐️⭐️
 16. https://leetcode.com/problems/multi-source-flood-fill/description/ ⭐️⭐️
 
-## Greedy (2)
-1. https://leetcode.com/problems/lemonade-change/description/
-2. https://leetcode.com/problems/maximum-subarray/description/ ⭐️
+## Greedy (13)
+1. [https://leetcode.com/problems/lemonade-change/description/](https://leetcode.com/problems/lemonade-change/description/) ⭐️
+2. [https://leetcode.com/problems/assign-cookies/description/](https://leetcode.com/problems/assign-cookies/description/)
+3. [https://leetcode.com/problems/maximum-subarray/description/](https://leetcode.com/problems/maximum-subarray/description/) ⭐️
+4. [https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1) ⭐️
+5. [https://leetcode.com/problems/maximum-sum-circular-subarray/description/](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) ⭐️⭐️
+6. [https://leetcode.com/problems/jump-game/description/](https://leetcode.com/problems/jump-game/description/) ⭐️
+7. [https://leetcode.com/problems/jump-game-ii/description/](https://leetcode.com/problems/jump-game-ii/description/) ⭐️⭐️
+8. [https://www.geeksforgeeks.org/problems/job-sequencing-problem--170647/1](https://www.geeksforgeeks.org/problems/job-sequencing-problem--170647/1) ⭐️⭐️
+9. [https://leetcode.com/problems/gas-station/description/](https://leetcode.com/problems/gas-station/description/) ⭐️
+10. [https://leetcode.com/problems/hand-of-straights/description/](https://leetcode.com/problems/hand-of-straights/description/) ⭐️⭐️
+11. [https://leetcode.com/problems/partition-labels/description/](https://leetcode.com/problems/partition-labels/description/)
+12. [https://leetcode.com/problems/candy/description/](https://leetcode.com/problems/candy/description/)
+13. [https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/)
 
 ## Heap (15)
 1. https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
