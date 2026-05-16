@@ -1,4 +1,4 @@
-# DSA problems done in 2026 (202)
+# DSA problems done in 2026 (220)
 
 ## Backtracking (11)
 1. https://leetcode.com/problems/permutations/description/ ⭐️
@@ -249,4 +249,4 @@
 4. https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 5. https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/ ⭐️
 
-## LeetCode Contest Given In 2026: 12
+## LeetCode Contest Given In 2026 (12)
