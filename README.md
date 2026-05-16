@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-### **Total Problems: 414**
+### **Total Problems: 435**
 
 | **Topic** | **Problems** | **Patterns** |
 |-------------|----------------|------------------|
@@ -17,13 +17,13 @@
 | [Stack & Queue](#stack--queue-35) | **35** | Monotonic Stack, Bracket Matching, Expression Evaluation |
 | [Binary Tree](#binary-tree-37) | **37** | Tree Traversal, Path Finding, Construction |
 | [Binary Search Tree](#binary-search-tree-15) | **15** | Search & Insert, Tree Validation, Iterator |
-| [Heap](#heap-31) | **31** | Top K Elements, Merge K Sorted, Two Heaps |
+| [Heap](#heap-30) | **30** | Top K Elements, Merge K Sorted, Two Heaps |
 | [Backtracking](#backtracking-18) | **18** | Generate All Solutions, Constraint Satisfaction |
 | [Dynamic Programming](#dynamic-programming-53) | **53** | Optimization Problems, Counting Problems, Decision Problems |
 | [Trie](#trie-10) | **10** | Prefix Matching, Word Search, Auto-complete |
 | [Graph](#graph-45) | **45** | BFS/DFS Traversal, Shortest Path, Topological Sort |
-| [Greedy](#greedy) | **2** | Greedy Choice, Local Optimum |
-| [Intervals](#intervals) | **7** | Overlap Detection, Merge, Scheduling |
+| [Greedy](#greedy-13) | **13** | Greedy Choice, Local Optimum |
+| [Intervals](#intervals-18) | **18** | Overlap Detection, Merge, Scheduling |
 
 ---
 
@@ -312,7 +312,7 @@
 13. Largest BST in Binary Tree [[leetcode](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)] [[code360](https://www.naukri.com/code360/problems/largest-bst-subtree_893103)] [[gfg](https://www.geeksforgeeks.org/problems/largest-bst/1)] ⭐️
 14. Convert Binary Search Tree to Sorted Doubly Linked List [[leetcode](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/description/)] ⭐️
 
-## Heap (31)
+## Heap (30)
 
 1. Basic (7)
     1. Build heap from a given Array [[code360](https://www.naukri.com/code360/problems/build-heap_975375)]
@@ -499,7 +499,7 @@
     1. Negative weight cycle [[gfg](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1)]
     2. Cheapest flight within K stops [[leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)] [[code360](https://www.naukri.com/code360/problems/saving-money_1171195)] [[gfg](https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1?page=1&sortBy=newest&query=page1sortBynewest)] ⭐️
 
-## Greedy
+## Greedy (13)
 
 1. Lemonade Change [[leetcode](https://leetcode.com/problems/lemonade-change/description/)]
 2. Assign Cookies[[leetcode](https://leetcode.com/problems/assign-cookies/description/)]
@@ -515,7 +515,7 @@
 12. Candy [[leetcode](https://leetcode.com/problems/candy/description/)] [[gfg](http://geeksforgeeks.org/problems/candy/1)] [[code360](https://www.naukri.com/code360/problems/candies_893290)]
 13. Minimum Initial Energy to Finish Tasks [[leetcode](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/)]
 
-## Intervals
+## Intervals (18)
 
 1. Merge Intervals [[leetcode](https://leetcode.com/problems/merge-intervals/description/)]
 2. Insert Interval [[leetcode](https://leetcode.com/problems/insert-interval/description/)] 
