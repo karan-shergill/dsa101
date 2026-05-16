@@ -517,13 +517,21 @@
 
 ## Intervals
 
-1. Merge Intervals [[leetcode](https://leetcode.com/problems/merge-intervals/description/)] ⭐️
-2. Insert Interval [[leetcode](https://leetcode.com/problems/insert-interval/description/)]
-3. Remove Covered Intervals [[leetcode](https://leetcode.com/problems/remove-covered-intervals/description/)] ⭐️
-4. Non-Overlapping Intervals [[leetcode](https://leetcode.com/problems/non-overlapping-intervals/description/)] ⭐️⭐️
-5. Minimum Number of Arrows to Burst Balloons [[leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)] ⭐️⭐️
-6. Divide Intervals into Minimum Number of Groups [[leetcode](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)]
-7. Interval List Intersections [[leetcode](https://leetcode.com/problems/interval-list-intersections/description/)] ⭐️⭐️⭐️
-8. N meetings in one room [[gfg](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)]
-9. Meeting Rooms II [[leetcode](https://leetcode.com/problems/meeting-rooms-ii/description/)] [[code360](https://www.naukri.com/code360/problems/meeting-room-ii_893289)] [[gfg](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1)] ⭐️
-10. Minimum Platforms [[gfg](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)] ⭐️
+1. Merge Intervals [[leetcode](https://leetcode.com/problems/merge-intervals/description/)]
+2. Insert Interval [[leetcode](https://leetcode.com/problems/insert-interval/description/)] 
+3. Meeting Rooms [[gfg](https://www.geeksforgeeks.org/problems/attend-all-meetings/1)] 
+4. N meetings in one room [[gfg](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)] ⭐️
+5. Non-overlapping Intervals [[leetcode](https://leetcode.com/problems/non-overlapping-intervals/description/)] 
+6. Minimum Number of Arrows to Burst Balloons [[leetcode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)] 
+7. Remove Covered Intervals [[leetcode](https://leetcode.com/problems/remove-covered-intervals/description/)] 
+8. Count Days Without Meetings [[leetcode](https://leetcode.com/problems/count-days-without-meetings/description/)] 
+9. Meeting Rooms II [[gfg](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1)] ⭐️
+10. Minimum Platforms [[gfg](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)]
+11. Divide Intervals Into Minimum Number of Groups [[leetcode](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)] ⭐️
+12. The Number of the Smallest Unoccupied Chair [[leetcode](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/)] ⭐️⭐️
+13. My Calendar I [[leetcode](https://leetcode.com/problems/my-calendar-i/description/)] ⭐️
+14. Interval List Intersections [[leetcode](https://leetcode.com/problems/interval-list-intersections/description/)] ⭐️
+15.  My Calendar II [[leetcode](https://leetcode.com/problems/my-calendar-ii/description/)] ⭐️⭐️
+16. Employee Free Time [[leetcode](https://www.lintcode.com/problem/850)] ⭐️⭐️
+17. Meeting Rooms III [[leetcode](https://leetcode.com/problems/meeting-rooms-iii/description/)] ⭐️⭐️
+18. Minimum Interval to Include Each Query [[leetcode](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/)] ⭐️⭐️
