@@ -199,17 +199,25 @@
 14. https://leetcode.com/problems/find-k-pairs-with-smallest-sums/ ⭐️
 15. https://leetcode.com/problems/design-event-manager/description/ ⭐️⭐️
 
-## Intervals (10)
-1. https://www.geeksforgeeks.org/problems/attend-all-meetings/1
-2. https://leetcode.com/problems/merge-intervals/description/ ⭐️
-3. https://leetcode.com/problems/insert-interval/description/
-4. https://leetcode.com/problems/remove-covered-intervals/description/ ⭐️
-5. https://leetcode.com/problems/non-overlapping-intervals/description/ ⭐️⭐️
-6. https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/ ⭐️⭐️
-7. https://www.geeksforgeeks.org/problems/intersecting-intervals/1
-8. https://neetcode.io/problems/meeting-schedule-ii/question ⭐️⭐️⭐️
-9. https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/
-10. https://leetcode.com/problems/interval-list-intersections/description/ ⭐️⭐️⭐️
+## Intervals (17)
+1. [https://leetcode.com/problems/merge-intervals/description/](https://leetcode.com/problems/merge-intervals/description/)
+2. [https://leetcode.com/problems/insert-interval/description/](https://leetcode.com/problems/insert-interval/description/)
+3. [https://www.geeksforgeeks.org/problems/attend-all-meetings/1](https://www.geeksforgeeks.org/problems/attend-all-meetings/1)
+4. [https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) ⭐️
+5. [https://leetcode.com/problems/non-overlapping-intervals/description/](https://leetcode.com/problems/non-overlapping-intervals/description/)
+6. [https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
+7. [https://leetcode.com/problems/remove-covered-intervals/description/](https://leetcode.com/problems/remove-covered-intervals/description/)
+8. [https://leetcode.com/problems/count-days-without-meetings/description/](https://leetcode.com/problems/count-days-without-meetings/description/)
+9. [https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1](https://www.geeksforgeeks.org/problems/attend-all-meetings-ii/1) ⭐️
+10. [https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
+11. [https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) ⭐️
+12. [https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/) ⭐️⭐️
+13. [https://leetcode.com/problems/my-calendar-i/description/](https://leetcode.com/problems/my-calendar-i/description/) ⭐️
+14. [https://leetcode.com/problems/interval-list-intersections/description/](https://leetcode.com/problems/interval-list-intersections/description/) ⭐️
+15. [https://leetcode.com/problems/my-calendar-ii/description/](https://leetcode.com/problems/my-calendar-ii/description/) ⭐️⭐️
+16. [https://www.lintcode.com/problem/850](https://www.lintcode.com/problem/850) ⭐️⭐️
+17. [https://leetcode.com/problems/meeting-rooms-iii/description/](https://leetcode.com/problems/meeting-rooms-iii/description/) ⭐️⭐️
+
 
 ## Linked List (10)
 1. https://leetcode.com/problems/reverse-linked-list/description/
