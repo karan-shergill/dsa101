@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-### **Total Problems: 435**
+### **Total Problems: 443**
 
 | **Topic** | **Problems** | **Patterns** |
 |-------------|----------------|------------------|
@@ -24,6 +24,7 @@
 | [Graph](#graph-46) | **46** | BFS/DFS Traversal, Shortest Path, Topological Sort |
 | [Greedy](#greedy-13) | **13** | Greedy Choice, Local Optimum |
 | [Intervals](#intervals-17) | **17** | Overlap Detection, Merge, Scheduling |
+| [Matrix](#matrix-8) | **8** | Traversal, Rotation, In-Place Updates, Simulation |
 
 ---
 
