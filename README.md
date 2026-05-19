@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-### **Total Problems: 434**
+### **Total Problems: 435**
 
 | **Topic** | **Problems** | **Patterns** |
 |-------------|----------------|------------------|
@@ -21,7 +21,7 @@
 | [Backtracking](#backtracking-18) | **18** | Generate All Solutions, Constraint Satisfaction |
 | [Dynamic Programming](#dynamic-programming-53) | **53** | Optimization Problems, Counting Problems, Decision Problems |
 | [Trie](#trie-10) | **10** | Prefix Matching, Word Search, Auto-complete |
-| [Graph](#graph-45) | **45** | BFS/DFS Traversal, Shortest Path, Topological Sort |
+| [Graph](#graph-46) | **46** | BFS/DFS Traversal, Shortest Path, Topological Sort |
 | [Greedy](#greedy-13) | **13** | Greedy Choice, Local Optimum |
 | [Intervals](#intervals-17) | **17** | Overlap Detection, Merge, Scheduling |
 
@@ -441,7 +441,7 @@
 9. Remove Sub-Folders from the Filesystem [[leetcode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/)] ⭐️
 10. Word Search II [[leetcode](https://leetcode.com/problems/word-search-ii/description/)] [[code360](https://www.naukri.com/code360/problems/word-search_630520)] [[gfg](https://www.geeksforgeeks.org/problems/word-search-ii/0)] ⭐️
 
-## Graph (45)
+## Graph (46)
 
 1. BFS (Breadth First Search)
     1. Connected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy67xg7)] [[code360](https://www.naukri.com/code360/problems/bfs-in-graph_973002)] [[gfg](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)]
@@ -468,6 +468,7 @@
     12. Shortest Bridge [[leetcode](https://leetcode.com/problems/shortest-bridge/description/)] [[code360](https://www.naukri.com/code360/problems/shortest-bridge_1105571)] ⭐️
     13. Map of Highest Peak [[leetcode](https://leetcode.com/problems/map-of-highest-peak/description/)]
     14. Multi Source Flood Fill [[leetcode](https://leetcode.com/problems/multi-source-flood-fill/description/)] ⭐️⭐️
+    15. Game of Life [[leetcode](https://leetcode.com/problems/game-of-life/description/)] ⭐️
 4. Cycle Detection in Undirected Graph
     1. Via BFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
     2. Via DFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
