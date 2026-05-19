@@ -535,3 +535,13 @@
 15.  My Calendar II [[leetcode](https://leetcode.com/problems/my-calendar-ii/description/)] ⭐️⭐️
 16. Employee Free Time [[leetcode](https://www.lintcode.com/problem/850)] ⭐️⭐️
 17. Meeting Rooms III [[leetcode](https://leetcode.com/problems/meeting-rooms-iii/description/)] ⭐️⭐️
+
+## Matrix (8)
+1. Transpose Matrix [[leetcode](https://leetcode.com/problems/transpose-matrix/description/)]
+2. Spiral Matrix [[leetcode](https://leetcode.com/problems/spiral-matrix/description/)] ⭐️
+3. Spiral Matrix II [[leetcode](https://leetcode.com/problems/spiral-matrix-ii/description/)]
+4. Diagonal Traverse [[leetcode](https://leetcode.com/problems/diagonal-traverse/description/)] ⭐️
+5. Rotate Image [[leetcode](https://leetcode.com/problems/rotate-image/description/)]
+6. Valid Sudoku [[leetcode](https://leetcode.com/problems/valid-sudoku/description/)] ⭐️
+7. Set Matrix Zeroes [[leetcode](https://leetcode.com/problems/set-matrix-zeroes/description/)] ⭐️⭐️
+8. Candy Crush [[leetcode](https://www.lintcode.com/problem/858/)] ⭐️⭐️
