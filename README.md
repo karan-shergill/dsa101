@@ -455,7 +455,7 @@
         1. Connected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy7dcpd)] [[code360](https://www.naukri.com/code360/problems/dfs-traversal_630462)] [[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)]
         2. Unconnected Directed/Undirected Graph [[code](https://onecompiler.com/java/43gy7dmrk)] [[code360](https://www.naukri.com/code360/problems/dfs-traversal_630462)] [[gfg](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)]
 3. BFS & DFS Traversal Problems
-    1. Number of Connected Components in an Undirected Graph [[leetcode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-provinces/1)]
+    1. Number of Connected Components in an Undirected Graph [[leetcode](https://www.lintcode.com/problem/3651/)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-provinces/1)]
     2. Number of Provinces [[leetcode](https://leetcode.com/problems/number-of-provinces/description/)] [[code360](https://www.naukri.com/code360/problems/find-the-number-of-states_1377943)] [[gfg](https://www.geeksforgeeks.org/problems/number-of-provinces/1)]
     3. Number of Islands [[leetcode](https://www.lintcode.com/problem/433)] [[code360](https://www.naukri.com/code360/problems/number-of-islands_845181)] [[gfg](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1)]
     4. Flood Fill [[leetcode](https://leetcode.com/problems/flood-fill/description/)] [[code360](https://www.naukri.com/code360/problems/flood-fill-algorithm_1089687)] [[gfg](https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1)]
