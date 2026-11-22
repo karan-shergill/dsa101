@@ -477,7 +477,7 @@
     13. Map of Highest Peak [[leetcode](https://leetcode.com/problems/map-of-highest-peak/description/)]
     14. Multi Source Flood Fill [[leetcode](https://leetcode.com/problems/multi-source-flood-fill/description/)] ⭐️⭐️
     15. Game of Life [[leetcode](https://leetcode.com/problems/game-of-life/description/)] ⭐️
-4. Cycle Detection in Undirected Graph
+4. Cycle Detection in Undirected Graph ⭐️
     1. Via BFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
     2. Via DFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
 5. Is Graph Bipartite?
