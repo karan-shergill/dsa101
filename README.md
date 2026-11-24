@@ -477,6 +477,8 @@
     13. Map of Highest Peak [[leetcode](https://leetcode.com/problems/map-of-highest-peak/description/)]
     14. Multi Source Flood Fill [[leetcode](https://leetcode.com/problems/multi-source-flood-fill/description/)] ⭐️⭐️
     15. Game of Life [[leetcode](https://leetcode.com/problems/game-of-life/description/)] ⭐️
+    16. Word Ladder I [[leetcode](https://leetcode.com/problems/word-ladder/description/)] [[code360](https://www.naukri.com/code360/problems/word-ladder_1102319)] [[gfg](https://www.geeksforgeeks.org/problems/word-ladder/1)] ⭐️
+    17. Word Ladder II [[leetcode](https://leetcode.com/problems/word-ladder-ii/description/)] [[gfg](https://www.geeksforgeeks.org/problems/word-ladder-ii/1)] ⭐️
 4. Cycle Detection in Undirected Graph ⭐️
     1. Via BFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
     2. Via DFS (Connected / Unconnected Graph) [[code360](https://www.naukri.com/code360/problems/detect-cycle-in-an-undirected-graph_758967)] [[code360](https://www.naukri.com/code360/problems/cycle-detection-in-undirected-graph_1062670)] [[gfg](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)]
@@ -496,8 +498,6 @@
     4. Alien Dictionary [[leetcode](https://leetcode.com/problems/alien-dictionary/description/)] [[code360](https://www.naukri.com/code360/problems/alien-dictionary_630423)] [[gfg](https://www.geeksforgeeks.org/problems/alien-dictionary/1)] ⭐️
     5. Shortest path in Directed Acyclic Graph [[code360](https://www.naukri.com/code360/problems/shortest-path-in-dag_8381897)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)] ⭐️
     6. Shortest Path in Undirected Graph [[code360](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)]
-    7. Word Ladder I [[leetcode](https://leetcode.com/problems/word-ladder/description/)] [[code360](https://www.naukri.com/code360/problems/word-ladder_1102319)] [[gfg](https://www.geeksforgeeks.org/problems/word-ladder/1)] ⭐️
-    8. Word Ladder II [[leetcode](https://leetcode.com/problems/word-ladder-ii/description/)] [[gfg](https://www.geeksforgeeks.org/problems/word-ladder-ii/1)] ⭐️
 9. Dijkstra Algorithm [[gfg](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)]
     1. Shortest Path in Weighted undirected graph [[code360](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1)]
     2. Shortest Path in Binary Matrix [[leetcode](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)] [[code360](https://www.naukri.com/code360/problems/shortest-path-in-a-binary-maze_893065)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1)] ⭐️
