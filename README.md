@@ -496,7 +496,7 @@
     2. Course Schedule [[leetcode](https://leetcode.com/problems/course-schedule/description/)] [[code360](https://www.naukri.com/code360/problems/course-schedule_985288)] [[gfg](https://www.geeksforgeeks.org/problems/prerequisite-tasks/1)]
     3. Course Schedule II [[leetcode](https://leetcode.com/problems/course-schedule-ii/description/)] [[code360](https://www.naukri.com/code360/problems/course-schedule-ii_1069243)] [[gfg](https://www.geeksforgeeks.org/problems/course-schedule/1)] ⭐️
     4. Alien Dictionary [[leetcode](https://leetcode.com/problems/alien-dictionary/description/)] [[code360](https://www.naukri.com/code360/problems/alien-dictionary_630423)] [[gfg](https://www.geeksforgeeks.org/problems/alien-dictionary/1)] ⭐️
-    5. Shortest path in Directed Acyclic Graph [[code360](https://www.naukri.com/code360/problems/shortest-path-in-dag_8381897)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)] ⭐️
+    5. Shortest path in Directed Acyclic Graph [[code360](https://www.naukri.com/code360/problems/shortest-path-in-dag_8381897)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)] ⭐️⭐️
     6. Shortest Path in Undirected Graph [[code360](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)]
 9. Dijkstra Algorithm [[gfg](https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1)]
     1. Shortest Path in Weighted undirected graph [[code360](https://www.naukri.com/code360/problems/shortest-path-in-an-unweighted-graph_981297)] [[gfg](https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1)]
